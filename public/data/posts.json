@@ -13,8 +13,8 @@
       "engagement": 58,
       "momentum": 3.3,
       "normalized_engagement": 1,
-      "normalized_momentum": 0.4893617021276595,
-      "composite_score": 0.745,
+      "normalized_momentum": 0.47916666666666663,
+      "composite_score": 0.74,
       "timeAgo": "17 hours ago"
     },
     {
@@ -24,14 +24,14 @@
       "author": "Independent_Shame984",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1saokqx/my_life_us_pretty_effing_good_today/",
       "created_utc": 1775152426,
-      "score": 22,
+      "score": 23,
       "num_comments": 1,
       "upvote_ratio": 1,
-      "engagement": 24,
-      "momentum": 5.7,
-      "normalized_engagement": 0.02857142857142857,
+      "engagement": 25,
+      "momentum": 5.8,
+      "normalized_engagement": 0.05714285714285714,
       "normalized_momentum": 1,
-      "composite_score": 0.514,
+      "composite_score": 0.529,
       "timeAgo": "4 hours ago"
     },
     {
@@ -41,14 +41,14 @@
       "author": "Accomplished-Town618",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1sa6xut/medication_convo/",
       "created_utc": 1775102300,
-      "score": 2,
+      "score": 6,
       "num_comments": 11,
-      "upvote_ratio": 0.67,
-      "engagement": 24,
-      "momentum": 1.3,
-      "normalized_engagement": 0.02857142857142857,
-      "normalized_momentum": 0.06382978723404256,
-      "composite_score": 0.046,
+      "upvote_ratio": 1,
+      "engagement": 28,
+      "momentum": 1.5,
+      "normalized_engagement": 0.14285714285714285,
+      "normalized_momentum": 0.10416666666666667,
+      "composite_score": 0.124,
       "timeAgo": "18 hours ago"
     },
     {
@@ -60,16 +60,16 @@
       "created_utc": 1775095674,
       "score": 6,
       "num_comments": 9,
-      "upvote_ratio": 1,
+      "upvote_ratio": 0.88,
       "engagement": 24,
       "momentum": 1.2,
       "normalized_engagement": 0.02857142857142857,
-      "normalized_momentum": 0.042553191489361694,
-      "composite_score": 0.036,
-      "timeAgo": "19 hours ago"
+      "normalized_momentum": 0.04166666666666666,
+      "composite_score": 0.035,
+      "timeAgo": "20 hours ago"
     }
   ],
   "totalScanned": 6,
-  "fetchedAt": "2026-04-02T22:07:00.748Z",
-  "fetchTime": 7.1
+  "fetchedAt": "2026-04-02T22:11:36.476Z",
+  "fetchTime": 7.2
 }
