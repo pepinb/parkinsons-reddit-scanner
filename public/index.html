@@ -17,6 +17,27 @@
 
     <main id="posts"></main>
 
+    <section class="explainer">
+      <button class="explainer__toggle" id="explainer-toggle" aria-expanded="false" aria-controls="explainer-content">How do these rankings work?</button>
+      <div class="explainer__content" id="explainer-content" hidden>
+        <h3>The Metrics</h3>
+        <p><strong>Momentum (engagements/hr)</strong><br>
+        How fast a post is gaining traction. Total engagement divided by the post's age in hours. A 2-hour-old post with 20 engagements has momentum of 10/hr &mdash; it's rising fast. A 20-hour-old post with the same engagement has just 1/hr &mdash; it's plateaued.</p>
+        <p><strong>Score &amp; Comments</strong><br>
+        Raw engagement signals from Reddit. Upvotes show broad approval; comments indicate deeper discussion. Each comment counts as 2&times; an upvote because commenting takes more effort and signals stronger engagement.</p>
+        <p><strong>Composite Score (0&ndash;1)</strong><br>
+        The final ranking. A 50/50 blend of:</p>
+        <ul>
+          <li><strong>Normalized engagement</strong> &mdash; how this post's total engagement (upvotes + 2&times; comments) compares to all other candidates, scaled 0 to 1</li>
+          <li><strong>Normalized momentum</strong> &mdash; how this post's engagements-per-hour compares to all others, scaled 0 to 1</li>
+        </ul>
+        <p>A post needs both strong total traction AND fast growth to rank #1. A viral new post with few total interactions can outrank an older post that's plateaued.</p>
+
+        <h3>Data Sources</h3>
+        <p>Posts are collected from r/Parkinsons plus cross-Reddit search results (catching posts in subreddits like r/UpliftingNews, r/science, r/news, etc.). Multiple search strategies (sorted by new, top, relevance, and hot) ensure we don't miss high-engagement posts from large general subreddits.</p>
+      </div>
+    </section>
+
     <footer>
       <p>Posts from the last 48 hours are ranked by a composite score combining total engagement (upvotes + 2&times; comments) with momentum (engagement per hour). Data sourced from r/Parkinsons and cross-Reddit search.</p>
     </footer>

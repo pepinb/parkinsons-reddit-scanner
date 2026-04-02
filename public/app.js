@@ -26,6 +26,17 @@ document.addEventListener('DOMContentLoaded', function() {
   var postsEl = document.getElementById('posts');
   var metaEl = document.getElementById('metadata');
 
+  // Explainer toggle
+  var toggle = document.getElementById('explainer-toggle');
+  var content = document.getElementById('explainer-content');
+  if (toggle && content) {
+    toggle.addEventListener('click', function() {
+      var expanded = toggle.getAttribute('aria-expanded') === 'true';
+      toggle.setAttribute('aria-expanded', String(!expanded));
+      content.hidden = expanded;
+    });
+  }
+
   fetch('data/posts.json')
     .then(function(r) { return r.json(); })
     .then(function(data) {

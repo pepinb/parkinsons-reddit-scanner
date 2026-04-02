@@ -232,6 +232,78 @@ header h1 {
   color: #868e96;
 }
 
+/* ── Explainer ───────────────────────────────── */
+
+.explainer {
+  margin-top: 2rem;
+  text-align: center;
+}
+
+.explainer__toggle {
+  background: none;
+  border: none;
+  color: #868e96;
+  font-size: 0.85rem;
+  cursor: pointer;
+  padding: 0.5rem 0;
+  font-family: inherit;
+}
+
+.explainer__toggle:hover {
+  color: #0d9488;
+}
+
+.explainer__toggle::before {
+  content: "\25B6\FE0E";
+  display: inline-block;
+  margin-right: 0.4rem;
+  font-size: 0.65rem;
+  transition: transform 0.2s;
+  vertical-align: 1px;
+}
+
+.explainer__toggle[aria-expanded="true"]::before {
+  transform: rotate(90deg);
+}
+
+.explainer__content {
+  text-align: left;
+  background: #f1f3f5;
+  border-radius: 8px;
+  padding: 1.25rem 1.5rem;
+  margin-top: 0.75rem;
+  font-size: 0.85rem;
+  color: #495057;
+  line-height: 1.65;
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.explainer__content h3 {
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: #1a1a2e;
+  margin-top: 1rem;
+  margin-bottom: 0.35rem;
+}
+
+.explainer__content h3:first-child {
+  margin-top: 0;
+}
+
+.explainer__content p {
+  margin-bottom: 0.6rem;
+}
+
+.explainer__content ul {
+  margin: 0 0 0.6rem 1.25rem;
+}
+
+.explainer__content li {
+  margin-bottom: 0.25rem;
+}
+
 /* ── Footer ──────────────────────────────────── */
 
 footer {
