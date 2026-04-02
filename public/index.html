@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Parkinson's Reddit Scanner</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+
+    <header>
+      <h1>Parkinson's Reddit Scanner</h1>
+      <p class="subtitle">Top posts from the last 24 hours, ranked by engagement &amp; momentum</p>
+      <p class="meta" id="metadata"></p>
+    </header>
+
+    <main id="posts"></main>
+
+    <footer>
+      <p>Posts are ranked by a composite score combining total engagement (upvotes + 2&times; comments) with momentum (engagement per hour). Data sourced from r/Parkinsons and cross-Reddit search.</p>
+    </footer>
+
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>

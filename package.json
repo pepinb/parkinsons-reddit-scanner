@@ -1,0 +1,9 @@
+{
+  "name": "parkinsons-reddit-scanner",
+  "version": "1.0.0",
+  "description": "Scans Parkinson's-related subreddits for trending posts",
+  "scripts": {
+    "fetch": "node scripts/fetch-and-save.js"
+  },
+  "dependencies": {}
+}
