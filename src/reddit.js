@@ -56,9 +56,11 @@ async function fetchParkinsonsPosts() {
   const urls = [
     `https://www.reddit.com/r/Parkinsons/new.json?limit=100`,
     `https://www.reddit.com/r/Parkinsons/hot.json?limit=100`,
-    `https://www.reddit.com/search.json?q=${q}&sort=new&t=day&limit=100`,
-    `https://www.reddit.com/search.json?q=${q}&sort=relevance&t=day&limit=100`,
-    `https://www.reddit.com/search.json?q=${q}&sort=top&t=day&limit=100`,
+    `https://www.reddit.com/search.json?q=${q}&sort=new&t=week&limit=100`,
+    `https://www.reddit.com/search.json?q=${q}&sort=relevance&t=week&limit=100`,
+    `https://www.reddit.com/search.json?q=${q}&sort=top&t=week&limit=100`,
+    `https://www.reddit.com/search.json?q=Parkinson&sort=top&t=week&limit=100`,
+    `https://www.reddit.com/search.json?q=Parkinson&sort=hot&t=week&limit=100`,
   ];
 
   for (let i = 0; i < urls.length; i++) {
@@ -91,6 +93,8 @@ async function fetchParkinsonsPosts() {
   // Relevance filter: keep posts from target subreddits or with keywords in title
   const targetSubs = new Set(CONFIG.SUBREDDITS.map((s) => s.toLowerCase()));
   const keywords = CONFIG.SEARCH_QUERY.toLowerCase().replace(/"/g, '').split(/\s+or\s+/);
+  // Also match "parkinson" (catches "Parkinson's", "Parkinson disease", etc.)
+  keywords.push('parkinson');
   const relevant = unique.filter((p) => {
     const sub = p.subreddit.replace(/^r\//, '').toLowerCase();
     if (targetSubs.has(sub)) return true;
