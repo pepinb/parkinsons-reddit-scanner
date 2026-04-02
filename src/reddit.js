@@ -52,10 +52,13 @@ async function fetchParkinsonsPosts() {
   const start = Date.now();
   const allPosts = [];
 
+  const q = encodeURIComponent(CONFIG.SEARCH_QUERY);
   const urls = [
     `https://www.reddit.com/r/Parkinsons/new.json?limit=100`,
     `https://www.reddit.com/r/Parkinsons/hot.json?limit=100`,
-    `https://www.reddit.com/search.json?q=${encodeURIComponent(CONFIG.SEARCH_QUERY)}&sort=new&t=day&limit=100`,
+    `https://www.reddit.com/search.json?q=${q}&sort=new&t=day&limit=100`,
+    `https://www.reddit.com/search.json?q=${q}&sort=relevance&t=day&limit=100`,
+    `https://www.reddit.com/search.json?q=${q}&sort=top&t=day&limit=100`,
   ];
 
   for (let i = 0; i < urls.length; i++) {
