@@ -7,14 +7,14 @@
       "author": "ApprehensiveCamera40",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1sbcd2q/im_so_afraid/",
       "created_utc": 1775219670,
-      "score": 17,
+      "score": 19,
       "num_comments": 8,
-      "upvote_ratio": 0.96,
-      "engagement": 33,
-      "momentum": 4,
+      "upvote_ratio": 1,
+      "engagement": 35,
+      "momentum": 4.1,
       "normalized_engagement": 1,
-      "normalized_momentum": 0.9756097560975611,
-      "composite_score": 0.988,
+      "normalized_momentum": 1,
+      "composite_score": 1,
       "timeAgo": "8 hours ago"
     },
     {
@@ -24,14 +24,14 @@
       "author": "Sorry-Pin6420",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1sbe3du/staying_cognitively_engaged_when_early_retiring/",
       "created_utc": 1775224050,
-      "score": 7,
+      "score": 8,
       "num_comments": 11,
-      "upvote_ratio": 0.9,
-      "engagement": 29,
+      "upvote_ratio": 1,
+      "engagement": 30,
       "momentum": 4.1,
-      "normalized_engagement": 0.875,
+      "normalized_engagement": 0.8529411764705882,
       "normalized_momentum": 1,
-      "composite_score": 0.938,
+      "composite_score": 0.926,
       "timeAgo": "7 hours ago"
     },
     {
@@ -42,14 +42,14 @@
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1saz885/sexual_effects_of_parkinsons_meds_and_ed/",
       "created_utc": 1775177691,
       "score": 15,
-      "num_comments": 8,
-      "upvote_ratio": 0.93,
-      "engagement": 31,
+      "num_comments": 9,
+      "upvote_ratio": 0.89,
+      "engagement": 33,
       "momentum": 1.6,
-      "normalized_engagement": 0.9375,
+      "normalized_engagement": 0.9411764705882353,
       "normalized_momentum": 0.39024390243902446,
-      "composite_score": 0.664,
-      "timeAgo": "19 hours ago"
+      "composite_score": 0.666,
+      "timeAgo": "20 hours ago"
     },
     {
       "id": "t3_1sb5lya",
@@ -63,13 +63,13 @@
       "upvote_ratio": 1,
       "engagement": 27,
       "momentum": 1.8,
-      "normalized_engagement": 0.8125,
+      "normalized_engagement": 0.7647058823529411,
       "normalized_momentum": 0.4390243902439025,
-      "composite_score": 0.626,
+      "composite_score": 0.602,
       "timeAgo": "14 hours ago"
     }
   ],
   "totalScanned": 14,
-  "fetchedAt": "2026-04-03T20:49:47.503Z",
-  "fetchTime": 21.8
+  "fetchedAt": "2026-04-03T21:05:15.228Z",
+  "fetchTime": 22.6
 }
