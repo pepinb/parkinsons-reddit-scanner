@@ -7,15 +7,15 @@
       "author": "Longjumping-Ground14",
       "permalink": "https://www.reddit.com/r/RetroFantasyScifi/comments/1ser2ie/keith_parkinson/",
       "created_utc": 1775554080,
-      "score": 765,
+      "score": 777,
       "num_comments": 18,
       "upvote_ratio": 1,
-      "engagement": 801,
-      "momentum": 100.4,
+      "engagement": 813,
+      "momentum": 98.7,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
-      "timeAgo": "7 hours ago"
+      "timeAgo": "8 hours ago"
     },
     {
       "id": "t3_1seyp0f",
@@ -26,12 +26,12 @@
       "created_utc": 1775574515,
       "score": 46,
       "num_comments": 5,
-      "upvote_ratio": 0.98,
+      "upvote_ratio": 0.97,
       "engagement": 56,
-      "momentum": 24.3,
-      "normalized_engagement": 0.06875,
-      "normalized_momentum": 0.24127617148554334,
-      "composite_score": 0.155,
+      "momentum": 21.9,
+      "normalized_engagement": 0.06773399014778325,
+      "normalized_momentum": 0.22109533468559833,
+      "composite_score": 0.144,
       "timeAgo": "2 hours ago"
     },
     {
@@ -45,10 +45,10 @@
       "num_comments": 26,
       "upvote_ratio": 0.9,
       "engagement": 59,
-      "momentum": 9.7,
-      "normalized_engagement": 0.0725,
-      "normalized_momentum": 0.09571286141575273,
-      "composite_score": 0.084,
+      "momentum": 9.3,
+      "normalized_engagement": 0.07142857142857142,
+      "normalized_momentum": 0.09330628803245436,
+      "composite_score": 0.082,
       "timeAgo": "6 hours ago"
     },
     {
@@ -59,17 +59,17 @@
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1sf1471/what_is_off_time_for_you/",
       "created_utc": 1775579675,
       "score": 4,
-      "num_comments": 4,
+      "num_comments": 5,
       "upvote_ratio": 1,
-      "engagement": 12,
-      "momentum": 13.8,
-      "normalized_engagement": 0.01375,
-      "normalized_momentum": 0.1365902293120638,
-      "composite_score": 0.075,
-      "timeAgo": "52 minutes ago"
+      "engagement": 14,
+      "momentum": 12.4,
+      "normalized_engagement": 0.01600985221674877,
+      "normalized_momentum": 0.12474645030425963,
+      "composite_score": 0.07,
+      "timeAgo": "1 hour ago"
     }
   ],
   "totalScanned": 24,
-  "fetchedAt": "2026-04-07T17:26:48.494Z",
-  "fetchTime": 22.9
+  "fetchedAt": "2026-04-07T17:42:17.003Z",
+  "fetchTime": 25
 }
