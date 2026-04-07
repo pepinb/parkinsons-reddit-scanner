@@ -7,15 +7,15 @@
       "author": "Longjumping-Ground14",
       "permalink": "https://www.reddit.com/r/RetroFantasyScifi/comments/1ser2ie/keith_parkinson/",
       "created_utc": 1775554080,
-      "score": 903,
+      "score": 912,
       "num_comments": 22,
       "upvote_ratio": 1,
-      "engagement": 947,
-      "momentum": 79.8,
+      "engagement": 956,
+      "momentum": 78.9,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
-      "timeAgo": "11 hours ago"
+      "timeAgo": "12 hours ago"
     },
     {
       "id": "t3_1seyp0f",
@@ -28,10 +28,10 @@
       "num_comments": 6,
       "upvote_ratio": 0.99,
       "engagement": 83,
-      "momentum": 13.4,
-      "normalized_engagement": 0.08668076109936575,
-      "normalized_momentum": 0.1668757841907152,
-      "composite_score": 0.127,
+      "momentum": 12.9,
+      "normalized_engagement": 0.08586387434554973,
+      "normalized_momentum": 0.16243654822335024,
+      "composite_score": 0.124,
       "timeAgo": "6 hours ago"
     },
     {
@@ -45,11 +45,11 @@
       "num_comments": 29,
       "upvote_ratio": 1,
       "engagement": 69,
-      "momentum": 6.9,
-      "normalized_engagement": 0.07188160676532769,
-      "normalized_momentum": 0.08531994981179424,
-      "composite_score": 0.079,
-      "timeAgo": "9 hours ago"
+      "momentum": 6.8,
+      "normalized_engagement": 0.0712041884816754,
+      "normalized_momentum": 0.08502538071065989,
+      "composite_score": 0.078,
+      "timeAgo": "10 hours ago"
     },
     {
       "id": "t3_1sf1471",
@@ -58,18 +58,18 @@
       "author": "Wooden_Eye_1615",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1sf1471/what_is_off_time_for_you/",
       "created_utc": 1775579675,
-      "score": 10,
+      "score": 12,
       "num_comments": 12,
-      "upvote_ratio": 0.92,
-      "engagement": 34,
+      "upvote_ratio": 1,
+      "engagement": 36,
       "momentum": 7.2,
-      "normalized_engagement": 0.03488372093023256,
-      "normalized_momentum": 0.08908406524466751,
-      "composite_score": 0.062,
-      "timeAgo": "4 hours ago"
+      "normalized_engagement": 0.03664921465968586,
+      "normalized_momentum": 0.09010152284263959,
+      "composite_score": 0.063,
+      "timeAgo": "5 hours ago"
     }
   ],
   "totalScanned": 30,
-  "fetchedAt": "2026-04-07T21:19:44.103Z",
-  "fetchTime": 22
+  "fetchedAt": "2026-04-07T21:35:09.399Z",
+  "fetchTime": 22.9
 }
