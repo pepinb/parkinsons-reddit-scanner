@@ -7,15 +7,15 @@
       "author": "nbcnews",
       "permalink": "https://www.reddit.com/r/Fauxmoi/comments/1sdylco/rebecca_kingcrews_reveals_she_has_parkinsons_says/",
       "created_utc": 1775481394,
-      "score": 918,
+      "score": 919,
       "num_comments": 108,
       "upvote_ratio": 0.97,
-      "engagement": 1134,
-      "momentum": 82.2,
+      "engagement": 1135,
+      "momentum": 80.8,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
-      "timeAgo": "13 hours ago"
+      "timeAgo": "14 hours ago"
     },
     {
       "id": "t3_1se0xul",
@@ -28,9 +28,9 @@
       "num_comments": 31,
       "upvote_ratio": 0.94,
       "engagement": 239,
-      "momentum": 19.5,
-      "normalized_engagement": 0.21006178287731686,
-      "normalized_momentum": 0.2362971985383678,
+      "momentum": 19.1,
+      "normalized_engagement": 0.20987654320987653,
+      "normalized_momentum": 0.23543990086741015,
       "composite_score": 0.223,
       "timeAgo": "12 hours ago"
     },
@@ -41,15 +41,15 @@
       "author": "dailymail",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1sdyhdu/terry_crews_wife_has_parkinsons_star_announces/",
       "created_utc": 1775481130,
-      "score": 126,
+      "score": 128,
       "num_comments": 24,
       "upvote_ratio": 0.99,
-      "engagement": 174,
-      "momentum": 12.6,
-      "normalized_engagement": 0.1526919682259488,
-      "normalized_momentum": 0.1522533495736906,
-      "composite_score": 0.152,
-      "timeAgo": "13 hours ago"
+      "engagement": 176,
+      "momentum": 12.5,
+      "normalized_engagement": 0.15432098765432098,
+      "normalized_momentum": 0.1536555142503098,
+      "composite_score": 0.154,
+      "timeAgo": "14 hours ago"
     },
     {
       "id": "t3_1sdxcha",
@@ -58,18 +58,18 @@
       "author": "peoplemagazine",
       "permalink": "https://www.reddit.com/r/entertainment/comments/1sdxcha/terry_and_rebecca_crews_open_up_for_the_first/",
       "created_utc": 1775478180,
-      "score": 148,
+      "score": 145,
       "num_comments": 3,
       "upvote_ratio": 0.91,
-      "engagement": 154,
-      "momentum": 10.5,
-      "normalized_engagement": 0.13503971756398941,
-      "normalized_momentum": 0.12667478684531058,
-      "composite_score": 0.131,
+      "engagement": 151,
+      "momentum": 10.1,
+      "normalized_engagement": 0.13227513227513227,
+      "normalized_momentum": 0.12391573729863692,
+      "composite_score": 0.128,
       "timeAgo": "14 hours ago"
     }
   ],
-  "totalScanned": 23,
-  "fetchedAt": "2026-04-07T03:03:57.557Z",
-  "fetchTime": 22.2
+  "totalScanned": 22,
+  "fetchedAt": "2026-04-07T03:19:23.890Z",
+  "fetchTime": 24.2
 }
