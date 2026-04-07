@@ -7,15 +7,15 @@
       "author": "nbcnews",
       "permalink": "https://www.reddit.com/r/Fauxmoi/comments/1sdylco/rebecca_kingcrews_reveals_she_has_parkinsons_says/",
       "created_utc": 1775481394,
-      "score": 934,
-      "num_comments": 109,
+      "score": 937,
+      "num_comments": 110,
       "upvote_ratio": 0.97,
-      "engagement": 1152,
-      "momentum": 72.7,
+      "engagement": 1157,
+      "momentum": 71.8,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
-      "timeAgo": "15 hours ago"
+      "timeAgo": "16 hours ago"
     },
     {
       "id": "t3_1se0xul",
@@ -24,14 +24,14 @@
       "author": "cliffmintbreezy",
       "permalink": "https://www.reddit.com/r/Amazing/comments/1se0xul/woman_can_smell_parkinsons_disease/",
       "created_utc": 1775486809,
-      "score": 196,
-      "num_comments": 33,
+      "score": 200,
+      "num_comments": 34,
       "upvote_ratio": 0.95,
-      "engagement": 262,
+      "engagement": 268,
       "momentum": 18.3,
-      "normalized_engagement": 0.22675933970460468,
-      "normalized_momentum": 0.25068870523415976,
-      "composite_score": 0.239,
+      "normalized_engagement": 0.2309688581314879,
+      "normalized_momentum": 0.25383542538354253,
+      "composite_score": 0.242,
       "timeAgo": "14 hours ago"
     },
     {
@@ -42,14 +42,14 @@
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1sdyhdu/terry_crews_wife_has_parkinsons_star_announces/",
       "created_utc": 1775481130,
       "score": 134,
-      "num_comments": 25,
+      "num_comments": 26,
       "upvote_ratio": 0.99,
-      "engagement": 184,
-      "momentum": 11.6,
-      "normalized_engagement": 0.158992180712424,
-      "normalized_momentum": 0.1584022038567493,
-      "composite_score": 0.159,
-      "timeAgo": "15 hours ago"
+      "engagement": 186,
+      "momentum": 11.5,
+      "normalized_engagement": 0.16003460207612458,
+      "normalized_momentum": 0.1589958158995816,
+      "composite_score": 0.16,
+      "timeAgo": "16 hours ago"
     },
     {
       "id": "t3_1sdxcha",
@@ -58,18 +58,18 @@
       "author": "peoplemagazine",
       "permalink": "https://www.reddit.com/r/entertainment/comments/1sdxcha/terry_and_rebecca_crews_open_up_for_the_first/",
       "created_utc": 1775478180,
-      "score": 150,
+      "score": 155,
       "num_comments": 3,
-      "upvote_ratio": 0.91,
-      "engagement": 156,
-      "momentum": 9.3,
-      "normalized_engagement": 0.13466550825369245,
-      "normalized_momentum": 0.12672176308539945,
-      "composite_score": 0.131,
-      "timeAgo": "16 hours ago"
+      "upvote_ratio": 0.92,
+      "engagement": 161,
+      "momentum": 9.5,
+      "normalized_engagement": 0.1384083044982699,
+      "normalized_momentum": 0.13110181311018132,
+      "composite_score": 0.135,
+      "timeAgo": "17 hours ago"
     }
   ],
   "totalScanned": 20,
-  "fetchedAt": "2026-04-07T05:07:27.417Z",
-  "fetchTime": 22.2
+  "fetchedAt": "2026-04-07T05:24:04.048Z",
+  "fetchTime": 23.3
 }
