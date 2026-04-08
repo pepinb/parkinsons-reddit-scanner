@@ -7,15 +7,15 @@
       "author": "gabedylan",
       "permalink": "https://www.reddit.com/r/shrinking/comments/1sfmqcn/fuck_parkinsons/",
       "created_utc": 1775636076,
-      "score": 770,
-      "num_comments": 17,
+      "score": 789,
+      "num_comments": 18,
       "upvote_ratio": 1,
-      "engagement": 804,
-      "momentum": 80.4,
+      "engagement": 825,
+      "momentum": 80.5,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
-      "timeAgo": "9 hours ago"
+      "timeAgo": "10 hours ago"
     },
     {
       "id": "t3_1sf5uqb",
@@ -29,26 +29,9 @@
       "upvote_ratio": 1,
       "engagement": 27,
       "momentum": 1.2,
-      "normalized_engagement": 0.0323785803237858,
-      "normalized_momentum": 0.013698630136986297,
+      "normalized_engagement": 0.03155339805825243,
+      "normalized_momentum": 0.013681592039800992,
       "composite_score": 0.023,
-      "timeAgo": "22 hours ago"
-    },
-    {
-      "id": "t3_1sf44ov",
-      "title": "With all the news of Artemis II...let's not forget that \"the night is yet young...ish\" for future astronaut Katherine Parkinson.",
-      "subreddit": "r/taskmaster",
-      "author": "Artistic_Tooth1454",
-      "permalink": "https://www.reddit.com/r/taskmaster/comments/1sf44ov/with_all_the_news_of_artemis_iilets_not_forget/",
-      "created_utc": 1775585893,
-      "score": 22,
-      "num_comments": 2,
-      "upvote_ratio": 0.84,
-      "engagement": 26,
-      "momentum": 1.1,
-      "normalized_engagement": 0.031133250311332503,
-      "normalized_momentum": 0.012453300124532999,
-      "composite_score": 0.022,
       "timeAgo": "23 hours ago"
     },
     {
@@ -63,13 +46,30 @@
       "upvote_ratio": 0.75,
       "engagement": 12,
       "momentum": 1.9,
-      "normalized_engagement": 0.0136986301369863,
-      "normalized_momentum": 0.022415940224159398,
+      "normalized_engagement": 0.013349514563106795,
+      "normalized_momentum": 0.022388059701492533,
       "composite_score": 0.018,
       "timeAgo": "6 hours ago"
+    },
+    {
+      "id": "t3_1sfzgwk",
+      "title": "Supporting children and youth providing care to a loved one with Parkinson’s",
+      "subreddit": "r/wisconsin",
+      "author": "bonvoyage_2099",
+      "permalink": "https://www.reddit.com/r/wisconsin/comments/1sfzgwk/supporting_children_and_youth_providing_care_to_a/",
+      "created_utc": 1775669167,
+      "score": 3,
+      "num_comments": 0,
+      "upvote_ratio": 1,
+      "engagement": 3,
+      "momentum": 2.8,
+      "normalized_engagement": 0.0024271844660194173,
+      "normalized_momentum": 0.0335820895522388,
+      "composite_score": 0.018,
+      "timeAgo": "1 hour ago"
     }
   ],
-  "totalScanned": 22,
-  "fetchedAt": "2026-04-08T18:14:25.716Z",
-  "fetchTime": 22.4
+  "totalScanned": 20,
+  "fetchedAt": "2026-04-08T18:29:49.530Z",
+  "fetchTime": 21.8
 }
