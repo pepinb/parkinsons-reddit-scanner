@@ -7,15 +7,15 @@
       "author": "xDaintyMuse",
       "permalink": "https://www.reddit.com/r/whoathatsinteresting/comments/1sgphds/a_woman_claimed_she_could_smell_parkinsons/",
       "created_utc": 1775740932,
-      "score": 2452,
-      "num_comments": 236,
+      "score": 2481,
+      "num_comments": 239,
       "upvote_ratio": 0.96,
-      "engagement": 2924,
-      "momentum": 294.9,
+      "engagement": 2959,
+      "momentum": 290.9,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
-      "timeAgo": "9 hours ago"
+      "timeAgo": "10 hours ago"
     },
     {
       "id": "t3_1sga7zo",
@@ -24,15 +24,15 @@
       "author": "NoPermission4301",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1sga7zo/what_has_been_the_most_unexpectedly_helpful/",
       "created_utc": 1775693920,
-      "score": 25,
+      "score": 26,
       "num_comments": 40,
       "upvote_ratio": 1,
-      "engagement": 105,
+      "engagement": 106,
       "momentum": 4.6,
-      "normalized_engagement": 0.035579883681149505,
-      "normalized_momentum": 0.01526458616010855,
+      "normalized_engagement": 0.035496957403651115,
+      "normalized_momentum": 0.015474552957359012,
       "composite_score": 0.025,
-      "timeAgo": "22 hours ago"
+      "timeAgo": "23 hours ago"
     },
     {
       "id": "t3_1sgzb28",
@@ -42,13 +42,13 @@
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1sgzb28/carblev/",
       "created_utc": 1775762136,
       "score": 15,
-      "num_comments": 9,
+      "num_comments": 10,
       "upvote_ratio": 0.89,
-      "engagement": 33,
+      "engagement": 35,
       "momentum": 8.2,
-      "normalized_engagement": 0.01094765651727677,
-      "normalized_momentum": 0.02747625508819539,
-      "composite_score": 0.019,
+      "normalized_engagement": 0.011494252873563218,
+      "normalized_momentum": 0.02785419532324622,
+      "composite_score": 0.02,
       "timeAgo": "4 hours ago"
     },
     {
@@ -60,16 +60,16 @@
       "created_utc": 1775725003,
       "score": 0,
       "num_comments": 29,
-      "upvote_ratio": 0.33,
+      "upvote_ratio": 0.22,
       "engagement": 58,
       "momentum": 4,
-      "normalized_engagement": 0.019500513171399246,
-      "normalized_momentum": 0.01322930800542741,
+      "normalized_engagement": 0.019269776876267748,
+      "normalized_momentum": 0.013411279229711144,
       "composite_score": 0.016,
       "timeAgo": "14 hours ago"
     }
   ],
   "totalScanned": 14,
-  "fetchedAt": "2026-04-09T23:17:03.660Z",
-  "fetchTime": 21.6
+  "fetchedAt": "2026-04-09T23:32:29.772Z",
+  "fetchTime": 23.7
 }
