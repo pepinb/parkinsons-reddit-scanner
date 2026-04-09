@@ -7,11 +7,11 @@
       "author": "xDaintyMuse",
       "permalink": "https://www.reddit.com/r/whoathatsinteresting/comments/1sgphds/a_woman_claimed_she_could_smell_parkinsons/",
       "created_utc": 1775740932,
-      "score": 2434,
-      "num_comments": 233,
+      "score": 2452,
+      "num_comments": 236,
       "upvote_ratio": 0.96,
-      "engagement": 2900,
-      "momentum": 300.3,
+      "engagement": 2924,
+      "momentum": 294.9,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
@@ -29,8 +29,8 @@
       "upvote_ratio": 1,
       "engagement": 105,
       "momentum": 4.6,
-      "normalized_engagement": 0.03587443946188341,
-      "normalized_momentum": 0.014990006662225185,
+      "normalized_engagement": 0.035579883681149505,
+      "normalized_momentum": 0.01526458616010855,
       "composite_score": 0.025,
       "timeAgo": "22 hours ago"
     },
@@ -41,15 +41,15 @@
       "author": "Hot-Fishing9744",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1sgzb28/carblev/",
       "created_utc": 1775762136,
-      "score": 14,
+      "score": 15,
       "num_comments": 9,
       "upvote_ratio": 0.89,
-      "engagement": 32,
-      "momentum": 8.5,
-      "normalized_engagement": 0.010693342531907554,
-      "normalized_momentum": 0.02798134576948701,
+      "engagement": 33,
+      "momentum": 8.2,
+      "normalized_engagement": 0.01094765651727677,
+      "normalized_momentum": 0.02747625508819539,
       "composite_score": 0.019,
-      "timeAgo": "3 hours ago"
+      "timeAgo": "4 hours ago"
     },
     {
       "id": "t3_1sgk8xe",
@@ -62,14 +62,14 @@
       "num_comments": 29,
       "upvote_ratio": 0.33,
       "engagement": 58,
-      "momentum": 4.1,
-      "normalized_engagement": 0.019661952397378408,
-      "normalized_momentum": 0.013324450366422384,
+      "momentum": 4,
+      "normalized_engagement": 0.019500513171399246,
+      "normalized_momentum": 0.01322930800542741,
       "composite_score": 0.016,
       "timeAgo": "14 hours ago"
     }
   ],
   "totalScanned": 14,
-  "fetchedAt": "2026-04-09T23:01:39.447Z",
-  "fetchTime": 23.5
+  "fetchedAt": "2026-04-09T23:17:03.660Z",
+  "fetchTime": 21.6
 }
