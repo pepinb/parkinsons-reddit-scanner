@@ -7,15 +7,15 @@
       "author": "gabedylan",
       "permalink": "https://www.reddit.com/r/shrinking/comments/1sfmqcn/fuck_parkinsons/",
       "created_utc": 1775636076,
-      "score": 1605,
+      "score": 1611,
       "num_comments": 31,
       "upvote_ratio": 1,
-      "engagement": 1667,
-      "momentum": 79.7,
+      "engagement": 1673,
+      "momentum": 79,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
-      "timeAgo": "20 hours ago"
+      "timeAgo": "21 hours ago"
     },
     {
       "id": "t3_1sg61ss",
@@ -24,15 +24,15 @@
       "author": "cloydm",
       "permalink": "https://www.reddit.com/r/GenXVibes/comments/1sg61ss/dian_parkinson_price_is_right_1987/",
       "created_utc": 1775683477,
-      "score": 226,
+      "score": 227,
       "num_comments": 3,
       "upvote_ratio": 1,
-      "engagement": 232,
-      "momentum": 29.9,
-      "normalized_engagement": 0.13865546218487396,
-      "normalized_momentum": 0.3743718592964823,
-      "composite_score": 0.257,
-      "timeAgo": "7 hours ago"
+      "engagement": 233,
+      "momentum": 29.1,
+      "normalized_engagement": 0.13875598086124402,
+      "normalized_momentum": 0.36755386565272496,
+      "composite_score": 0.253,
+      "timeAgo": "8 hours ago"
     },
     {
       "id": "t3_1sg5xtr",
@@ -41,15 +41,15 @@
       "author": "salty_onion321",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1sg5xtr/parkinsons_left_my_dad_a_shell_of_who_he_used_to/",
       "created_utc": 1775683223,
-      "score": 64,
+      "score": 66,
       "num_comments": 19,
       "upvote_ratio": 0.98,
-      "engagement": 102,
-      "momentum": 13,
-      "normalized_engagement": 0.06062424969987995,
-      "normalized_momentum": 0.16206030150753767,
-      "composite_score": 0.111,
-      "timeAgo": "7 hours ago"
+      "engagement": 104,
+      "momentum": 12.9,
+      "normalized_engagement": 0.06160287081339713,
+      "normalized_momentum": 0.16223067173637515,
+      "composite_score": 0.112,
+      "timeAgo": "8 hours ago"
     },
     {
       "id": "t3_1sga7zo",
@@ -58,18 +58,18 @@
       "author": "NoPermission4301",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1sga7zo/what_has_been_the_most_unexpectedly_helpful/",
       "created_utc": 1775693920,
-      "score": 13,
-      "num_comments": 14,
-      "upvote_ratio": 1,
-      "engagement": 41,
-      "momentum": 8.5,
-      "normalized_engagement": 0.024009603841536616,
-      "normalized_momentum": 0.10552763819095477,
-      "composite_score": 0.065,
-      "timeAgo": "4 hours ago"
+      "score": 11,
+      "num_comments": 19,
+      "upvote_ratio": 0.93,
+      "engagement": 49,
+      "momentum": 9.6,
+      "normalized_engagement": 0.028708133971291867,
+      "normalized_momentum": 0.12040557667934093,
+      "composite_score": 0.075,
+      "timeAgo": "5 hours ago"
     }
   ],
   "totalScanned": 13,
-  "fetchedAt": "2026-04-09T05:09:45.318Z",
-  "fetchTime": 22.2
+  "fetchedAt": "2026-04-09T05:25:10.746Z",
+  "fetchTime": 23.6
 }
