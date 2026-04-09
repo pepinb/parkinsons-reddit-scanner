@@ -7,15 +7,15 @@
       "author": "gabedylan",
       "permalink": "https://www.reddit.com/r/shrinking/comments/1sfmqcn/fuck_parkinsons/",
       "created_utc": 1775636076,
-      "score": 1572,
+      "score": 1577,
       "num_comments": 31,
       "upvote_ratio": 1,
-      "engagement": 1634,
-      "momentum": 82.2,
+      "engagement": 1639,
+      "momentum": 81.4,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
-      "timeAgo": "19 hours ago"
+      "timeAgo": "20 hours ago"
     },
     {
       "id": "t3_1sg61ss",
@@ -24,13 +24,13 @@
       "author": "cloydm",
       "permalink": "https://www.reddit.com/r/GenXVibes/comments/1sg61ss/dian_parkinson_price_is_right_1987/",
       "created_utc": 1775683477,
-      "score": 215,
+      "score": 220,
       "num_comments": 3,
       "upvote_ratio": 1,
-      "engagement": 221,
-      "momentum": 32.9,
-      "normalized_engagement": 0.13472137170851195,
-      "normalized_momentum": 0.39951278928136413,
+      "engagement": 226,
+      "momentum": 32.4,
+      "normalized_engagement": 0.13736263736263737,
+      "normalized_momentum": 0.3972939729397293,
       "composite_score": 0.267,
       "timeAgo": "6 hours ago"
     },
@@ -41,15 +41,15 @@
       "author": "salty_onion321",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1sg5xtr/parkinsons_left_my_dad_a_shell_of_who_he_used_to/",
       "created_utc": 1775683223,
-      "score": 62,
+      "score": 61,
       "num_comments": 19,
-      "upvote_ratio": 0.98,
-      "engagement": 100,
-      "momentum": 14.7,
-      "normalized_engagement": 0.06062461726883037,
-      "normalized_momentum": 0.17783191230207063,
-      "composite_score": 0.119,
-      "timeAgo": "6 hours ago"
+      "upvote_ratio": 0.97,
+      "engagement": 99,
+      "momentum": 14,
+      "normalized_engagement": 0.05982905982905983,
+      "normalized_momentum": 0.17097170971709716,
+      "composite_score": 0.115,
+      "timeAgo": "7 hours ago"
     },
     {
       "id": "t3_1sga7zo",
@@ -62,14 +62,14 @@
       "num_comments": 12,
       "upvote_ratio": 1,
       "engagement": 34,
-      "momentum": 8.9,
-      "normalized_engagement": 0.02020820575627679,
-      "normalized_momentum": 0.1071863580998782,
-      "composite_score": 0.064,
-      "timeAgo": "3 hours ago"
+      "momentum": 8.3,
+      "normalized_engagement": 0.020146520146520148,
+      "normalized_momentum": 0.1008610086100861,
+      "composite_score": 0.061,
+      "timeAgo": "4 hours ago"
     }
   ],
   "totalScanned": 13,
-  "fetchedAt": "2026-04-09T04:07:58.536Z",
-  "fetchTime": 22.4
+  "fetchedAt": "2026-04-09T04:23:26.520Z",
+  "fetchTime": 23
 }
