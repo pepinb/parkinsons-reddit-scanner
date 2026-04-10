@@ -7,11 +7,11 @@
       "author": "xDaintyMuse",
       "permalink": "https://www.reddit.com/r/whoathatsinteresting/comments/1sgphds/a_woman_claimed_she_could_smell_parkinsons/",
       "created_utc": 1775740932,
-      "score": 2755,
+      "score": 2763,
       "num_comments": 250,
       "upvote_ratio": 0.96,
-      "engagement": 3255,
-      "momentum": 237.4,
+      "engagement": 3263,
+      "momentum": 233.6,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
@@ -24,15 +24,15 @@
       "author": "Hot-Fishing9744",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1sgzb28/carblev/",
       "created_utc": 1775762136,
-      "score": 18,
+      "score": 17,
       "num_comments": 11,
-      "upvote_ratio": 0.91,
-      "engagement": 40,
-      "momentum": 5.1,
-      "normalized_engagement": 0.011985248924400737,
-      "normalized_momentum": 0.021070375052675935,
-      "composite_score": 0.017,
-      "timeAgo": "7 hours ago"
+      "upvote_ratio": 0.9,
+      "engagement": 39,
+      "momentum": 4.8,
+      "normalized_engagement": 0.011649294911097487,
+      "normalized_momentum": 0.02012847965738758,
+      "composite_score": 0.016,
+      "timeAgo": "8 hours ago"
     },
     {
       "id": "t3_1sgk8xe",
@@ -43,11 +43,11 @@
       "created_utc": 1775725003,
       "score": 0,
       "num_comments": 29,
-      "upvote_ratio": 0.2,
+      "upvote_ratio": 0.22,
       "engagement": 58,
       "momentum": 3.2,
-      "normalized_engagement": 0.017516902274124155,
-      "normalized_momentum": 0.01306363253265908,
+      "normalized_engagement": 0.01747394236664623,
+      "normalized_momentum": 0.013276231263383297,
       "composite_score": 0.015,
       "timeAgo": "18 hours ago"
     },
@@ -63,13 +63,13 @@
       "upvote_ratio": 0.33,
       "engagement": 14,
       "momentum": 1.6,
-      "normalized_engagement": 0.003995082974800246,
-      "normalized_momentum": 0.006321112515802781,
+      "normalized_engagement": 0.00398528510116493,
+      "normalized_momentum": 0.006423982869379015,
       "composite_score": 0.005,
-      "timeAgo": "8 hours ago"
+      "timeAgo": "9 hours ago"
     }
   ],
-  "totalScanned": 13,
-  "fetchedAt": "2026-04-10T03:04:55.806Z",
-  "fetchTime": 22.7
+  "totalScanned": 12,
+  "fetchedAt": "2026-04-10T03:20:22.408Z",
+  "fetchTime": 24.3
 }
