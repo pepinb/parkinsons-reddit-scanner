@@ -1,6 +1,23 @@
 {
   "posts": [
     {
+      "id": "t3_1shor8i",
+      "title": "Michael J. Fox Posts Hilarious Response to Death Rumors Amid Parkinson’s Battle: ‘How Do You React?’",
+      "subreddit": "r/BacktotheFuture",
+      "author": "MattTheKing23",
+      "permalink": "https://www.reddit.com/r/BacktotheFuture/comments/1shor8i/michael_j_fox_posts_hilarious_response_to_death/",
+      "created_utc": 1775832680,
+      "score": 38,
+      "num_comments": 5,
+      "upvote_ratio": 0.97,
+      "engagement": 48,
+      "momentum": 9.8,
+      "normalized_engagement": 1,
+      "normalized_momentum": 0.8495575221238939,
+      "composite_score": 0.925,
+      "timeAgo": "4 hours ago"
+    },
+    {
       "id": "t3_1shsdnc",
       "title": "Any advice for an experienced guitar player with Parkinson's Disease trying to make the switch to drums?",
       "subreddit": "r/edrums",
@@ -11,28 +28,11 @@
       "num_comments": 15,
       "upvote_ratio": 1,
       "engagement": 32,
-      "momentum": 12.7,
-      "normalized_engagement": 0.7560975609756098,
+      "momentum": 11.5,
+      "normalized_engagement": 0.6595744680851063,
       "normalized_momentum": 1,
-      "composite_score": 0.878,
+      "composite_score": 0.83,
       "timeAgo": "2 hours ago"
-    },
-    {
-      "id": "t3_1shor8i",
-      "title": "Michael J. Fox Posts Hilarious Response to Death Rumors Amid Parkinson’s Battle: ‘How Do You React?’",
-      "subreddit": "r/BacktotheFuture",
-      "author": "MattTheKing23",
-      "permalink": "https://www.reddit.com/r/BacktotheFuture/comments/1shor8i/michael_j_fox_posts_hilarious_response_to_death/",
-      "created_utc": 1775832680,
-      "score": 32,
-      "num_comments": 5,
-      "upvote_ratio": 0.94,
-      "engagement": 42,
-      "momentum": 9,
-      "normalized_engagement": 1,
-      "normalized_momentum": 0.7040000000000001,
-      "composite_score": 0.852,
-      "timeAgo": "4 hours ago"
     },
     {
       "id": "t3_1shm7ca",
@@ -45,10 +45,10 @@
       "num_comments": 7,
       "upvote_ratio": 1,
       "engagement": 15,
-      "momentum": 2.4,
-      "normalized_engagement": 0.34146341463414637,
-      "normalized_momentum": 0.176,
-      "composite_score": 0.259,
+      "momentum": 2.3,
+      "normalized_engagement": 0.2978723404255319,
+      "normalized_momentum": 0.18584070796460173,
+      "composite_score": 0.242,
       "timeAgo": "6 hours ago"
     },
     {
@@ -59,17 +59,17 @@
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1shjazb/fidgeting_vs_dyskinesia/",
       "created_utc": 1775818899,
       "score": 3,
-      "num_comments": 5,
+      "num_comments": 6,
       "upvote_ratio": 1,
-      "engagement": 13,
-      "momentum": 1.5,
-      "normalized_engagement": 0.2926829268292683,
-      "normalized_momentum": 0.10400000000000001,
-      "composite_score": 0.198,
+      "engagement": 15,
+      "momentum": 1.7,
+      "normalized_engagement": 0.2978723404255319,
+      "normalized_momentum": 0.1327433628318584,
+      "composite_score": 0.215,
       "timeAgo": "8 hours ago"
     }
   ],
   "totalScanned": 9,
-  "fetchedAt": "2026-04-10T19:30:27.621Z",
-  "fetchTime": 23.6
+  "fetchedAt": "2026-04-10T19:45:52.753Z",
+  "fetchTime": 23.2
 }
