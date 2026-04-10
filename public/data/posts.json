@@ -7,15 +7,32 @@
       "author": "MattTheKing23",
       "permalink": "https://www.reddit.com/r/BacktotheFuture/comments/1shor8i/michael_j_fox_posts_hilarious_response_to_death/",
       "created_utc": 1775832680,
-      "score": 29,
-      "num_comments": 4,
-      "upvote_ratio": 0.98,
-      "engagement": 37,
-      "momentum": 12.5,
-      "normalized_engagement": 0.8372093023255814,
+      "score": 30,
+      "num_comments": 5,
+      "upvote_ratio": 0.96,
+      "engagement": 40,
+      "momentum": 11.8,
+      "normalized_engagement": 0.9069767441860465,
       "normalized_momentum": 1,
-      "composite_score": 0.919,
-      "timeAgo": "2 hours ago"
+      "composite_score": 0.953,
+      "timeAgo": "3 hours ago"
+    },
+    {
+      "id": "t3_1shsdnc",
+      "title": "Any advice for an experienced guitar player with Parkinson's Disease trying to make the switch to drums?",
+      "subreddit": "r/edrums",
+      "author": "GotterdammerungBaby",
+      "permalink": "https://www.reddit.com/r/edrums/comments/1shsdnc/any_advice_for_an_experienced_guitar_player_with/",
+      "created_utc": 1775840348,
+      "score": 2,
+      "num_comments": 6,
+      "upvote_ratio": 1,
+      "engagement": 14,
+      "momentum": 11,
+      "normalized_engagement": 0.3023255813953488,
+      "normalized_momentum": 0.9322033898305084,
+      "composite_score": 0.617,
+      "timeAgo": "1 hour ago"
     },
     {
       "id": "t3_1sgzb28",
@@ -28,10 +45,10 @@
       "num_comments": 12,
       "upvote_ratio": 0.92,
       "engagement": 44,
-      "momentum": 2,
+      "momentum": 1.9,
       "normalized_engagement": 1,
-      "normalized_momentum": 0.16,
-      "composite_score": 0.58,
+      "normalized_momentum": 0.16101694915254236,
+      "composite_score": 0.581,
       "timeAgo": "22 hours ago"
     },
     {
@@ -45,31 +62,14 @@
       "num_comments": 7,
       "upvote_ratio": 1,
       "engagement": 15,
-      "momentum": 3.3,
+      "momentum": 3,
       "normalized_engagement": 0.32558139534883723,
-      "normalized_momentum": 0.264,
-      "composite_score": 0.295,
-      "timeAgo": "4 hours ago"
-    },
-    {
-      "id": "t3_1shjazb",
-      "title": "Fidgeting vs dyskinesia",
-      "subreddit": "r/Parkinsons",
-      "author": "Sorry-Pin6420",
-      "permalink": "https://www.reddit.com/r/Parkinsons/comments/1shjazb/fidgeting_vs_dyskinesia/",
-      "created_utc": 1775818899,
-      "score": 3,
-      "num_comments": 5,
-      "upvote_ratio": 1,
-      "engagement": 13,
-      "momentum": 1.9,
-      "normalized_engagement": 0.27906976744186046,
-      "normalized_momentum": 0.152,
-      "composite_score": 0.216,
-      "timeAgo": "6 hours ago"
+      "normalized_momentum": 0.2542372881355932,
+      "composite_score": 0.29,
+      "timeAgo": "5 hours ago"
     }
   ],
-  "totalScanned": 13,
-  "fetchedAt": "2026-04-10T17:49:15.560Z",
-  "fetchTime": 22.5
+  "totalScanned": 12,
+  "fetchedAt": "2026-04-10T18:15:30.577Z",
+  "fetchTime": 23.5
 }
