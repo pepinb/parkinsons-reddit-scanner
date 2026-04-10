@@ -7,15 +7,15 @@
       "author": "xDaintyMuse",
       "permalink": "https://www.reddit.com/r/whoathatsinteresting/comments/1sgphds/a_woman_claimed_she_could_smell_parkinsons/",
       "created_utc": 1775740932,
-      "score": 2763,
-      "num_comments": 250,
+      "score": 2778,
+      "num_comments": 251,
       "upvote_ratio": 0.96,
-      "engagement": 3263,
-      "momentum": 233.6,
+      "engagement": 3280,
+      "momentum": 230.6,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
-      "timeAgo": "13 hours ago"
+      "timeAgo": "14 hours ago"
     },
     {
       "id": "t3_1sgzb28",
@@ -28,9 +28,9 @@
       "num_comments": 11,
       "upvote_ratio": 0.9,
       "engagement": 39,
-      "momentum": 4.8,
-      "normalized_engagement": 0.011649294911097487,
-      "normalized_momentum": 0.02012847965738758,
+      "momentum": 4.7,
+      "normalized_engagement": 0.011588899054589813,
+      "normalized_momentum": 0.01995661605206074,
       "composite_score": 0.016,
       "timeAgo": "8 hours ago"
     },
@@ -43,11 +43,11 @@
       "created_utc": 1775725003,
       "score": 0,
       "num_comments": 29,
-      "upvote_ratio": 0.22,
+      "upvote_ratio": 0.27,
       "engagement": 58,
-      "momentum": 3.2,
-      "normalized_engagement": 0.01747394236664623,
-      "normalized_momentum": 0.013276231263383297,
+      "momentum": 3.1,
+      "normalized_engagement": 0.01738334858188472,
+      "normalized_momentum": 0.013015184381778741,
       "composite_score": 0.015,
       "timeAgo": "18 hours ago"
     },
@@ -62,14 +62,14 @@
       "num_comments": 7,
       "upvote_ratio": 0.33,
       "engagement": 14,
-      "momentum": 1.6,
-      "normalized_engagement": 0.00398528510116493,
-      "normalized_momentum": 0.006423982869379015,
+      "momentum": 1.5,
+      "normalized_engagement": 0.003964623360780726,
+      "normalized_momentum": 0.006073752711496746,
       "composite_score": 0.005,
       "timeAgo": "9 hours ago"
     }
   ],
-  "totalScanned": 12,
-  "fetchedAt": "2026-04-10T03:20:22.408Z",
-  "fetchTime": 24.3
+  "totalScanned": 11,
+  "fetchedAt": "2026-04-10T03:35:47.238Z",
+  "fetchTime": 22.7
 }
