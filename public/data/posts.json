@@ -7,15 +7,15 @@
       "author": "xDaintyMuse",
       "permalink": "https://www.reddit.com/r/whoathatsinteresting/comments/1sgphds/a_woman_claimed_she_could_smell_parkinsons/",
       "created_utc": 1775740932,
-      "score": 2786,
+      "score": 2797,
       "num_comments": 251,
       "upvote_ratio": 0.96,
-      "engagement": 3288,
-      "momentum": 219.2,
+      "engagement": 3299,
+      "momentum": 216.3,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
-      "timeAgo": "14 hours ago"
+      "timeAgo": "15 hours ago"
     },
     {
       "id": "t3_1sgzb28",
@@ -28,9 +28,9 @@
       "num_comments": 11,
       "upvote_ratio": 0.91,
       "engagement": 40,
-      "momentum": 4.4,
-      "normalized_engagement": 0.01186492242166109,
-      "normalized_momentum": 0.01962574167047011,
+      "momentum": 4.3,
+      "normalized_engagement": 0.011825348696179502,
+      "normalized_momentum": 0.01942645698427382,
       "composite_score": 0.016,
       "timeAgo": "9 hours ago"
     },
@@ -43,11 +43,11 @@
       "created_utc": 1775725003,
       "score": 0,
       "num_comments": 29,
-      "upvote_ratio": 0.13,
+      "upvote_ratio": 0.3,
       "engagement": 58,
-      "momentum": 3,
-      "normalized_engagement": 0.017341040462427744,
-      "normalized_momentum": 0.01323596531264263,
+      "momentum": 2.9,
+      "normalized_engagement": 0.017283201940570043,
+      "normalized_momentum": 0.012950971322849211,
       "composite_score": 0.015,
       "timeAgo": "19 hours ago"
     },
@@ -63,13 +63,13 @@
       "upvote_ratio": 0.33,
       "engagement": 14,
       "momentum": 1.4,
-      "normalized_engagement": 0.003954974140553696,
-      "normalized_momentum": 0.005933363760839799,
+      "normalized_engagement": 0.003941782898726501,
+      "normalized_momentum": 0.006012950971322848,
       "composite_score": 0.005,
       "timeAgo": "10 hours ago"
     }
   ],
   "totalScanned": 11,
-  "fetchedAt": "2026-04-10T04:22:00.967Z",
-  "fetchTime": 23.1
+  "fetchedAt": "2026-04-10T04:37:26.906Z",
+  "fetchTime": 24.2
 }
