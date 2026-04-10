@@ -7,15 +7,15 @@
       "author": "MattTheKing23",
       "permalink": "https://www.reddit.com/r/BacktotheFuture/comments/1shor8i/michael_j_fox_posts_hilarious_response_to_death/",
       "created_utc": 1775832680,
-      "score": 16,
-      "num_comments": 3,
-      "upvote_ratio": 0.95,
-      "engagement": 22,
-      "momentum": 19,
-      "normalized_engagement": 0.5,
+      "score": 25,
+      "num_comments": 4,
+      "upvote_ratio": 0.97,
+      "engagement": 33,
+      "momentum": 14,
+      "normalized_engagement": 0.7441860465116279,
       "normalized_momentum": 1,
-      "composite_score": 0.75,
-      "timeAgo": "1 hour ago"
+      "composite_score": 0.872,
+      "timeAgo": "2 hours ago"
     },
     {
       "id": "t3_1sgzb28",
@@ -24,15 +24,15 @@
       "author": "Hot-Fishing9744",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1sgzb28/carblev/",
       "created_utc": 1775762136,
-      "score": 19,
+      "score": 20,
       "num_comments": 12,
-      "upvote_ratio": 0.89,
-      "engagement": 43,
-      "momentum": 2.1,
+      "upvote_ratio": 0.92,
+      "engagement": 44,
+      "momentum": 2,
       "normalized_engagement": 1,
-      "normalized_momentum": 0.1105263157894737,
-      "composite_score": 0.555,
-      "timeAgo": "20 hours ago"
+      "normalized_momentum": 0.14285714285714285,
+      "composite_score": 0.571,
+      "timeAgo": "21 hours ago"
     },
     {
       "id": "t3_1shm7ca",
@@ -42,14 +42,14 @@
       "permalink": "https://www.reddit.com/r/physicaltherapy/comments/1shm7ca/parkinsons_poc_management/",
       "created_utc": 1775826823,
       "score": 1,
-      "num_comments": 6,
+      "num_comments": 7,
       "upvote_ratio": 1,
-      "engagement": 13,
-      "momentum": 4.7,
-      "normalized_engagement": 0.2857142857142857,
-      "normalized_momentum": 0.2473684210526316,
-      "composite_score": 0.267,
-      "timeAgo": "2 hours ago"
+      "engagement": 15,
+      "momentum": 3.8,
+      "normalized_engagement": 0.32558139534883723,
+      "normalized_momentum": 0.2714285714285714,
+      "composite_score": 0.299,
+      "timeAgo": "3 hours ago"
     },
     {
       "id": "t3_1shjazb",
@@ -62,14 +62,14 @@
       "num_comments": 5,
       "upvote_ratio": 1,
       "engagement": 13,
-      "momentum": 2.6,
-      "normalized_engagement": 0.2857142857142857,
-      "normalized_momentum": 0.1368421052631579,
-      "composite_score": 0.211,
-      "timeAgo": "4 hours ago"
+      "momentum": 2.1,
+      "normalized_engagement": 0.27906976744186046,
+      "normalized_momentum": 0.15,
+      "composite_score": 0.215,
+      "timeAgo": "6 hours ago"
     }
   ],
-  "totalScanned": 11,
-  "fetchedAt": "2026-04-10T16:00:56.640Z",
-  "fetchTime": 38.7
+  "totalScanned": 13,
+  "fetchedAt": "2026-04-10T17:12:44.889Z",
+  "fetchTime": 22.4
 }
