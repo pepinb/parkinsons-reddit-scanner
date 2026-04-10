@@ -11,7 +11,7 @@
       "num_comments": 15,
       "upvote_ratio": 1,
       "engagement": 32,
-      "momentum": 15.9,
+      "momentum": 14.1,
       "normalized_engagement": 0.7209302325581395,
       "normalized_momentum": 1,
       "composite_score": 0.86,
@@ -26,12 +26,12 @@
       "created_utc": 1775832680,
       "score": 33,
       "num_comments": 5,
-      "upvote_ratio": 0.94,
+      "upvote_ratio": 0.97,
       "engagement": 43,
-      "momentum": 10.4,
+      "momentum": 9.8,
       "normalized_engagement": 0.9767441860465116,
-      "normalized_momentum": 0.6496815286624205,
-      "composite_score": 0.813,
+      "normalized_momentum": 0.6906474820143885,
+      "composite_score": 0.834,
       "timeAgo": "4 hours ago"
     },
     {
@@ -45,10 +45,10 @@
       "num_comments": 12,
       "upvote_ratio": 0.92,
       "engagement": 44,
-      "momentum": 1.9,
+      "momentum": 1.8,
       "normalized_engagement": 1,
-      "normalized_momentum": 0.10828025477707005,
-      "composite_score": 0.554,
+      "normalized_momentum": 0.11510791366906475,
+      "composite_score": 0.558,
       "timeAgo": "23 hours ago"
     },
     {
@@ -62,14 +62,14 @@
       "num_comments": 7,
       "upvote_ratio": 1,
       "engagement": 15,
-      "momentum": 2.6,
+      "momentum": 2.5,
       "normalized_engagement": 0.32558139534883723,
-      "normalized_momentum": 0.15286624203821655,
-      "composite_score": 0.239,
-      "timeAgo": "5 hours ago"
+      "normalized_momentum": 0.16546762589928055,
+      "composite_score": 0.246,
+      "timeAgo": "6 hours ago"
     }
   ],
   "totalScanned": 10,
-  "fetchedAt": "2026-04-10T18:59:37.761Z",
-  "fetchTime": 21.7
+  "fetchedAt": "2026-04-10T19:15:02.189Z",
+  "fetchTime": 22.4
 }
