@@ -7,11 +7,11 @@
       "author": "xDaintyMuse",
       "permalink": "https://www.reddit.com/r/whoathatsinteresting/comments/1sgphds/a_woman_claimed_she_could_smell_parkinsons/",
       "created_utc": 1775740932,
-      "score": 2568,
+      "score": 2590,
       "num_comments": 244,
       "upvote_ratio": 0.96,
-      "engagement": 3056,
-      "momentum": 274.2,
+      "engagement": 3078,
+      "momentum": 270,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
@@ -28,10 +28,10 @@
       "num_comments": 10,
       "upvote_ratio": 0.85,
       "engagement": 33,
-      "momentum": 6.3,
-      "normalized_engagement": 0.010474631751227497,
-      "normalized_momentum": 0.022619481940897485,
-      "composite_score": 0.017,
+      "momentum": 6,
+      "normalized_engagement": 0.010399740006499838,
+      "normalized_momentum": 0.021859948128936647,
+      "composite_score": 0.016,
       "timeAgo": "5 hours ago"
     },
     {
@@ -46,8 +46,8 @@
       "upvote_ratio": 0.2,
       "engagement": 58,
       "momentum": 3.7,
-      "normalized_engagement": 0.018657937806873977,
-      "normalized_momentum": 0.01313389273987596,
+      "normalized_engagement": 0.018524536886577837,
+      "normalized_momentum": 0.01333827343460541,
       "composite_score": 0.016,
       "timeAgo": "15 hours ago"
     },
@@ -62,14 +62,14 @@
       "num_comments": 7,
       "upvote_ratio": 0.33,
       "engagement": 14,
-      "momentum": 2.3,
-      "normalized_engagement": 0.00425531914893617,
-      "normalized_momentum": 0.008026267785479753,
+      "momentum": 2.2,
+      "normalized_engagement": 0.004224894377640559,
+      "normalized_momentum": 0.007780659503519823,
       "composite_score": 0.006,
       "timeAgo": "6 hours ago"
     }
   ],
   "totalScanned": 12,
-  "fetchedAt": "2026-04-10T00:30:50.902Z",
-  "fetchTime": 26.1
+  "fetchedAt": "2026-04-10T00:46:16.056Z",
+  "fetchTime": 23.3
 }
