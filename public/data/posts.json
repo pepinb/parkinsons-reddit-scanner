@@ -1,23 +1,6 @@
 {
   "posts": [
     {
-      "id": "t3_1shor8i",
-      "title": "Michael J. Fox Posts Hilarious Response to Death Rumors Amid Parkinson’s Battle: ‘How Do You React?’",
-      "subreddit": "r/BacktotheFuture",
-      "author": "MattTheKing23",
-      "permalink": "https://www.reddit.com/r/BacktotheFuture/comments/1shor8i/michael_j_fox_posts_hilarious_response_to_death/",
-      "created_utc": 1775832680,
-      "score": 35,
-      "num_comments": 5,
-      "upvote_ratio": 0.97,
-      "engagement": 45,
-      "momentum": 11.6,
-      "normalized_engagement": 1,
-      "normalized_momentum": 0.725,
-      "composite_score": 0.863,
-      "timeAgo": "3 hours ago"
-    },
-    {
       "id": "t3_1shsdnc",
       "title": "Any advice for an experienced guitar player with Parkinson's Disease trying to make the switch to drums?",
       "subreddit": "r/edrums",
@@ -25,14 +8,31 @@
       "permalink": "https://www.reddit.com/r/edrums/comments/1shsdnc/any_advice_for_an_experienced_guitar_player_with/",
       "created_utc": 1775840348,
       "score": 2,
-      "num_comments": 13,
+      "num_comments": 15,
       "upvote_ratio": 1,
-      "engagement": 28,
-      "momentum": 16,
-      "normalized_engagement": 0.6136363636363636,
+      "engagement": 32,
+      "momentum": 15.9,
+      "normalized_engagement": 0.7209302325581395,
       "normalized_momentum": 1,
-      "composite_score": 0.807,
-      "timeAgo": "1 hour ago"
+      "composite_score": 0.86,
+      "timeAgo": "2 hours ago"
+    },
+    {
+      "id": "t3_1shor8i",
+      "title": "Michael J. Fox Posts Hilarious Response to Death Rumors Amid Parkinson’s Battle: ‘How Do You React?’",
+      "subreddit": "r/BacktotheFuture",
+      "author": "MattTheKing23",
+      "permalink": "https://www.reddit.com/r/BacktotheFuture/comments/1shor8i/michael_j_fox_posts_hilarious_response_to_death/",
+      "created_utc": 1775832680,
+      "score": 33,
+      "num_comments": 5,
+      "upvote_ratio": 0.94,
+      "engagement": 43,
+      "momentum": 10.4,
+      "normalized_engagement": 0.9767441860465116,
+      "normalized_momentum": 0.6496815286624205,
+      "composite_score": 0.813,
+      "timeAgo": "4 hours ago"
     },
     {
       "id": "t3_1sgzb28",
@@ -41,14 +41,14 @@
       "author": "Hot-Fishing9744",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1sgzb28/carblev/",
       "created_utc": 1775762136,
-      "score": 21,
+      "score": 20,
       "num_comments": 12,
       "upvote_ratio": 0.92,
-      "engagement": 45,
+      "engagement": 44,
       "momentum": 1.9,
       "normalized_engagement": 1,
-      "normalized_momentum": 0.11875,
-      "composite_score": 0.559,
+      "normalized_momentum": 0.10828025477707005,
+      "composite_score": 0.554,
       "timeAgo": "23 hours ago"
     },
     {
@@ -62,14 +62,14 @@
       "num_comments": 7,
       "upvote_ratio": 1,
       "engagement": 15,
-      "momentum": 2.7,
-      "normalized_engagement": 0.3181818181818182,
-      "normalized_momentum": 0.16875,
-      "composite_score": 0.243,
+      "momentum": 2.6,
+      "normalized_engagement": 0.32558139534883723,
+      "normalized_momentum": 0.15286624203821655,
+      "composite_score": 0.239,
       "timeAgo": "5 hours ago"
     }
   ],
-  "totalScanned": 11,
-  "fetchedAt": "2026-04-10T18:44:13.949Z",
-  "fetchTime": 22.6
+  "totalScanned": 10,
+  "fetchedAt": "2026-04-10T18:59:37.761Z",
+  "fetchTime": 21.7
 }
