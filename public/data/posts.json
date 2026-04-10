@@ -7,15 +7,15 @@
       "author": "MattTheKing23",
       "permalink": "https://www.reddit.com/r/BacktotheFuture/comments/1shor8i/michael_j_fox_posts_hilarious_response_to_death/",
       "created_utc": 1775832680,
-      "score": 38,
+      "score": 37,
       "num_comments": 5,
-      "upvote_ratio": 0.97,
-      "engagement": 48,
-      "momentum": 9.8,
+      "upvote_ratio": 0.95,
+      "engagement": 47,
+      "momentum": 9.1,
       "normalized_engagement": 1,
-      "normalized_momentum": 0.8495575221238939,
-      "composite_score": 0.925,
-      "timeAgo": "4 hours ago"
+      "normalized_momentum": 0.8640776699029126,
+      "composite_score": 0.932,
+      "timeAgo": "5 hours ago"
     },
     {
       "id": "t3_1shsdnc",
@@ -28,11 +28,11 @@
       "num_comments": 15,
       "upvote_ratio": 1,
       "engagement": 32,
-      "momentum": 11.5,
-      "normalized_engagement": 0.6595744680851063,
+      "momentum": 10.5,
+      "normalized_engagement": 0.6739130434782609,
       "normalized_momentum": 1,
-      "composite_score": 0.83,
-      "timeAgo": "2 hours ago"
+      "composite_score": 0.837,
+      "timeAgo": "3 hours ago"
     },
     {
       "id": "t3_1shm7ca",
@@ -45,10 +45,10 @@
       "num_comments": 7,
       "upvote_ratio": 1,
       "engagement": 15,
-      "momentum": 2.3,
-      "normalized_engagement": 0.2978723404255319,
-      "normalized_momentum": 0.18584070796460173,
-      "composite_score": 0.242,
+      "momentum": 2.2,
+      "normalized_engagement": 0.30434782608695654,
+      "normalized_momentum": 0.1941747572815534,
+      "composite_score": 0.249,
       "timeAgo": "6 hours ago"
     },
     {
@@ -63,13 +63,13 @@
       "upvote_ratio": 1,
       "engagement": 15,
       "momentum": 1.7,
-      "normalized_engagement": 0.2978723404255319,
-      "normalized_momentum": 0.1327433628318584,
-      "composite_score": 0.215,
+      "normalized_engagement": 0.30434782608695654,
+      "normalized_momentum": 0.14563106796116504,
+      "composite_score": 0.225,
       "timeAgo": "8 hours ago"
     }
   ],
   "totalScanned": 9,
-  "fetchedAt": "2026-04-10T19:45:52.753Z",
-  "fetchTime": 23.2
+  "fetchedAt": "2026-04-10T20:01:17.491Z",
+  "fetchTime": 22.9
 }
