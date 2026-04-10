@@ -1,23 +1,6 @@
 {
   "posts": [
     {
-      "id": "t3_1shor8i",
-      "title": "Michael J. Fox Posts Hilarious Response to Death Rumors Amid Parkinson’s Battle: ‘How Do You React?’",
-      "subreddit": "r/BacktotheFuture",
-      "author": "MattTheKing23",
-      "permalink": "https://www.reddit.com/r/BacktotheFuture/comments/1shor8i/michael_j_fox_posts_hilarious_response_to_death/",
-      "created_utc": 1775832680,
-      "score": 37,
-      "num_comments": 5,
-      "upvote_ratio": 0.95,
-      "engagement": 47,
-      "momentum": 9.1,
-      "normalized_engagement": 1,
-      "normalized_momentum": 0.8640776699029126,
-      "composite_score": 0.932,
-      "timeAgo": "5 hours ago"
-    },
-    {
       "id": "t3_1shsdnc",
       "title": "Any advice for an experienced guitar player with Parkinson's Disease trying to make the switch to drums?",
       "subreddit": "r/edrums",
@@ -25,14 +8,31 @@
       "permalink": "https://www.reddit.com/r/edrums/comments/1shsdnc/any_advice_for_an_experienced_guitar_player_with/",
       "created_utc": 1775840348,
       "score": 2,
-      "num_comments": 15,
+      "num_comments": 16,
       "upvote_ratio": 1,
-      "engagement": 32,
-      "momentum": 10.5,
-      "normalized_engagement": 0.6739130434782609,
+      "engagement": 34,
+      "momentum": 10.3,
+      "normalized_engagement": 0.7857142857142857,
       "normalized_momentum": 1,
-      "composite_score": 0.837,
+      "composite_score": 0.893,
       "timeAgo": "3 hours ago"
+    },
+    {
+      "id": "t3_1shor8i",
+      "title": "Michael J. Fox Posts Hilarious Response to Death Rumors Amid Parkinson’s Battle: ‘How Do You React?’",
+      "subreddit": "r/BacktotheFuture",
+      "author": "MattTheKing23",
+      "permalink": "https://www.reddit.com/r/BacktotheFuture/comments/1shor8i/michael_j_fox_posts_hilarious_response_to_death/",
+      "created_utc": 1775832680,
+      "score": 33,
+      "num_comments": 5,
+      "upvote_ratio": 0.91,
+      "engagement": 43,
+      "momentum": 7.9,
+      "normalized_engagement": 1,
+      "normalized_momentum": 0.7623762376237623,
+      "composite_score": 0.881,
+      "timeAgo": "5 hours ago"
     },
     {
       "id": "t3_1shm7ca",
@@ -45,11 +45,11 @@
       "num_comments": 7,
       "upvote_ratio": 1,
       "engagement": 15,
-      "momentum": 2.2,
-      "normalized_engagement": 0.30434782608695654,
-      "normalized_momentum": 0.1941747572815534,
-      "composite_score": 0.249,
-      "timeAgo": "6 hours ago"
+      "momentum": 2.1,
+      "normalized_engagement": 0.3333333333333333,
+      "normalized_momentum": 0.18811881188118812,
+      "composite_score": 0.261,
+      "timeAgo": "7 hours ago"
     },
     {
       "id": "t3_1shjazb",
@@ -62,14 +62,14 @@
       "num_comments": 6,
       "upvote_ratio": 1,
       "engagement": 15,
-      "momentum": 1.7,
-      "normalized_engagement": 0.30434782608695654,
-      "normalized_momentum": 0.14563106796116504,
-      "composite_score": 0.225,
-      "timeAgo": "8 hours ago"
+      "momentum": 1.6,
+      "normalized_engagement": 0.3333333333333333,
+      "normalized_momentum": 0.1386138613861386,
+      "composite_score": 0.236,
+      "timeAgo": "9 hours ago"
     }
   ],
   "totalScanned": 9,
-  "fetchedAt": "2026-04-10T20:01:17.491Z",
-  "fetchTime": 22.9
+  "fetchedAt": "2026-04-10T20:16:43.279Z",
+  "fetchTime": 23.2
 }
