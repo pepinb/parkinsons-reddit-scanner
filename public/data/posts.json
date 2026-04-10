@@ -7,14 +7,14 @@
       "author": "MattTheKing23",
       "permalink": "https://www.reddit.com/r/BacktotheFuture/comments/1shor8i/michael_j_fox_posts_hilarious_response_to_death/",
       "created_utc": 1775832680,
-      "score": 25,
+      "score": 27,
       "num_comments": 4,
       "upvote_ratio": 0.97,
-      "engagement": 33,
-      "momentum": 14,
-      "normalized_engagement": 0.7441860465116279,
+      "engagement": 35,
+      "momentum": 13.4,
+      "normalized_engagement": 0.7906976744186046,
       "normalized_momentum": 1,
-      "composite_score": 0.872,
+      "composite_score": 0.895,
       "timeAgo": "2 hours ago"
     },
     {
@@ -30,9 +30,9 @@
       "engagement": 44,
       "momentum": 2,
       "normalized_engagement": 1,
-      "normalized_momentum": 0.14285714285714285,
-      "composite_score": 0.571,
-      "timeAgo": "21 hours ago"
+      "normalized_momentum": 0.14925373134328357,
+      "composite_score": 0.575,
+      "timeAgo": "22 hours ago"
     },
     {
       "id": "t3_1shm7ca",
@@ -45,31 +45,31 @@
       "num_comments": 7,
       "upvote_ratio": 1,
       "engagement": 15,
-      "momentum": 3.8,
+      "momentum": 3.5,
       "normalized_engagement": 0.32558139534883723,
-      "normalized_momentum": 0.2714285714285714,
-      "composite_score": 0.299,
-      "timeAgo": "3 hours ago"
+      "normalized_momentum": 0.26119402985074625,
+      "composite_score": 0.293,
+      "timeAgo": "4 hours ago"
     },
     {
-      "id": "t3_1shjazb",
-      "title": "Fidgeting vs dyskinesia",
-      "subreddit": "r/Parkinsons",
-      "author": "Sorry-Pin6420",
-      "permalink": "https://www.reddit.com/r/Parkinsons/comments/1shjazb/fidgeting_vs_dyskinesia/",
-      "created_utc": 1775818899,
-      "score": 3,
-      "num_comments": 5,
+      "id": "t3_1shsdnc",
+      "title": "Any advice for an experienced guitar player with Parkinson's Disease trying to make the switch to drums?",
+      "subreddit": "r/edrums",
+      "author": "GotterdammerungBaby",
+      "permalink": "https://www.reddit.com/r/edrums/comments/1shsdnc/any_advice_for_an_experienced_guitar_player_with/",
+      "created_utc": 1775840348,
+      "score": 1,
+      "num_comments": 1,
       "upvote_ratio": 1,
-      "engagement": 13,
-      "momentum": 2.1,
-      "normalized_engagement": 0.27906976744186046,
-      "normalized_momentum": 0.15,
-      "composite_score": 0.215,
-      "timeAgo": "6 hours ago"
+      "engagement": 3,
+      "momentum": 6,
+      "normalized_engagement": 0.046511627906976744,
+      "normalized_momentum": 0.44776119402985076,
+      "composite_score": 0.247,
+      "timeAgo": "29 minutes ago"
     }
   ],
   "totalScanned": 13,
-  "fetchedAt": "2026-04-10T17:12:44.889Z",
-  "fetchTime": 22.4
+  "fetchedAt": "2026-04-10T17:28:14.832Z",
+  "fetchTime": 25.8
 }
