@@ -7,15 +7,15 @@
       "author": "MattTheKing23",
       "permalink": "https://www.reddit.com/r/BacktotheFuture/comments/1shor8i/michael_j_fox_posts_hilarious_response_to_death/",
       "created_utc": 1775832680,
-      "score": 57,
-      "num_comments": 7,
-      "upvote_ratio": 0.96,
-      "engagement": 71,
-      "momentum": 7,
+      "score": 71,
+      "num_comments": 8,
+      "upvote_ratio": 0.98,
+      "engagement": 87,
+      "momentum": 5.8,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
-      "timeAgo": "10 hours ago"
+      "timeAgo": "14 hours ago"
     },
     {
       "id": "t3_1shsdnc",
@@ -28,11 +28,11 @@
       "num_comments": 19,
       "upvote_ratio": 0.84,
       "engagement": 42,
-      "momentum": 5.2,
-      "normalized_engagement": 0.5857142857142857,
-      "normalized_momentum": 0.7391304347826088,
-      "composite_score": 0.662,
-      "timeAgo": "8 hours ago"
+      "momentum": 3.3,
+      "normalized_engagement": 0.47674418604651164,
+      "normalized_momentum": 0.5614035087719298,
+      "composite_score": 0.519,
+      "timeAgo": "12 hours ago"
     },
     {
       "id": "t3_1shm7ca",
@@ -42,14 +42,14 @@
       "permalink": "https://www.reddit.com/r/physicaltherapy/comments/1shm7ca/parkinsons_poc_management/",
       "created_utc": 1775826823,
       "score": 2,
-      "num_comments": 7,
+      "num_comments": 8,
       "upvote_ratio": 1,
-      "engagement": 16,
-      "momentum": 1.4,
-      "normalized_engagement": 0.21428571428571427,
-      "normalized_momentum": 0.18840579710144925,
-      "composite_score": 0.201,
-      "timeAgo": "11 hours ago"
+      "engagement": 18,
+      "momentum": 1.1,
+      "normalized_engagement": 0.19767441860465115,
+      "normalized_momentum": 0.17543859649122806,
+      "composite_score": 0.187,
+      "timeAgo": "16 hours ago"
     },
     {
       "id": "t3_1shjazb",
@@ -59,17 +59,17 @@
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1shjazb/fidgeting_vs_dyskinesia/",
       "created_utc": 1775818899,
       "score": 5,
-      "num_comments": 6,
-      "upvote_ratio": 1,
-      "engagement": 17,
-      "momentum": 1.2,
-      "normalized_engagement": 0.22857142857142856,
-      "normalized_momentum": 0.15942028985507245,
-      "composite_score": 0.194,
-      "timeAgo": "13 hours ago"
+      "num_comments": 7,
+      "upvote_ratio": 0.86,
+      "engagement": 19,
+      "momentum": 1,
+      "normalized_engagement": 0.20930232558139536,
+      "normalized_momentum": 0.15789473684210525,
+      "composite_score": 0.184,
+      "timeAgo": "18 hours ago"
     }
   ],
-  "totalScanned": 9,
-  "fetchedAt": "2026-04-11T01:00:01.847Z",
-  "fetchTime": 316.8
+  "totalScanned": 12,
+  "fetchedAt": "2026-04-11T05:49:52.831Z",
+  "fetchTime": 296.3
 }
