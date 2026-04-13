@@ -11,10 +11,10 @@
       "num_comments": 7,
       "upvote_ratio": 0.98,
       "engagement": 356,
-      "momentum": 17.3,
+      "momentum": 17.1,
       "normalized_engagement": 1,
-      "normalized_momentum": 0.9611111111111111,
-      "composite_score": 0.981,
+      "normalized_momentum": 0.9293478260869567,
+      "composite_score": 0.965,
       "timeAgo": "20 hours ago"
     },
     {
@@ -24,14 +24,14 @@
       "author": "PrincessBananas85",
       "permalink": "https://www.reddit.com/r/entertainment/comments/1sjlbc9/no_doubts_tom_dumont_reveals_early_onset/",
       "created_utc": 1776016144,
-      "score": 337,
+      "score": 331,
       "num_comments": 9,
       "upvote_ratio": 0.97,
-      "engagement": 355,
-      "momentum": 15.9,
-      "normalized_engagement": 0.9971830985915493,
-      "normalized_momentum": 0.8833333333333333,
-      "composite_score": 0.94,
+      "engagement": 349,
+      "momentum": 15.4,
+      "normalized_engagement": 0.9802816901408451,
+      "normalized_momentum": 0.8369565217391305,
+      "composite_score": 0.909,
       "timeAgo": "22 hours ago"
     },
     {
@@ -41,15 +41,15 @@
       "author": "abunchofjerks",
       "permalink": "https://www.reddit.com/r/saskatchewan/comments/1skezj4/sask_teen_has_lifechanging_brain_simulation/",
       "created_utc": 1776095691,
-      "score": 7,
+      "score": 8,
       "num_comments": 1,
       "upvote_ratio": 1,
-      "engagement": 9,
-      "momentum": 18,
-      "normalized_engagement": 0.022535211267605635,
+      "engagement": 10,
+      "momentum": 18.4,
+      "normalized_engagement": 0.02535211267605634,
       "normalized_momentum": 1,
-      "composite_score": 0.511,
-      "timeAgo": "17 minutes ago"
+      "composite_score": 0.513,
+      "timeAgo": "32 minutes ago"
     },
     {
       "id": "t3_1sjkqi8",
@@ -58,18 +58,18 @@
       "author": "gdelacalle",
       "permalink": "https://www.reddit.com/r/ArcRaiders/comments/1sjkqi8/i_have_severe_parkinsons_and_i_play_arc/",
       "created_utc": 1776014836,
-      "score": 114,
+      "score": 115,
       "num_comments": 24,
       "upvote_ratio": 0.93,
-      "engagement": 162,
+      "engagement": 163,
       "momentum": 7.1,
-      "normalized_engagement": 0.4535211267605634,
-      "normalized_momentum": 0.39444444444444443,
-      "composite_score": 0.424,
-      "timeAgo": "22 hours ago"
+      "normalized_engagement": 0.4563380281690141,
+      "normalized_momentum": 0.3858695652173913,
+      "composite_score": 0.421,
+      "timeAgo": "23 hours ago"
     }
   ],
-  "totalScanned": 40,
-  "fetchedAt": "2026-04-13T16:12:07.766Z",
-  "fetchTime": 22.3
+  "totalScanned": 37,
+  "fetchedAt": "2026-04-13T16:27:32.583Z",
+  "fetchTime": 22.5
 }
