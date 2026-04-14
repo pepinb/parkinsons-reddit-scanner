@@ -7,15 +7,15 @@
       "author": "mlg1981",
       "permalink": "https://www.reddit.com/r/television/comments/1skqpt5/shrinking_star_harrison_ford_is_grateful_for_his/",
       "created_utc": 1776120475,
-      "score": 7113,
+      "score": 7128,
       "num_comments": 302,
       "upvote_ratio": 0.98,
-      "engagement": 7717,
-      "momentum": 337.3,
+      "engagement": 7732,
+      "momentum": 334.2,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
-      "timeAgo": "22 hours ago"
+      "timeAgo": "23 hours ago"
     },
     {
       "id": "t3_1sll36q",
@@ -25,14 +25,14 @@
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1sll36q/im_in_diagnosis_limbo/",
       "created_utc": 1776199690,
       "score": 4,
-      "num_comments": 4,
+      "num_comments": 5,
       "upvote_ratio": 1,
-      "engagement": 12,
-      "momentum": 13.7,
-      "normalized_engagement": 0.001425609123898393,
-      "normalized_momentum": 0.04033214709371293,
-      "composite_score": 0.021,
-      "timeAgo": "52 minutes ago"
+      "engagement": 14,
+      "momentum": 12.4,
+      "normalized_engagement": 0.001681541844522054,
+      "normalized_momentum": 0.03681532475306795,
+      "composite_score": 0.019,
+      "timeAgo": "1 hour ago"
     },
     {
       "id": "t3_1slkr9l",
@@ -45,10 +45,10 @@
       "num_comments": 3,
       "upvote_ratio": 1,
       "engagement": 8,
-      "momentum": 7.4,
-      "normalized_engagement": 0.0009072058061171591,
-      "normalized_momentum": 0.02164887307236062,
-      "composite_score": 0.011,
+      "momentum": 6,
+      "normalized_engagement": 0.0009054456085887983,
+      "normalized_momentum": 0.017659383418138285,
+      "composite_score": 0.009,
       "timeAgo": "1 hour ago"
     },
     {
@@ -58,18 +58,18 @@
       "author": "Williamslabdw",
       "permalink": "https://www.reddit.com/r/science/comments/1skqgg4/motor_code_transmission_error_explains_motor/",
       "created_utc": 1776119835,
-      "score": 53,
+      "score": 56,
       "num_comments": 3,
-      "upvote_ratio": 0.89,
-      "engagement": 59,
-      "momentum": 2.6,
-      "normalized_engagement": 0.00751684810782789,
-      "normalized_momentum": 0.00741399762752076,
-      "composite_score": 0.007,
+      "upvote_ratio": 0.9,
+      "engagement": 62,
+      "momentum": 2.7,
+      "normalized_engagement": 0.0078903117319881,
+      "normalized_momentum": 0.007782101167315176,
+      "composite_score": 0.008,
       "timeAgo": "23 hours ago"
     }
   ],
   "totalScanned": 18,
-  "fetchedAt": "2026-04-14T21:40:33.958Z",
-  "fetchTime": 23.4
+  "fetchedAt": "2026-04-14T21:55:58.652Z",
+  "fetchTime": 22.6
 }
