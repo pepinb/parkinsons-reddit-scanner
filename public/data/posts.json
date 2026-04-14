@@ -7,15 +7,15 @@
       "author": "mlg1981",
       "permalink": "https://www.reddit.com/r/television/comments/1skqpt5/shrinking_star_harrison_ford_is_grateful_for_his/",
       "created_utc": 1776120475,
-      "score": 4685,
-      "num_comments": 188,
+      "score": 5017,
+      "num_comments": 206,
       "upvote_ratio": 0.98,
-      "engagement": 5061,
-      "momentum": 512.9,
+      "engagement": 5429,
+      "momentum": 466.2,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
-      "timeAgo": "9 hours ago"
+      "timeAgo": "11 hours ago"
     },
     {
       "id": "t3_1skqgg4",
@@ -24,15 +24,15 @@
       "author": "Williamslabdw",
       "permalink": "https://www.reddit.com/r/science/comments/1skqgg4/motor_code_transmission_error_explains_motor/",
       "created_utc": 1776119835,
-      "score": 59,
+      "score": 64,
       "num_comments": 2,
       "upvote_ratio": 0.93,
-      "engagement": 63,
-      "momentum": 6.3,
-      "normalized_engagement": 0.01225296442687747,
-      "normalized_momentum": 0.012090483619344776,
+      "engagement": 68,
+      "momentum": 5.8,
+      "normalized_engagement": 0.01234340456890199,
+      "normalized_momentum": 0.012229135378674106,
       "composite_score": 0.012,
-      "timeAgo": "10 hours ago"
+      "timeAgo": "11 hours ago"
     },
     {
       "id": "t3_1ski81f",
@@ -45,11 +45,11 @@
       "num_comments": 11,
       "upvote_ratio": 0.96,
       "engagement": 67,
-      "momentum": 4.5,
-      "normalized_engagement": 0.013043478260869565,
-      "normalized_momentum": 0.008580343213728551,
-      "composite_score": 0.011,
-      "timeAgo": "14 hours ago"
+      "momentum": 4,
+      "normalized_engagement": 0.012159174649963155,
+      "normalized_momentum": 0.00836730315382965,
+      "composite_score": 0.01,
+      "timeAgo": "16 hours ago"
     },
     {
       "id": "t3_1sk8com",
@@ -58,18 +58,18 @@
       "author": "MattTheKing23",
       "permalink": "https://www.reddit.com/r/90s/comments/1sk8com/no_doubts_tom_dumont_reveals_parkinsons_diagnosis/",
       "created_utc": 1776080632,
-      "score": 68,
+      "score": 66,
       "num_comments": 1,
-      "upvote_ratio": 0.99,
-      "engagement": 70,
-      "momentum": 3.3,
-      "normalized_engagement": 0.013636363636363636,
-      "normalized_momentum": 0.0062402496099844,
-      "composite_score": 0.01,
-      "timeAgo": "20 hours ago"
+      "upvote_ratio": 0.98,
+      "engagement": 68,
+      "momentum": 3,
+      "normalized_engagement": 0.01234340456890199,
+      "normalized_momentum": 0.006221840806693843,
+      "composite_score": 0.009,
+      "timeAgo": "22 hours ago"
     }
   ],
-  "totalScanned": 18,
-  "fetchedAt": "2026-04-14T08:39:59.261Z",
-  "fetchTime": 302.8
+  "totalScanned": 19,
+  "fetchedAt": "2026-04-14T10:26:35.997Z",
+  "fetchTime": 313.4
 }
