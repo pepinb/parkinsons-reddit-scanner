@@ -7,15 +7,15 @@
       "author": "mlg1981",
       "permalink": "https://www.reddit.com/r/television/comments/1skqpt5/shrinking_star_harrison_ford_is_grateful_for_his/",
       "created_utc": 1776120475,
-      "score": 4324,
-      "num_comments": 173,
+      "score": 4685,
+      "num_comments": 188,
       "upvote_ratio": 0.98,
-      "engagement": 4670,
-      "momentum": 578.8,
+      "engagement": 5061,
+      "momentum": 512.9,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
-      "timeAgo": "8 hours ago"
+      "timeAgo": "9 hours ago"
     },
     {
       "id": "t3_1skqgg4",
@@ -24,15 +24,15 @@
       "author": "Williamslabdw",
       "permalink": "https://www.reddit.com/r/science/comments/1skqgg4/motor_code_transmission_error_explains_motor/",
       "created_utc": 1776119835,
-      "score": 58,
+      "score": 59,
       "num_comments": 2,
-      "upvote_ratio": 0.92,
-      "engagement": 62,
-      "momentum": 7.5,
-      "normalized_engagement": 0.013064896123366887,
-      "normalized_momentum": 0.012616660905634292,
-      "composite_score": 0.013,
-      "timeAgo": "8 hours ago"
+      "upvote_ratio": 0.93,
+      "engagement": 63,
+      "momentum": 6.3,
+      "normalized_engagement": 0.01225296442687747,
+      "normalized_momentum": 0.012090483619344776,
+      "composite_score": 0.012,
+      "timeAgo": "10 hours ago"
     },
     {
       "id": "t3_1ski81f",
@@ -41,15 +41,15 @@
       "author": "Few-Feedback4418",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1ski81f/something_about_my_journey/",
       "created_utc": 1776102314,
-      "score": 41,
-      "num_comments": 10,
-      "upvote_ratio": 0.93,
-      "engagement": 61,
-      "momentum": 4.7,
-      "normalized_engagement": 0.01285071749839366,
-      "normalized_momentum": 0.007777393708952645,
-      "composite_score": 0.01,
-      "timeAgo": "13 hours ago"
+      "score": 45,
+      "num_comments": 11,
+      "upvote_ratio": 0.96,
+      "engagement": 67,
+      "momentum": 4.5,
+      "normalized_engagement": 0.013043478260869565,
+      "normalized_momentum": 0.008580343213728551,
+      "composite_score": 0.011,
+      "timeAgo": "14 hours ago"
     },
     {
       "id": "t3_1sk8com",
@@ -58,18 +58,18 @@
       "author": "MattTheKing23",
       "permalink": "https://www.reddit.com/r/90s/comments/1sk8com/no_doubts_tom_dumont_reveals_parkinsons_diagnosis/",
       "created_utc": 1776080632,
-      "score": 63,
+      "score": 68,
       "num_comments": 1,
-      "upvote_ratio": 0.97,
-      "engagement": 65,
-      "momentum": 3.4,
-      "normalized_engagement": 0.01370743199828657,
-      "normalized_momentum": 0.005530591081921881,
+      "upvote_ratio": 0.99,
+      "engagement": 70,
+      "momentum": 3.3,
+      "normalized_engagement": 0.013636363636363636,
+      "normalized_momentum": 0.0062402496099844,
       "composite_score": 0.01,
-      "timeAgo": "19 hours ago"
+      "timeAgo": "20 hours ago"
     }
   ],
   "totalScanned": 18,
-  "fetchedAt": "2026-04-14T06:52:02.620Z",
-  "fetchTime": 305.2
+  "fetchedAt": "2026-04-14T08:39:59.261Z",
+  "fetchTime": 302.8
 }
