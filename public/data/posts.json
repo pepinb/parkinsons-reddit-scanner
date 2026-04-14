@@ -7,15 +7,15 @@
       "author": "mlg1981",
       "permalink": "https://www.reddit.com/r/television/comments/1skqpt5/shrinking_star_harrison_ford_is_grateful_for_his/",
       "created_utc": 1776120475,
-      "score": 1556,
-      "num_comments": 90,
+      "score": 2302,
+      "num_comments": 113,
       "upvote_ratio": 0.98,
-      "engagement": 1736,
-      "momentum": 705.4,
+      "engagement": 2528,
+      "momentum": 707.7,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
-      "timeAgo": "2 hours ago"
+      "timeAgo": "3 hours ago"
     },
     {
       "id": "t3_1ski81f",
@@ -24,15 +24,15 @@
       "author": "Few-Feedback4418",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1ski81f/something_about_my_journey/",
       "created_utc": 1776102314,
-      "score": 39,
+      "score": 42,
       "num_comments": 8,
-      "upvote_ratio": 0.95,
-      "engagement": 55,
-      "momentum": 7.3,
-      "normalized_engagement": 0.03112391930835735,
-      "normalized_momentum": 0.01034873830450808,
-      "composite_score": 0.021,
-      "timeAgo": "7 hours ago"
+      "upvote_ratio": 0.96,
+      "engagement": 58,
+      "momentum": 6.7,
+      "normalized_engagement": 0.022556390977443608,
+      "normalized_momentum": 0.009467288399039141,
+      "composite_score": 0.016,
+      "timeAgo": "8 hours ago"
     },
     {
       "id": "t3_1sk8com",
@@ -41,15 +41,15 @@
       "author": "MattTheKing23",
       "permalink": "https://www.reddit.com/r/90s/comments/1sk8com/no_doubts_tom_dumont_reveals_parkinsons_diagnosis/",
       "created_utc": 1776080632,
-      "score": 59,
+      "score": 57,
       "num_comments": 1,
       "upvote_ratio": 0.98,
-      "engagement": 61,
-      "momentum": 4.5,
-      "normalized_engagement": 0.0345821325648415,
-      "normalized_momentum": 0.006379359228806351,
-      "composite_score": 0.02,
-      "timeAgo": "13 hours ago"
+      "engagement": 59,
+      "momentum": 4,
+      "normalized_engagement": 0.02295211713494262,
+      "normalized_momentum": 0.0056521124770382925,
+      "composite_score": 0.014,
+      "timeAgo": "14 hours ago"
     },
     {
       "id": "t3_1skezj4",
@@ -58,18 +58,18 @@
       "author": "abunchofjerks",
       "permalink": "https://www.reddit.com/r/saskatchewan/comments/1skezj4/sask_teen_has_lifechanging_brain_simulation/",
       "created_utc": 1776095691,
-      "score": 39,
+      "score": 42,
       "num_comments": 3,
-      "upvote_ratio": 0.97,
-      "engagement": 45,
-      "momentum": 4.8,
-      "normalized_engagement": 0.025360230547550433,
-      "normalized_momentum": 0.006804649844060108,
-      "composite_score": 0.016,
-      "timeAgo": "9 hours ago"
+      "upvote_ratio": 0.99,
+      "engagement": 48,
+      "momentum": 4.6,
+      "normalized_engagement": 0.018599129402453504,
+      "normalized_momentum": 0.006499929348594036,
+      "composite_score": 0.013,
+      "timeAgo": "10 hours ago"
     }
   ],
-  "totalScanned": 20,
-  "fetchedAt": "2026-04-14T01:15:34.246Z",
-  "fetchTime": 22.9
+  "totalScanned": 21,
+  "fetchedAt": "2026-04-14T02:22:14.499Z",
+  "fetchTime": 21.8
 }
