@@ -7,11 +7,11 @@
       "author": "MrDopey_Monkey",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1sll36q/im_in_diagnosis_limbo/",
       "created_utc": 1776199690,
-      "score": 6,
+      "score": 7,
       "num_comments": 5,
       "upvote_ratio": 1,
-      "engagement": 16,
-      "momentum": 6.6,
+      "engagement": 17,
+      "momentum": 6.4,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
@@ -28,10 +28,10 @@
       "num_comments": 3,
       "upvote_ratio": 1,
       "engagement": 8,
-      "momentum": 3,
-      "normalized_engagement": 0.4666666666666667,
-      "normalized_momentum": 0.4545454545454546,
-      "composite_score": 0.461,
+      "momentum": 2.8,
+      "normalized_engagement": 0.4375,
+      "normalized_momentum": 0.43749999999999994,
+      "composite_score": 0.438,
       "timeAgo": "2 hours ago"
     },
     {
@@ -46,9 +46,9 @@
       "upvote_ratio": 1,
       "engagement": 13,
       "momentum": 0.5,
-      "normalized_engagement": 0.8,
-      "normalized_momentum": 0.07575757575757576,
-      "composite_score": 0.438,
+      "normalized_engagement": 0.75,
+      "normalized_momentum": 0.078125,
+      "composite_score": 0.414,
       "timeAgo": "23 hours ago"
     },
     {
@@ -60,16 +60,16 @@
       "created_utc": 1776168661,
       "score": 8,
       "num_comments": 1,
-      "upvote_ratio": 0.85,
+      "upvote_ratio": 0.91,
       "engagement": 10,
       "momentum": 0.9,
-      "normalized_engagement": 0.6,
-      "normalized_momentum": 0.13636363636363638,
-      "composite_score": 0.368,
+      "normalized_engagement": 0.5625,
+      "normalized_momentum": 0.140625,
+      "composite_score": 0.352,
       "timeAgo": "11 hours ago"
     }
   ],
   "totalScanned": 15,
-  "fetchedAt": "2026-04-14T23:13:12.744Z",
-  "fetchTime": 22.3
+  "fetchedAt": "2026-04-14T23:28:37.448Z",
+  "fetchTime": 22.5
 }
