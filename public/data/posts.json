@@ -7,15 +7,15 @@
       "author": "mlg1981",
       "permalink": "https://www.reddit.com/r/television/comments/1skqpt5/shrinking_star_harrison_ford_is_grateful_for_his/",
       "created_utc": 1776120475,
-      "score": 6895,
+      "score": 6921,
       "num_comments": 294,
       "upvote_ratio": 0.98,
-      "engagement": 7483,
-      "momentum": 359.4,
+      "engagement": 7509,
+      "momentum": 356.2,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
-      "timeAgo": "20 hours ago"
+      "timeAgo": "21 hours ago"
     },
     {
       "id": "t3_1skqgg4",
@@ -24,13 +24,13 @@
       "author": "Williamslabdw",
       "permalink": "https://www.reddit.com/r/science/comments/1skqgg4/motor_code_transmission_error_explains_motor/",
       "created_utc": 1776119835,
-      "score": 53,
+      "score": 57,
       "num_comments": 3,
-      "upvote_ratio": 0.89,
-      "engagement": 59,
-      "momentum": 2.8,
-      "normalized_engagement": 0.007751937984496124,
-      "normalized_momentum": 0.0075146117450598385,
+      "upvote_ratio": 0.9,
+      "engagement": 63,
+      "momentum": 3,
+      "normalized_engagement": 0.008257858284496537,
+      "normalized_momentum": 0.008143779837124403,
       "composite_score": 0.008,
       "timeAgo": "21 hours ago"
     },
@@ -46,8 +46,8 @@
       "upvote_ratio": 1,
       "engagement": 38,
       "momentum": 1.6,
-      "normalized_engagement": 0.004945201817695803,
-      "normalized_momentum": 0.004174784302811022,
+      "normalized_engagement": 0.004928076718167289,
+      "normalized_momentum": 0.004212299915754002,
       "composite_score": 0.005,
       "timeAgo": "23 hours ago"
     },
@@ -63,13 +63,13 @@
       "upvote_ratio": 1,
       "engagement": 31,
       "momentum": 1.5,
-      "normalized_engagement": 0.00400962309542903,
-      "normalized_momentum": 0.003896465349290287,
+      "normalized_engagement": 0.003995737879595098,
+      "normalized_momentum": 0.003931479921370402,
       "composite_score": 0.004,
       "timeAgo": "20 hours ago"
     }
   ],
-  "totalScanned": 14,
-  "fetchedAt": "2026-04-14T19:37:16.853Z",
-  "fetchTime": 22.6
+  "totalScanned": 15,
+  "fetchedAt": "2026-04-14T19:52:41.735Z",
+  "fetchTime": 22.9
 }
