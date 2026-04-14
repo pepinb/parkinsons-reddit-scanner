@@ -7,15 +7,15 @@
       "author": "mlg1981",
       "permalink": "https://www.reddit.com/r/television/comments/1skqpt5/shrinking_star_harrison_ford_is_grateful_for_his/",
       "created_utc": 1776120475,
-      "score": 3064,
-      "num_comments": 143,
+      "score": 3204,
+      "num_comments": 150,
       "upvote_ratio": 0.98,
-      "engagement": 3350,
-      "momentum": 689.8,
+      "engagement": 3504,
+      "momentum": 684.9,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
-      "timeAgo": "4 hours ago"
+      "timeAgo": "5 hours ago"
     },
     {
       "id": "t3_1ski81f",
@@ -26,13 +26,13 @@
       "created_utc": 1776102314,
       "score": 40,
       "num_comments": 10,
-      "upvote_ratio": 0.95,
+      "upvote_ratio": 0.93,
       "engagement": 60,
-      "momentum": 6.1,
-      "normalized_engagement": 0.01761719916392953,
-      "normalized_momentum": 0.008699434536755112,
+      "momentum": 5.9,
+      "normalized_engagement": 0.016842706251784186,
+      "normalized_momentum": 0.0084696261682243,
       "composite_score": 0.013,
-      "timeAgo": "9 hours ago"
+      "timeAgo": "10 hours ago"
     },
     {
       "id": "t3_1sk8com",
@@ -41,15 +41,15 @@
       "author": "MattTheKing23",
       "permalink": "https://www.reddit.com/r/90s/comments/1sk8com/no_doubts_tom_dumont_reveals_parkinsons_diagnosis/",
       "created_utc": 1776080632,
-      "score": 64,
+      "score": 63,
       "num_comments": 1,
-      "upvote_ratio": 0.98,
-      "engagement": 66,
-      "momentum": 4.1,
-      "normalized_engagement": 0.019408778739922364,
-      "normalized_momentum": 0.005799623024503407,
-      "composite_score": 0.013,
-      "timeAgo": "15 hours ago"
+      "upvote_ratio": 0.97,
+      "engagement": 65,
+      "momentum": 4,
+      "normalized_engagement": 0.018270054239223524,
+      "normalized_momentum": 0.005695093457943926,
+      "composite_score": 0.012,
+      "timeAgo": "16 hours ago"
     },
     {
       "id": "t3_1skqgg4",
@@ -58,18 +58,18 @@
       "author": "Williamslabdw",
       "permalink": "https://www.reddit.com/r/science/comments/1skqgg4/motor_code_transmission_error_explains_motor/",
       "created_utc": 1776119835,
-      "score": 38,
+      "score": 37,
       "num_comments": 2,
-      "upvote_ratio": 0.89,
-      "engagement": 42,
-      "momentum": 8.3,
-      "normalized_engagement": 0.01224246043595103,
-      "normalized_momentum": 0.011889227200231988,
-      "composite_score": 0.012,
+      "upvote_ratio": 0.88,
+      "engagement": 41,
+      "momentum": 7.7,
+      "normalized_engagement": 0.011418783899514702,
+      "normalized_momentum": 0.011098130841121497,
+      "composite_score": 0.011,
       "timeAgo": "5 hours ago"
     }
   ],
   "totalScanned": 19,
-  "fetchedAt": "2026-04-14T03:39:18.559Z",
-  "fetchTime": 22.4
+  "fetchedAt": "2026-04-14T03:54:53.700Z",
+  "fetchTime": 21.9
 }
