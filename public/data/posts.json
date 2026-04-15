@@ -11,7 +11,7 @@
       "num_comments": 5,
       "upvote_ratio": 1,
       "engagement": 16,
-      "momentum": 5,
+      "momentum": 4.6,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
@@ -28,10 +28,10 @@
       "num_comments": 3,
       "upvote_ratio": 1,
       "engagement": 8,
-      "momentum": 2.4,
+      "momentum": 2.2,
       "normalized_engagement": 0.4666666666666667,
-      "normalized_momentum": 0.48,
-      "composite_score": 0.473,
+      "normalized_momentum": 0.47826086956521746,
+      "composite_score": 0.472,
       "timeAgo": "3 hours ago"
     },
     {
@@ -47,9 +47,9 @@
       "engagement": 11,
       "momentum": 0.9,
       "normalized_engagement": 0.6666666666666666,
-      "normalized_momentum": 0.18,
-      "composite_score": 0.423,
-      "timeAgo": "11 hours ago"
+      "normalized_momentum": 0.1956521739130435,
+      "composite_score": 0.431,
+      "timeAgo": "12 hours ago"
     },
     {
       "id": "t3_1slklod",
@@ -58,18 +58,18 @@
       "author": "Only-Research-7249",
       "permalink": "https://www.reddit.com/r/Nutraceuticalscience/comments/1slklod/longterm_chlorpyrifos_exposure_raises_parkinsons/",
       "created_utc": 1776198602,
-      "score": 5,
+      "score": 4,
       "num_comments": 0,
       "upvote_ratio": 1,
-      "engagement": 5,
-      "momentum": 1.4,
-      "normalized_engagement": 0.26666666666666666,
-      "normalized_momentum": 0.27999999999999997,
-      "composite_score": 0.273,
+      "engagement": 4,
+      "momentum": 1.1,
+      "normalized_engagement": 0.2,
+      "normalized_momentum": 0.23913043478260873,
+      "composite_score": 0.22,
       "timeAgo": "3 hours ago"
     }
   ],
   "totalScanned": 14,
-  "fetchedAt": "2026-04-14T23:59:26.806Z",
-  "fetchTime": 22.7
+  "fetchedAt": "2026-04-15T00:14:50.653Z",
+  "fetchTime": 21.8
 }
