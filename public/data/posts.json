@@ -9,13 +9,13 @@
       "created_utc": 1776212117,
       "score": 68,
       "num_comments": 17,
-      "upvote_ratio": 0.99,
+      "upvote_ratio": 0.98,
       "engagement": 102,
-      "momentum": 6.5,
+      "momentum": 6.4,
       "normalized_engagement": 1,
-      "normalized_momentum": 0.5818181818181819,
-      "composite_score": 0.791,
-      "timeAgo": "15 hours ago"
+      "normalized_momentum": 0.5727272727272728,
+      "composite_score": 0.786,
+      "timeAgo": "16 hours ago"
     },
     {
       "id": "t3_1sm2su3",
@@ -24,15 +24,32 @@
       "author": "The_Iceman2288",
       "permalink": "https://www.reddit.com/r/WrexhamAFC/comments/1sm2su3/phil_parkinson_manager_proud_to_receive_freedom/",
       "created_utc": 1776251017,
-      "score": 55,
+      "score": 58,
       "num_comments": 0,
       "upvote_ratio": 0.97,
-      "engagement": 55,
+      "engagement": 58,
       "momentum": 11.1,
-      "normalized_engagement": 0.5346534653465347,
+      "normalized_engagement": 0.5643564356435643,
       "normalized_momentum": 1,
-      "composite_score": 0.767,
-      "timeAgo": "4 hours ago"
+      "composite_score": 0.782,
+      "timeAgo": "5 hours ago"
+    },
+    {
+      "id": "t3_1sm4lqb",
+      "title": "Alberta’s plan to curb MAID access worries ALS, Parkinson’s advocates  | Globalnews.ca",
+      "subreddit": "r/canada",
+      "author": "existentialgoof",
+      "permalink": "https://www.reddit.com/r/canada/comments/1sm4lqb/albertas_plan_to_curb_maid_access_worries_als/",
+      "created_utc": 1776255992,
+      "score": 13,
+      "num_comments": 9,
+      "upvote_ratio": 0.67,
+      "engagement": 31,
+      "momentum": 8.1,
+      "normalized_engagement": 0.297029702970297,
+      "normalized_momentum": 0.7272727272727273,
+      "composite_score": 0.512,
+      "timeAgo": "3 hours ago"
     },
     {
       "id": "t3_1sm6axy",
@@ -45,31 +62,14 @@
       "num_comments": 5,
       "upvote_ratio": 0.93,
       "engagement": 23,
-      "momentum": 9.4,
+      "momentum": 8.5,
       "normalized_engagement": 0.21782178217821782,
-      "normalized_momentum": 0.8454545454545456,
-      "composite_score": 0.532,
+      "normalized_momentum": 0.7636363636363637,
+      "composite_score": 0.491,
       "timeAgo": "2 hours ago"
-    },
-    {
-      "id": "t3_1sm4lqb",
-      "title": "Alberta’s plan to curb MAID access worries ALS, Parkinson’s advocates  | Globalnews.ca",
-      "subreddit": "r/canada",
-      "author": "existentialgoof",
-      "permalink": "https://www.reddit.com/r/canada/comments/1sm4lqb/albertas_plan_to_curb_maid_access_worries_als/",
-      "created_utc": 1776255992,
-      "score": 11,
-      "num_comments": 9,
-      "upvote_ratio": 0.64,
-      "engagement": 29,
-      "momentum": 8.1,
-      "normalized_engagement": 0.27722772277227725,
-      "normalized_momentum": 0.7272727272727273,
-      "composite_score": 0.502,
-      "timeAgo": "3 hours ago"
     }
   ],
   "totalScanned": 21,
-  "fetchedAt": "2026-04-15T16:02:06.910Z",
-  "fetchTime": 23.3
+  "fetchedAt": "2026-04-15T16:17:31.528Z",
+  "fetchTime": 22.2
 }
