@@ -7,14 +7,14 @@
       "author": "Ohnoblu",
       "permalink": "https://www.reddit.com/r/ThePaperKingdomMCR/comments/1slq9l7/the_origin_of_gerard_and_mikeys_photoshoot_in_the/",
       "created_utc": 1776212117,
-      "score": 76,
+      "score": 77,
       "num_comments": 17,
       "upvote_ratio": 0.99,
-      "engagement": 110,
-      "momentum": 5.7,
+      "engagement": 111,
+      "momentum": 5.6,
       "normalized_engagement": 1,
-      "normalized_momentum": 0.6867469879518072,
-      "composite_score": 0.843,
+      "normalized_momentum": 0.7,
+      "composite_score": 0.85,
       "timeAgo": "19 hours ago"
     },
     {
@@ -28,10 +28,10 @@
       "num_comments": 1,
       "upvote_ratio": 0.95,
       "engagement": 71,
-      "momentum": 8.3,
-      "normalized_engagement": 0.6422018348623854,
+      "momentum": 8,
+      "normalized_engagement": 0.6363636363636364,
       "normalized_momentum": 1,
-      "composite_score": 0.821,
+      "composite_score": 0.818,
       "timeAgo": "8 hours ago"
     },
     {
@@ -45,10 +45,10 @@
       "num_comments": 11,
       "upvote_ratio": 0.94,
       "engagement": 37,
-      "momentum": 6.1,
-      "normalized_engagement": 0.3302752293577982,
-      "normalized_momentum": 0.7349397590361445,
-      "composite_score": 0.533,
+      "momentum": 5.9,
+      "normalized_engagement": 0.32727272727272727,
+      "normalized_momentum": 0.7375,
+      "composite_score": 0.532,
       "timeAgo": "6 hours ago"
     },
     {
@@ -62,14 +62,14 @@
       "num_comments": 11,
       "upvote_ratio": 0.67,
       "engagement": 38,
-      "momentum": 5.3,
-      "normalized_engagement": 0.3394495412844037,
-      "normalized_momentum": 0.6385542168674698,
-      "composite_score": 0.489,
+      "momentum": 5.1,
+      "normalized_engagement": 0.33636363636363636,
+      "normalized_momentum": 0.6375,
+      "composite_score": 0.487,
       "timeAgo": "7 hours ago"
     }
   ],
   "totalScanned": 25,
-  "fetchedAt": "2026-04-15T19:38:39.436Z",
-  "fetchTime": 23
+  "fetchedAt": "2026-04-15T19:54:05.573Z",
+  "fetchTime": 24
 }
