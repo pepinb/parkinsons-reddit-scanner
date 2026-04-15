@@ -7,15 +7,15 @@
       "author": "GeekyGlobalGal",
       "permalink": "https://www.reddit.com/r/Edmonton/comments/1slr6sx/albertas_plan_to_curb_maid_access_worries_als/",
       "created_utc": 1776214560,
-      "score": 19,
+      "score": 24,
       "num_comments": 1,
-      "upvote_ratio": 0.88,
-      "engagement": 21,
-      "momentum": 35,
-      "normalized_engagement": 0.8695652173913043,
+      "upvote_ratio": 0.85,
+      "engagement": 26,
+      "momentum": 30.3,
+      "normalized_engagement": 0.8333333333333334,
       "normalized_momentum": 1,
-      "composite_score": 0.935,
-      "timeAgo": "35 minutes ago"
+      "composite_score": 0.917,
+      "timeAgo": "51 minutes ago"
     },
     {
       "id": "t3_1slq9l7",
@@ -24,14 +24,14 @@
       "author": "Ohnoblu",
       "permalink": "https://www.reddit.com/r/ThePaperKingdomMCR/comments/1slq9l7/the_origin_of_gerard_and_mikeys_photoshoot_in_the/",
       "created_utc": 1776212117,
-      "score": 16,
+      "score": 23,
       "num_comments": 4,
       "upvote_ratio": 1,
-      "engagement": 24,
-      "momentum": 18.8,
+      "engagement": 31,
+      "momentum": 20.2,
       "normalized_engagement": 1,
-      "normalized_momentum": 0.5371428571428571,
-      "composite_score": 0.769,
+      "normalized_momentum": 0.6666666666666666,
+      "composite_score": 0.833,
       "timeAgo": "1 hour ago"
     },
     {
@@ -41,14 +41,14 @@
       "author": "MrDopey_Monkey",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1sll36q/im_in_diagnosis_limbo/",
       "created_utc": 1776199690,
-      "score": 7,
+      "score": 6,
       "num_comments": 5,
-      "upvote_ratio": 1,
-      "engagement": 17,
-      "momentum": 3.6,
-      "normalized_engagement": 0.6956521739130435,
-      "normalized_momentum": 0.10285714285714286,
-      "composite_score": 0.399,
+      "upvote_ratio": 0.88,
+      "engagement": 16,
+      "momentum": 3.2,
+      "normalized_engagement": 0.5,
+      "normalized_momentum": 0.10561056105610561,
+      "composite_score": 0.303,
       "timeAgo": "4 hours ago"
     },
     {
@@ -62,14 +62,14 @@
       "num_comments": 3,
       "upvote_ratio": 1,
       "engagement": 11,
-      "momentum": 2.2,
-      "normalized_engagement": 0.43478260869565216,
-      "normalized_momentum": 0.06285714285714286,
-      "composite_score": 0.249,
-      "timeAgo": "4 hours ago"
+      "momentum": 2.1,
+      "normalized_engagement": 0.3333333333333333,
+      "normalized_momentum": 0.06930693069306931,
+      "composite_score": 0.201,
+      "timeAgo": "5 hours ago"
     }
   ],
   "totalScanned": 16,
-  "fetchedAt": "2026-04-15T01:31:59.294Z",
-  "fetchTime": 22.2
+  "fetchedAt": "2026-04-15T01:47:25.969Z",
+  "fetchTime": 24.5
 }
