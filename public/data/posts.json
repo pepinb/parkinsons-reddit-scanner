@@ -7,14 +7,14 @@
       "author": "The_Iceman2288",
       "permalink": "https://www.reddit.com/r/WrexhamAFC/comments/1sm2su3/phil_parkinson_manager_proud_to_receive_freedom/",
       "created_utc": 1776251017,
-      "score": 70,
+      "score": 74,
       "num_comments": 1,
       "upvote_ratio": 0.96,
-      "engagement": 72,
-      "momentum": 8.9,
-      "normalized_engagement": 0.6513761467889908,
+      "engagement": 76,
+      "momentum": 9.1,
+      "normalized_engagement": 0.6880733944954128,
       "normalized_momentum": 1,
-      "composite_score": 0.826,
+      "composite_score": 0.844,
       "timeAgo": "8 hours ago"
     },
     {
@@ -28,11 +28,11 @@
       "num_comments": 17,
       "upvote_ratio": 0.99,
       "engagement": 110,
-      "momentum": 5.8,
+      "momentum": 5.7,
       "normalized_engagement": 1,
-      "normalized_momentum": 0.6516853932584269,
-      "composite_score": 0.826,
-      "timeAgo": "18 hours ago"
+      "normalized_momentum": 0.6263736263736264,
+      "composite_score": 0.813,
+      "timeAgo": "19 hours ago"
     },
     {
       "id": "t3_1sm6axy",
@@ -45,10 +45,10 @@
       "num_comments": 11,
       "upvote_ratio": 0.94,
       "engagement": 37,
-      "momentum": 6.7,
+      "momentum": 6.4,
       "normalized_engagement": 0.3302752293577982,
-      "normalized_momentum": 0.7528089887640449,
-      "composite_score": 0.542,
+      "normalized_momentum": 0.7032967032967034,
+      "composite_score": 0.517,
       "timeAgo": "5 hours ago"
     },
     {
@@ -59,17 +59,17 @@
       "permalink": "https://www.reddit.com/r/canada/comments/1sm4lqb/albertas_plan_to_curb_maid_access_worries_als/",
       "created_utc": 1776255992,
       "score": 14,
-      "num_comments": 10,
-      "upvote_ratio": 0.65,
-      "engagement": 34,
-      "momentum": 5.1,
-      "normalized_engagement": 0.30275229357798167,
-      "normalized_momentum": 0.5730337078651685,
-      "composite_score": 0.438,
+      "num_comments": 11,
+      "upvote_ratio": 0.66,
+      "engagement": 36,
+      "momentum": 5.2,
+      "normalized_engagement": 0.3211009174311927,
+      "normalized_momentum": 0.5714285714285715,
+      "composite_score": 0.446,
       "timeAgo": "6 hours ago"
     }
   ],
   "totalScanned": 25,
-  "fetchedAt": "2026-04-15T19:07:49.641Z",
+  "fetchedAt": "2026-04-15T19:23:14.279Z",
   "fetchTime": 22.5
 }
