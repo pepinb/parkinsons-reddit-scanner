@@ -1,23 +1,6 @@
 {
   "posts": [
     {
-      "id": "t3_1sm2su3",
-      "title": "Phil Parkinson: Manager 'proud' to receive freedom of Wrexham",
-      "subreddit": "r/WrexhamAFC",
-      "author": "The_Iceman2288",
-      "permalink": "https://www.reddit.com/r/WrexhamAFC/comments/1sm2su3/phil_parkinson_manager_proud_to_receive_freedom/",
-      "created_utc": 1776251017,
-      "score": 74,
-      "num_comments": 1,
-      "upvote_ratio": 0.96,
-      "engagement": 76,
-      "momentum": 9.1,
-      "normalized_engagement": 0.6880733944954128,
-      "normalized_momentum": 1,
-      "composite_score": 0.844,
-      "timeAgo": "8 hours ago"
-    },
-    {
       "id": "t3_1slq9l7",
       "title": "The origin of Gerard and Mikey's photoshoot in the woods: Parkinson's disease awareness.",
       "subreddit": "r/ThePaperKingdomMCR",
@@ -30,9 +13,26 @@
       "engagement": 110,
       "momentum": 5.7,
       "normalized_engagement": 1,
-      "normalized_momentum": 0.6263736263736264,
-      "composite_score": 0.813,
+      "normalized_momentum": 0.6867469879518072,
+      "composite_score": 0.843,
       "timeAgo": "19 hours ago"
+    },
+    {
+      "id": "t3_1sm2su3",
+      "title": "Phil Parkinson: Manager 'proud' to receive freedom of Wrexham",
+      "subreddit": "r/WrexhamAFC",
+      "author": "The_Iceman2288",
+      "permalink": "https://www.reddit.com/r/WrexhamAFC/comments/1sm2su3/phil_parkinson_manager_proud_to_receive_freedom/",
+      "created_utc": 1776251017,
+      "score": 69,
+      "num_comments": 1,
+      "upvote_ratio": 0.95,
+      "engagement": 71,
+      "momentum": 8.3,
+      "normalized_engagement": 0.6422018348623854,
+      "normalized_momentum": 1,
+      "composite_score": 0.821,
+      "timeAgo": "8 hours ago"
     },
     {
       "id": "t3_1sm6axy",
@@ -45,11 +45,11 @@
       "num_comments": 11,
       "upvote_ratio": 0.94,
       "engagement": 37,
-      "momentum": 6.4,
+      "momentum": 6.1,
       "normalized_engagement": 0.3302752293577982,
-      "normalized_momentum": 0.7032967032967034,
-      "composite_score": 0.517,
-      "timeAgo": "5 hours ago"
+      "normalized_momentum": 0.7349397590361445,
+      "composite_score": 0.533,
+      "timeAgo": "6 hours ago"
     },
     {
       "id": "t3_1sm4lqb",
@@ -58,18 +58,18 @@
       "author": "existentialgoof",
       "permalink": "https://www.reddit.com/r/canada/comments/1sm4lqb/albertas_plan_to_curb_maid_access_worries_als/",
       "created_utc": 1776255992,
-      "score": 14,
+      "score": 16,
       "num_comments": 11,
-      "upvote_ratio": 0.66,
-      "engagement": 36,
-      "momentum": 5.2,
-      "normalized_engagement": 0.3211009174311927,
-      "normalized_momentum": 0.5714285714285715,
-      "composite_score": 0.446,
-      "timeAgo": "6 hours ago"
+      "upvote_ratio": 0.67,
+      "engagement": 38,
+      "momentum": 5.3,
+      "normalized_engagement": 0.3394495412844037,
+      "normalized_momentum": 0.6385542168674698,
+      "composite_score": 0.489,
+      "timeAgo": "7 hours ago"
     }
   ],
   "totalScanned": 25,
-  "fetchedAt": "2026-04-15T19:23:14.279Z",
-  "fetchTime": 22.5
+  "fetchedAt": "2026-04-15T19:38:39.436Z",
+  "fetchTime": 23
 }
