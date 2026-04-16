@@ -7,14 +7,14 @@
       "author": "Fabulous_Stegosaurus",
       "permalink": "https://www.reddit.com/r/ToddintheShadow/comments/1smmipk/tom_dumont_of_no_doubt_announces_that_he_has/",
       "created_utc": 1776295496,
-      "score": 51,
+      "score": 53,
       "num_comments": 6,
-      "upvote_ratio": 0.96,
-      "engagement": 63,
+      "upvote_ratio": 0.97,
+      "engagement": 65,
       "momentum": 2.9,
       "normalized_engagement": 1,
-      "normalized_momentum": 0.3544303797468354,
-      "composite_score": 0.677,
+      "normalized_momentum": 0.4242424242424242,
+      "composite_score": 0.712,
       "timeAgo": "22 hours ago"
     },
     {
@@ -26,13 +26,13 @@
       "created_utc": 1776353235,
       "score": 10,
       "num_comments": 11,
-      "upvote_ratio": 0.92,
+      "upvote_ratio": 1,
       "engagement": 32,
-      "momentum": 5.3,
-      "normalized_engagement": 0.4918032786885246,
-      "normalized_momentum": 0.6582278481012658,
-      "composite_score": 0.575,
-      "timeAgo": "5 hours ago"
+      "momentum": 5.1,
+      "normalized_engagement": 0.484375,
+      "normalized_momentum": 0.7575757575757576,
+      "composite_score": 0.621,
+      "timeAgo": "6 hours ago"
     },
     {
       "id": "t3_1snepzf",
@@ -45,10 +45,10 @@
       "num_comments": 5,
       "upvote_ratio": 1,
       "engagement": 11,
-      "momentum": 8,
-      "normalized_engagement": 0.14754098360655737,
+      "momentum": 6.7,
+      "normalized_engagement": 0.15625,
       "normalized_momentum": 1,
-      "composite_score": 0.574,
+      "composite_score": 0.578,
       "timeAgo": "1 hour ago"
     },
     {
@@ -60,16 +60,16 @@
       "created_utc": 1776354900,
       "score": 17,
       "num_comments": 2,
-      "upvote_ratio": 0.96,
+      "upvote_ratio": 1,
       "engagement": 21,
-      "momentum": 3.8,
-      "normalized_engagement": 0.3114754098360656,
-      "normalized_momentum": 0.4683544303797468,
-      "composite_score": 0.39,
+      "momentum": 3.6,
+      "normalized_engagement": 0.3125,
+      "normalized_momentum": 0.5303030303030303,
+      "composite_score": 0.421,
       "timeAgo": "5 hours ago"
     }
   ],
-  "totalScanned": 13,
-  "fetchedAt": "2026-04-16T21:26:24.416Z",
-  "fetchTime": 22.9
+  "totalScanned": 14,
+  "fetchedAt": "2026-04-16T21:41:49.391Z",
+  "fetchTime": 23
 }
