@@ -1,6 +1,23 @@
 {
   "posts": [
     {
+      "id": "t3_1sn6u1h",
+      "title": "Veterans with PD",
+      "subreddit": "r/Parkinsons",
+      "author": "CSMe9",
+      "permalink": "https://www.reddit.com/r/Parkinsons/comments/1sn6u1h/veterans_with_pd/",
+      "created_utc": 1776353235,
+      "score": 10,
+      "num_comments": 11,
+      "upvote_ratio": 1,
+      "engagement": 32,
+      "momentum": 6.5,
+      "normalized_engagement": 0.46875,
+      "normalized_momentum": 1,
+      "composite_score": 0.734,
+      "timeAgo": "4 hours ago"
+    },
+    {
       "id": "t3_1smmipk",
       "title": "Tom Dumont of No Doubt announces that he has Parkinsons.",
       "subreddit": "r/ToddintheShadow",
@@ -9,30 +26,13 @@
       "created_utc": 1776295496,
       "score": 54,
       "num_comments": 6,
-      "upvote_ratio": 0.97,
+      "upvote_ratio": 0.98,
       "engagement": 66,
-      "momentum": 3.2,
+      "momentum": 3.1,
       "normalized_engagement": 1,
-      "normalized_momentum": 0.47692307692307695,
-      "composite_score": 0.738,
+      "normalized_momentum": 0.46875,
+      "composite_score": 0.734,
       "timeAgo": "20 hours ago"
-    },
-    {
-      "id": "t3_1sn6u1h",
-      "title": "Veterans with PD",
-      "subreddit": "r/Parkinsons",
-      "author": "CSMe9",
-      "permalink": "https://www.reddit.com/r/Parkinsons/comments/1sn6u1h/veterans_with_pd/",
-      "created_utc": 1776353235,
-      "score": 9,
-      "num_comments": 11,
-      "upvote_ratio": 0.92,
-      "engagement": 31,
-      "momentum": 6.6,
-      "normalized_engagement": 0.453125,
-      "normalized_momentum": 1,
-      "composite_score": 0.727,
-      "timeAgo": "4 hours ago"
     },
     {
       "id": "t3_1snepzf",
@@ -47,9 +47,9 @@
       "engagement": 3,
       "momentum": 6,
       "normalized_engagement": 0.015625,
-      "normalized_momentum": 0.9076923076923078,
-      "composite_score": 0.462,
-      "timeAgo": "5 minutes ago"
+      "normalized_momentum": 0.921875,
+      "composite_score": 0.469,
+      "timeAgo": "21 minutes ago"
     },
     {
       "id": "t3_1sn7m5g",
@@ -62,14 +62,14 @@
       "num_comments": 2,
       "upvote_ratio": 1,
       "engagement": 17,
-      "momentum": 4,
+      "momentum": 3.8,
       "normalized_engagement": 0.234375,
-      "normalized_momentum": 0.6,
-      "composite_score": 0.417,
+      "normalized_momentum": 0.5781249999999999,
+      "composite_score": 0.406,
       "timeAgo": "4 hours ago"
     }
   ],
   "totalScanned": 14,
-  "fetchedAt": "2026-04-16T20:09:19.331Z",
-  "fetchTime": 23
+  "fetchedAt": "2026-04-16T20:24:43.577Z",
+  "fetchTime": 22.2
 }
