@@ -1,6 +1,23 @@
 {
   "posts": [
     {
+      "id": "t3_1sn6u1h",
+      "title": "Veterans with PD",
+      "subreddit": "r/Parkinsons",
+      "author": "CSMe9",
+      "permalink": "https://www.reddit.com/r/Parkinsons/comments/1sn6u1h/veterans_with_pd/",
+      "created_utc": 1776353235,
+      "score": 7,
+      "num_comments": 6,
+      "upvote_ratio": 1,
+      "engagement": 19,
+      "momentum": 14,
+      "normalized_engagement": 0.2857142857142857,
+      "normalized_momentum": 1,
+      "composite_score": 0.643,
+      "timeAgo": "1 hour ago"
+    },
+    {
       "id": "t3_1smmipk",
       "title": "Tom Dumont of No Doubt announces that he has Parkinsons.",
       "subreddit": "r/ToddintheShadow",
@@ -13,26 +30,9 @@
       "engagement": 64,
       "momentum": 3.7,
       "normalized_engagement": 1,
-      "normalized_momentum": 0.2720588235294118,
-      "composite_score": 0.636,
+      "normalized_momentum": 0.2642857142857143,
+      "composite_score": 0.632,
       "timeAgo": "17 hours ago"
-    },
-    {
-      "id": "t3_1sn6u1h",
-      "title": "Veterans with PD",
-      "subreddit": "r/Parkinsons",
-      "author": "CSMe9",
-      "permalink": "https://www.reddit.com/r/Parkinsons/comments/1sn6u1h/veterans_with_pd/",
-      "created_utc": 1776353235,
-      "score": 7,
-      "num_comments": 4,
-      "upvote_ratio": 1,
-      "engagement": 15,
-      "momentum": 13.6,
-      "normalized_engagement": 0.2222222222222222,
-      "normalized_momentum": 1,
-      "composite_score": 0.611,
-      "timeAgo": "1 hour ago"
     },
     {
       "id": "t3_1sn7m5g",
@@ -41,15 +41,15 @@
       "author": "2loudis2old",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1sn7m5g/scientists_reverse_brain_aging_with_a_nasal_spray/",
       "created_utc": 1776354900,
-      "score": 5,
+      "score": 7,
       "num_comments": 0,
       "upvote_ratio": 1,
-      "engagement": 5,
+      "engagement": 7,
       "momentum": 7.8,
-      "normalized_engagement": 0.06349206349206349,
-      "normalized_momentum": 0.5735294117647058,
-      "composite_score": 0.319,
-      "timeAgo": "38 minutes ago"
+      "normalized_engagement": 0.09523809523809523,
+      "normalized_momentum": 0.5571428571428572,
+      "composite_score": 0.326,
+      "timeAgo": "53 minutes ago"
     },
     {
       "id": "t3_1smk13y",
@@ -64,12 +64,12 @@
       "engagement": 30,
       "momentum": 1.6,
       "normalized_engagement": 0.4603174603174603,
-      "normalized_momentum": 0.11764705882352942,
-      "composite_score": 0.289,
-      "timeAgo": "18 hours ago"
+      "normalized_momentum": 0.1142857142857143,
+      "composite_score": 0.287,
+      "timeAgo": "19 hours ago"
     }
   ],
-  "totalScanned": 16,
-  "fetchedAt": "2026-04-16T16:33:24.092Z",
-  "fetchTime": 23.1
+  "totalScanned": 14,
+  "fetchedAt": "2026-04-16T16:48:48.499Z",
+  "fetchTime": 22.2
 }
