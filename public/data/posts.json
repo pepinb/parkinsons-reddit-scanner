@@ -7,14 +7,14 @@
       "author": "Fabulous_Stegosaurus",
       "permalink": "https://www.reddit.com/r/ToddintheShadow/comments/1smmipk/tom_dumont_of_no_doubt_announces_that_he_has/",
       "created_utc": 1776295496,
-      "score": 54,
+      "score": 53,
       "num_comments": 6,
-      "upvote_ratio": 0.98,
-      "engagement": 66,
+      "upvote_ratio": 0.97,
+      "engagement": 65,
       "momentum": 2.9,
       "normalized_engagement": 1,
-      "normalized_momentum": 0.49122807017543857,
-      "composite_score": 0.746,
+      "normalized_momentum": 0.5490196078431372,
+      "composite_score": 0.775,
       "timeAgo": "22 hours ago"
     },
     {
@@ -28,10 +28,10 @@
       "num_comments": 12,
       "upvote_ratio": 1,
       "engagement": 35,
-      "momentum": 5.4,
-      "normalized_engagement": 0.5230769230769231,
-      "normalized_momentum": 0.9298245614035089,
-      "composite_score": 0.726,
+      "momentum": 5.2,
+      "normalized_engagement": 0.53125,
+      "normalized_momentum": 1,
+      "composite_score": 0.766,
       "timeAgo": "6 hours ago"
     },
     {
@@ -45,11 +45,11 @@
       "num_comments": 5,
       "upvote_ratio": 1,
       "engagement": 11,
-      "momentum": 5.8,
-      "normalized_engagement": 0.15384615384615385,
-      "normalized_momentum": 1,
-      "composite_score": 0.577,
-      "timeAgo": "1 hour ago"
+      "momentum": 5.1,
+      "normalized_engagement": 0.15625,
+      "normalized_momentum": 0.980392156862745,
+      "composite_score": 0.568,
+      "timeAgo": "2 hours ago"
     },
     {
       "id": "t3_1sn7m5g",
@@ -58,18 +58,18 @@
       "author": "2loudis2old",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1sn7m5g/scientists_reverse_brain_aging_with_a_nasal_spray/",
       "created_utc": 1776354900,
-      "score": 17,
+      "score": 18,
       "num_comments": 2,
       "upvote_ratio": 1,
-      "engagement": 21,
+      "engagement": 22,
       "momentum": 3.5,
-      "normalized_engagement": 0.3076923076923077,
-      "normalized_momentum": 0.5964912280701754,
-      "composite_score": 0.452,
+      "normalized_engagement": 0.328125,
+      "normalized_momentum": 0.6666666666666666,
+      "composite_score": 0.497,
       "timeAgo": "6 hours ago"
     }
   ],
-  "totalScanned": 13,
-  "fetchedAt": "2026-04-16T21:57:13.079Z",
-  "fetchTime": 21.6
+  "totalScanned": 14,
+  "fetchedAt": "2026-04-16T22:12:37.814Z",
+  "fetchTime": 22.5
 }
