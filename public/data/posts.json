@@ -1,38 +1,38 @@
 {
   "posts": [
     {
-      "id": "t3_1smmipk",
-      "title": "Tom Dumont of No Doubt announces that he has Parkinsons.",
-      "subreddit": "r/ToddintheShadow",
-      "author": "Fabulous_Stegosaurus",
-      "permalink": "https://www.reddit.com/r/ToddintheShadow/comments/1smmipk/tom_dumont_of_no_doubt_announces_that_he_has/",
-      "created_utc": 1776295496,
-      "score": 57,
-      "num_comments": 6,
-      "upvote_ratio": 0.98,
-      "engagement": 69,
-      "momentum": 3.5,
-      "normalized_engagement": 1,
-      "normalized_momentum": 0.4197530864197531,
-      "composite_score": 0.71,
-      "timeAgo": "19 hours ago"
-    },
-    {
       "id": "t3_1sn6u1h",
       "title": "Veterans with PD",
       "subreddit": "r/Parkinsons",
       "author": "CSMe9",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1sn6u1h/veterans_with_pd/",
       "created_utc": 1776353235,
-      "score": 8,
-      "num_comments": 10,
+      "score": 10,
+      "num_comments": 11,
       "upvote_ratio": 1,
-      "engagement": 28,
-      "momentum": 8.2,
-      "normalized_engagement": 0.39705882352941174,
+      "engagement": 32,
+      "momentum": 8.7,
+      "normalized_engagement": 0.46875,
       "normalized_momentum": 1,
-      "composite_score": 0.699,
+      "composite_score": 0.734,
       "timeAgo": "3 hours ago"
+    },
+    {
+      "id": "t3_1smmipk",
+      "title": "Tom Dumont of No Doubt announces that he has Parkinsons.",
+      "subreddit": "r/ToddintheShadow",
+      "author": "Fabulous_Stegosaurus",
+      "permalink": "https://www.reddit.com/r/ToddintheShadow/comments/1smmipk/tom_dumont_of_no_doubt_announces_that_he_has/",
+      "created_utc": 1776295496,
+      "score": 54,
+      "num_comments": 6,
+      "upvote_ratio": 0.98,
+      "engagement": 66,
+      "momentum": 3.3,
+      "normalized_engagement": 1,
+      "normalized_momentum": 0.37209302325581395,
+      "composite_score": 0.686,
+      "timeAgo": "19 hours ago"
     },
     {
       "id": "t3_1smk13y",
@@ -46,9 +46,9 @@
       "upvote_ratio": 1,
       "engagement": 32,
       "momentum": 1.5,
-      "normalized_engagement": 0.45588235294117646,
-      "normalized_momentum": 0.1728395061728395,
-      "composite_score": 0.314,
+      "normalized_engagement": 0.46875,
+      "normalized_momentum": 0.1627906976744186,
+      "composite_score": 0.316,
       "timeAgo": "21 hours ago"
     },
     {
@@ -59,17 +59,17 @@
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1sn7m5g/scientists_reverse_brain_aging_with_a_nasal_spray/",
       "created_utc": 1776354900,
       "score": 10,
-      "num_comments": 0,
+      "num_comments": 1,
       "upvote_ratio": 0.92,
-      "engagement": 10,
-      "momentum": 3.4,
-      "normalized_engagement": 0.1323529411764706,
-      "normalized_momentum": 0.4074074074074074,
-      "composite_score": 0.27,
-      "timeAgo": "2 hours ago"
+      "engagement": 12,
+      "momentum": 3.7,
+      "normalized_engagement": 0.15625,
+      "normalized_momentum": 0.4186046511627907,
+      "composite_score": 0.287,
+      "timeAgo": "3 hours ago"
     }
   ],
   "totalScanned": 13,
-  "fetchedAt": "2026-04-16T18:52:15.039Z",
-  "fetchTime": 22.6
+  "fetchedAt": "2026-04-16T19:07:39.324Z",
+  "fetchTime": 22.2
 }
