@@ -8,10 +8,10 @@
       "permalink": "https://www.reddit.com/r/FromSeries/comments/1snmfje/boyds_parkinsons/",
       "created_utc": 1776388387,
       "score": 20,
-      "num_comments": 20,
+      "num_comments": 21,
       "upvote_ratio": 0.95,
-      "engagement": 60,
-      "momentum": 19.8,
+      "engagement": 62,
+      "momentum": 18.9,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
@@ -28,11 +28,11 @@
       "num_comments": 19,
       "upvote_ratio": 0.91,
       "engagement": 47,
-      "momentum": 3.7,
-      "normalized_engagement": 0.7796610169491526,
-      "normalized_momentum": 0.17857142857142855,
-      "composite_score": 0.479,
-      "timeAgo": "12 hours ago"
+      "momentum": 3.6,
+      "normalized_engagement": 0.7540983606557377,
+      "normalized_momentum": 0.18617021276595747,
+      "composite_score": 0.47,
+      "timeAgo": "13 hours ago"
     },
     {
       "id": "t3_1sni7nm",
@@ -45,10 +45,10 @@
       "num_comments": 10,
       "upvote_ratio": 0.67,
       "engagement": 21,
-      "momentum": 3.5,
-      "normalized_engagement": 0.3389830508474576,
-      "normalized_momentum": 0.16836734693877548,
-      "composite_score": 0.254,
+      "momentum": 3.3,
+      "normalized_engagement": 0.32786885245901637,
+      "normalized_momentum": 0.17021276595744683,
+      "composite_score": 0.249,
       "timeAgo": "6 hours ago"
     },
     {
@@ -58,18 +58,18 @@
       "author": "2loudis2old",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1sn7m5g/scientists_reverse_brain_aging_with_a_nasal_spray/",
       "created_utc": 1776354900,
-      "score": 18,
+      "score": 20,
       "num_comments": 2,
       "upvote_ratio": 1,
-      "engagement": 22,
-      "momentum": 1.8,
-      "normalized_engagement": 0.3559322033898305,
-      "normalized_momentum": 0.08163265306122448,
-      "composite_score": 0.219,
+      "engagement": 24,
+      "momentum": 1.9,
+      "normalized_engagement": 0.3770491803278688,
+      "normalized_momentum": 0.09574468085106383,
+      "composite_score": 0.236,
       "timeAgo": "12 hours ago"
     }
   ],
   "totalScanned": 14,
-  "fetchedAt": "2026-04-17T04:14:58.599Z",
-  "fetchTime": 22.9
+  "fetchedAt": "2026-04-17T04:30:26.787Z",
+  "fetchTime": 24.9
 }
