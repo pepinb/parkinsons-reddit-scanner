@@ -7,15 +7,15 @@
       "author": "_Dark_Wing",
       "permalink": "https://www.reddit.com/r/technology/comments/1so17ss/centuryold_cleaning_chemical_linked_to_500/",
       "created_utc": 1776432971,
-      "score": 4155,
-      "num_comments": 338,
+      "score": 4202,
+      "num_comments": 340,
       "upvote_ratio": 0.97,
-      "engagement": 4831,
-      "momentum": 493.7,
+      "engagement": 4882,
+      "momentum": 486.1,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
-      "timeAgo": "9 hours ago"
+      "timeAgo": "10 hours ago"
     },
     {
       "id": "t3_1so2nwf",
@@ -24,15 +24,15 @@
       "author": "cuspofgreatness",
       "permalink": "https://www.reddit.com/r/environment/comments/1so2nwf/centuryold_cleaning_chemical_linked_to_500/",
       "created_utc": 1776436213,
-      "score": 1154,
+      "score": 1163,
       "num_comments": 58,
       "upvote_ratio": 0.99,
-      "engagement": 1270,
-      "momentum": 142.9,
-      "normalized_engagement": 0.26273291925465836,
-      "normalized_momentum": 0.28930307941653166,
-      "composite_score": 0.276,
-      "timeAgo": "8 hours ago"
+      "engagement": 1279,
+      "momentum": 139.9,
+      "normalized_engagement": 0.2618315918869084,
+      "normalized_momentum": 0.28765432098765437,
+      "composite_score": 0.275,
+      "timeAgo": "9 hours ago"
     },
     {
       "id": "t3_1so524s",
@@ -41,14 +41,14 @@
       "author": "barweis",
       "permalink": "https://www.reddit.com/r/Health/comments/1so524s/centuryold_cleaning_chemical_linked_to_500/",
       "created_utc": 1776441403,
-      "score": 238,
+      "score": 248,
       "num_comments": 10,
       "upvote_ratio": 0.98,
-      "engagement": 258,
-      "momentum": 34.7,
-      "normalized_engagement": 0.05320910973084886,
-      "normalized_momentum": 0.07009724473257699,
-      "composite_score": 0.062,
+      "engagement": 268,
+      "momentum": 34.8,
+      "normalized_engagement": 0.054701905347264906,
+      "normalized_momentum": 0.0713991769547325,
+      "composite_score": 0.063,
       "timeAgo": "7 hours ago"
     },
     {
@@ -60,16 +60,16 @@
       "created_utc": 1776388387,
       "score": 32,
       "num_comments": 32,
-      "upvote_ratio": 0.95,
+      "upvote_ratio": 0.97,
       "engagement": 96,
       "momentum": 4.3,
-      "normalized_engagement": 0.019668737060041408,
-      "normalized_momentum": 0.008508914100486225,
+      "normalized_engagement": 0.01946322474902684,
+      "normalized_momentum": 0.008641975308641976,
       "composite_score": 0.014,
       "timeAgo": "22 hours ago"
     }
   ],
   "totalScanned": 24,
-  "fetchedAt": "2026-04-17T23:23:20.511Z",
-  "fetchTime": 22.1
+  "fetchedAt": "2026-04-17T23:38:47.562Z",
+  "fetchTime": 23.6
 }
