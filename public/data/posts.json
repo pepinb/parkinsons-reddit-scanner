@@ -7,15 +7,15 @@
       "author": "reptilesandfrogs",
       "permalink": "https://www.reddit.com/r/FromSeries/comments/1snmfje/boyds_parkinsons/",
       "created_utc": 1776388387,
-      "score": 6,
+      "score": 8,
       "num_comments": 5,
-      "upvote_ratio": 0.88,
-      "engagement": 16,
-      "momentum": 22.3,
-      "normalized_engagement": 0.46875,
+      "upvote_ratio": 0.9,
+      "engagement": 18,
+      "momentum": 18.4,
+      "normalized_engagement": 0.53125,
       "normalized_momentum": 1,
-      "composite_score": 0.734,
-      "timeAgo": "43 minutes ago"
+      "composite_score": 0.766,
+      "timeAgo": "58 minutes ago"
     },
     {
       "id": "t3_1sn6u1h",
@@ -26,12 +26,12 @@
       "created_utc": 1776353235,
       "score": 9,
       "num_comments": 12,
-      "upvote_ratio": 0.85,
+      "upvote_ratio": 0.91,
       "engagement": 33,
       "momentum": 3.1,
       "normalized_engagement": 1,
-      "normalized_momentum": 0.13122171945701355,
-      "composite_score": 0.566,
+      "normalized_momentum": 0.15934065934065933,
+      "composite_score": 0.58,
       "timeAgo": "10 hours ago"
     },
     {
@@ -45,10 +45,10 @@
       "num_comments": 10,
       "upvote_ratio": 0.67,
       "engagement": 21,
-      "momentum": 5.7,
+      "momentum": 5.3,
       "normalized_engagement": 0.625,
-      "normalized_momentum": 0.24886877828054296,
-      "composite_score": 0.437,
+      "normalized_momentum": 0.2802197802197802,
+      "composite_score": 0.453,
       "timeAgo": "3 hours ago"
     },
     {
@@ -58,18 +58,18 @@
       "author": "2loudis2old",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1sn7m5g/scientists_reverse_brain_aging_with_a_nasal_spray/",
       "created_utc": 1776354900,
-      "score": 17,
+      "score": 18,
       "num_comments": 2,
       "upvote_ratio": 0.96,
-      "engagement": 21,
+      "engagement": 22,
       "momentum": 2.1,
-      "normalized_engagement": 0.625,
-      "normalized_momentum": 0.08597285067873303,
-      "composite_score": 0.355,
+      "normalized_engagement": 0.65625,
+      "normalized_momentum": 0.10439560439560441,
+      "composite_score": 0.38,
       "timeAgo": "10 hours ago"
     }
   ],
   "totalScanned": 14,
-  "fetchedAt": "2026-04-17T01:56:15.348Z",
-  "fetchTime": 22.9
+  "fetchedAt": "2026-04-17T02:11:39.585Z",
+  "fetchTime": 21.7
 }
