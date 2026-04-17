@@ -9,9 +9,9 @@
       "created_utc": 1776388387,
       "score": 20,
       "num_comments": 21,
-      "upvote_ratio": 0.95,
+      "upvote_ratio": 0.93,
       "engagement": 62,
-      "momentum": 18.9,
+      "momentum": 17.5,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
@@ -28,10 +28,10 @@
       "num_comments": 19,
       "upvote_ratio": 0.91,
       "engagement": 47,
-      "momentum": 3.6,
+      "momentum": 3.5,
       "normalized_engagement": 0.7540983606557377,
-      "normalized_momentum": 0.18617021276595747,
-      "composite_score": 0.47,
+      "normalized_momentum": 0.19540229885057472,
+      "composite_score": 0.475,
       "timeAgo": "13 hours ago"
     },
     {
@@ -45,10 +45,10 @@
       "num_comments": 10,
       "upvote_ratio": 0.67,
       "engagement": 21,
-      "momentum": 3.3,
+      "momentum": 3.2,
       "normalized_engagement": 0.32786885245901637,
-      "normalized_momentum": 0.17021276595744683,
-      "composite_score": 0.249,
+      "normalized_momentum": 0.17816091954022992,
+      "composite_score": 0.253,
       "timeAgo": "6 hours ago"
     },
     {
@@ -58,18 +58,18 @@
       "author": "2loudis2old",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1sn7m5g/scientists_reverse_brain_aging_with_a_nasal_spray/",
       "created_utc": 1776354900,
-      "score": 20,
+      "score": 19,
       "num_comments": 2,
       "upvote_ratio": 1,
-      "engagement": 24,
-      "momentum": 1.9,
-      "normalized_engagement": 0.3770491803278688,
-      "normalized_momentum": 0.09574468085106383,
-      "composite_score": 0.236,
+      "engagement": 23,
+      "momentum": 1.8,
+      "normalized_engagement": 0.36065573770491804,
+      "normalized_momentum": 0.09770114942528736,
+      "composite_score": 0.229,
       "timeAgo": "12 hours ago"
     }
   ],
   "totalScanned": 14,
-  "fetchedAt": "2026-04-17T04:30:26.787Z",
-  "fetchTime": 24.9
+  "fetchedAt": "2026-04-17T04:45:52.024Z",
+  "fetchTime": 22.7
 }
