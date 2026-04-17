@@ -7,11 +7,11 @@
       "author": "reptilesandfrogs",
       "permalink": "https://www.reddit.com/r/FromSeries/comments/1snmfje/boyds_parkinsons/",
       "created_utc": 1776388387,
-      "score": 17,
-      "num_comments": 17,
-      "upvote_ratio": 0.91,
-      "engagement": 51,
-      "momentum": 20.3,
+      "score": 18,
+      "num_comments": 19,
+      "upvote_ratio": 0.92,
+      "engagement": 56,
+      "momentum": 20.2,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
@@ -29,9 +29,9 @@
       "upvote_ratio": 0.92,
       "engagement": 46,
       "momentum": 3.7,
-      "normalized_engagement": 0.9,
-      "normalized_momentum": 0.17412935323383083,
-      "composite_score": 0.537,
+      "normalized_engagement": 0.8181818181818182,
+      "normalized_momentum": 0.175,
+      "composite_score": 0.497,
       "timeAgo": "12 hours ago"
     },
     {
@@ -45,10 +45,10 @@
       "num_comments": 10,
       "upvote_ratio": 0.67,
       "engagement": 21,
-      "momentum": 3.8,
-      "normalized_engagement": 0.4,
-      "normalized_momentum": 0.17910447761194026,
-      "composite_score": 0.29,
+      "momentum": 3.6,
+      "normalized_engagement": 0.36363636363636365,
+      "normalized_momentum": 0.16999999999999998,
+      "composite_score": 0.267,
       "timeAgo": "5 hours ago"
     },
     {
@@ -58,18 +58,18 @@
       "author": "2loudis2old",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1sn7m5g/scientists_reverse_brain_aging_with_a_nasal_spray/",
       "created_utc": 1776354900,
-      "score": 19,
+      "score": 18,
       "num_comments": 2,
       "upvote_ratio": 1,
-      "engagement": 23,
-      "momentum": 1.9,
-      "normalized_engagement": 0.44,
-      "normalized_momentum": 0.08457711442786069,
-      "composite_score": 0.262,
-      "timeAgo": "11 hours ago"
+      "engagement": 22,
+      "momentum": 1.8,
+      "normalized_engagement": 0.38181818181818183,
+      "normalized_momentum": 0.08,
+      "composite_score": 0.231,
+      "timeAgo": "12 hours ago"
     }
   ],
   "totalScanned": 14,
-  "fetchedAt": "2026-04-17T03:44:07.651Z",
-  "fetchTime": 22.6
+  "fetchedAt": "2026-04-17T03:59:33.123Z",
+  "fetchTime": 22.9
 }
