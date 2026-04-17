@@ -1,38 +1,38 @@
 {
   "posts": [
     {
-      "id": "t3_1sn6u1h",
-      "title": "Veterans with PD",
-      "subreddit": "r/Parkinsons",
-      "author": "CSMe9",
-      "permalink": "https://www.reddit.com/r/Parkinsons/comments/1sn6u1h/veterans_with_pd/",
-      "created_utc": 1776353235,
-      "score": 10,
-      "num_comments": 12,
-      "upvote_ratio": 0.92,
-      "engagement": 34,
-      "momentum": 3.4,
-      "normalized_engagement": 1,
-      "normalized_momentum": 0.22627737226277375,
-      "composite_score": 0.613,
-      "timeAgo": "9 hours ago"
-    },
-    {
       "id": "t3_1snmfje",
       "title": "Boyd’s Parkinson’s",
       "subreddit": "r/FromSeries",
       "author": "reptilesandfrogs",
       "permalink": "https://www.reddit.com/r/FromSeries/comments/1snmfje/boyds_parkinsons/",
       "created_utc": 1776388387,
-      "score": 3,
-      "num_comments": 2,
+      "score": 5,
+      "num_comments": 5,
       "upvote_ratio": 1,
-      "engagement": 7,
-      "momentum": 14,
-      "normalized_engagement": 0.18181818181818182,
+      "engagement": 15,
+      "momentum": 30,
+      "normalized_engagement": 0.4375,
       "normalized_momentum": 1,
-      "composite_score": 0.591,
-      "timeAgo": "12 minutes ago"
+      "composite_score": 0.719,
+      "timeAgo": "27 minutes ago"
+    },
+    {
+      "id": "t3_1sn6u1h",
+      "title": "Veterans with PD",
+      "subreddit": "r/Parkinsons",
+      "author": "CSMe9",
+      "permalink": "https://www.reddit.com/r/Parkinsons/comments/1sn6u1h/veterans_with_pd/",
+      "created_utc": 1776353235,
+      "score": 9,
+      "num_comments": 12,
+      "upvote_ratio": 0.91,
+      "engagement": 33,
+      "momentum": 3.2,
+      "normalized_engagement": 1,
+      "normalized_momentum": 0.10067114093959731,
+      "composite_score": 0.55,
+      "timeAgo": "10 hours ago"
     },
     {
       "id": "t3_1sni7nm",
@@ -45,10 +45,10 @@
       "num_comments": 10,
       "upvote_ratio": 0.67,
       "engagement": 21,
-      "momentum": 6.6,
-      "normalized_engagement": 0.6060606060606061,
-      "normalized_momentum": 0.45985401459854014,
-      "composite_score": 0.533,
+      "momentum": 6.1,
+      "normalized_engagement": 0.625,
+      "normalized_momentum": 0.19798657718120802,
+      "composite_score": 0.411,
       "timeAgo": "3 hours ago"
     },
     {
@@ -63,13 +63,13 @@
       "upvote_ratio": 1,
       "engagement": 22,
       "momentum": 2.3,
-      "normalized_engagement": 0.6363636363636364,
-      "normalized_momentum": 0.145985401459854,
-      "composite_score": 0.391,
+      "normalized_engagement": 0.65625,
+      "normalized_momentum": 0.0704697986577181,
+      "composite_score": 0.363,
       "timeAgo": "9 hours ago"
     }
   ],
   "totalScanned": 15,
-  "fetchedAt": "2026-04-17T01:25:21.397Z",
-  "fetchTime": 26.8
+  "fetchedAt": "2026-04-17T01:40:49.606Z",
+  "fetchTime": 26
 }
