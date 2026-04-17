@@ -7,11 +7,11 @@
       "author": "reptilesandfrogs",
       "permalink": "https://www.reddit.com/r/FromSeries/comments/1snmfje/boyds_parkinsons/",
       "created_utc": 1776388387,
-      "score": 20,
+      "score": 21,
       "num_comments": 21,
-      "upvote_ratio": 0.93,
-      "engagement": 62,
-      "momentum": 17.5,
+      "upvote_ratio": 0.96,
+      "engagement": 63,
+      "momentum": 16.6,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
@@ -29,9 +29,9 @@
       "upvote_ratio": 0.91,
       "engagement": 47,
       "momentum": 3.5,
-      "normalized_engagement": 0.7540983606557377,
-      "normalized_momentum": 0.19540229885057472,
-      "composite_score": 0.475,
+      "normalized_engagement": 0.7419354838709677,
+      "normalized_momentum": 0.20606060606060606,
+      "composite_score": 0.474,
       "timeAgo": "13 hours ago"
     },
     {
@@ -45,10 +45,10 @@
       "num_comments": 10,
       "upvote_ratio": 0.67,
       "engagement": 21,
-      "momentum": 3.2,
-      "normalized_engagement": 0.32786885245901637,
-      "normalized_momentum": 0.17816091954022992,
-      "composite_score": 0.253,
+      "momentum": 3.1,
+      "normalized_engagement": 0.3225806451612903,
+      "normalized_momentum": 0.18181818181818182,
+      "composite_score": 0.252,
       "timeAgo": "6 hours ago"
     },
     {
@@ -63,13 +63,13 @@
       "upvote_ratio": 1,
       "engagement": 23,
       "momentum": 1.8,
-      "normalized_engagement": 0.36065573770491804,
-      "normalized_momentum": 0.09770114942528736,
+      "normalized_engagement": 0.3548387096774194,
+      "normalized_momentum": 0.10303030303030303,
       "composite_score": 0.229,
-      "timeAgo": "12 hours ago"
+      "timeAgo": "13 hours ago"
     }
   ],
   "totalScanned": 14,
-  "fetchedAt": "2026-04-17T04:45:52.024Z",
-  "fetchTime": 22.7
+  "fetchedAt": "2026-04-17T05:01:20.463Z",
+  "fetchTime": 25.5
 }
