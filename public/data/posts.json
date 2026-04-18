@@ -7,15 +7,15 @@
       "author": "_Dark_Wing",
       "permalink": "https://www.reddit.com/r/technology/comments/1so17ss/centuryold_cleaning_chemical_linked_to_500/",
       "created_utc": 1776432971,
-      "score": 5709,
+      "score": 5733,
       "num_comments": 415,
       "upvote_ratio": 0.97,
-      "engagement": 6539,
-      "momentum": 348.2,
+      "engagement": 6563,
+      "momentum": 344.7,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
-      "timeAgo": "18 hours ago"
+      "timeAgo": "19 hours ago"
     },
     {
       "id": "t3_1so2nwf",
@@ -28,11 +28,11 @@
       "num_comments": 67,
       "upvote_ratio": 0.99,
       "engagement": 1670,
-      "momentum": 93.4,
-      "normalized_engagement": 0.2552768430712756,
-      "normalized_momentum": 0.2680264291870153,
-      "composite_score": 0.262,
-      "timeAgo": "17 hours ago"
+      "momentum": 92.1,
+      "normalized_engagement": 0.25434318805242306,
+      "normalized_momentum": 0.2669762042948346,
+      "composite_score": 0.261,
+      "timeAgo": "18 hours ago"
     },
     {
       "id": "t3_1so524s",
@@ -41,13 +41,13 @@
       "author": "barweis",
       "permalink": "https://www.reddit.com/r/Health/comments/1so524s/centuryold_cleaning_chemical_linked_to_500/",
       "created_utc": 1776441403,
-      "score": 441,
+      "score": 443,
       "num_comments": 14,
       "upvote_ratio": 0.98,
-      "engagement": 469,
-      "momentum": 28.5,
-      "normalized_engagement": 0.07158152340165189,
-      "normalized_momentum": 0.08158575122091354,
+      "engagement": 471,
+      "momentum": 28.2,
+      "normalized_engagement": 0.07162450472416947,
+      "normalized_momentum": 0.08154381892048752,
       "composite_score": 0.077,
       "timeAgo": "16 hours ago"
     },
@@ -58,18 +58,18 @@
       "author": "MangoComfortable3408",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1sny66j/mother_seems_to_be_transitioning_between_stage/",
       "created_utc": 1776425104,
-      "score": 10,
+      "score": 9,
       "num_comments": 17,
       "upvote_ratio": 1,
-      "engagement": 44,
-      "momentum": 2.1,
-      "normalized_engagement": 0.006576934842459468,
-      "normalized_momentum": 0.005745475438092503,
+      "engagement": 43,
+      "momentum": 2,
+      "normalized_engagement": 0.006400487656202377,
+      "normalized_momentum": 0.00551363900174115,
       "composite_score": 0.006,
-      "timeAgo": "20 hours ago"
+      "timeAgo": "21 hours ago"
     }
   ],
   "totalScanned": 29,
-  "fetchedAt": "2026-04-18T08:23:00.858Z",
-  "fetchTime": 22.5
+  "fetchedAt": "2026-04-18T08:38:24.244Z",
+  "fetchTime": 21.4
 }
