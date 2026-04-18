@@ -11,7 +11,7 @@
       "num_comments": 421,
       "upvote_ratio": 0.97,
       "engagement": 6702,
-      "momentum": 317.8,
+      "momentum": 313.9,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
@@ -24,13 +24,13 @@
       "author": "cuspofgreatness",
       "permalink": "https://www.reddit.com/r/environment/comments/1so2nwf/centuryold_cleaning_chemical_linked_to_500/",
       "created_utc": 1776436213,
-      "score": 1573,
+      "score": 1574,
       "num_comments": 67,
       "upvote_ratio": 0.99,
-      "engagement": 1707,
-      "momentum": 84.5,
-      "normalized_engagement": 0.2545888673332338,
-      "normalized_momentum": 0.2658904971680302,
+      "engagement": 1708,
+      "momentum": 83.5,
+      "normalized_engagement": 0.25473809879122516,
+      "normalized_momentum": 0.266008282892641,
       "composite_score": 0.26,
       "timeAgo": "20 hours ago"
     },
@@ -41,15 +41,15 @@
       "author": "barweis",
       "permalink": "https://www.reddit.com/r/Health/comments/1so524s/centuryold_cleaning_chemical_linked_to_500/",
       "created_utc": 1776441403,
-      "score": 472,
-      "num_comments": 15,
+      "score": 475,
+      "num_comments": 16,
       "upvote_ratio": 0.99,
-      "engagement": 502,
-      "momentum": 26.8,
-      "normalized_engagement": 0.07476496045366363,
-      "normalized_momentum": 0.08432976714915041,
+      "engagement": 507,
+      "momentum": 26.7,
+      "normalized_engagement": 0.07551111774362035,
+      "normalized_momentum": 0.08505893596686843,
       "composite_score": 0.08,
-      "timeAgo": "18 hours ago"
+      "timeAgo": "19 hours ago"
     },
     {
       "id": "t3_1sny66j",
@@ -64,12 +64,12 @@
       "engagement": 43,
       "momentum": 1.8,
       "normalized_engagement": 0.0062677212356364725,
-      "normalized_momentum": 0.005663939584644431,
+      "normalized_momentum": 0.005734310289901243,
       "composite_score": 0.006,
       "timeAgo": "23 hours ago"
     }
   ],
   "totalScanned": 29,
-  "fetchedAt": "2026-04-18T10:41:39.242Z",
-  "fetchTime": 22.2
+  "fetchedAt": "2026-04-18T10:57:02.528Z",
+  "fetchTime": 21.3
 }
