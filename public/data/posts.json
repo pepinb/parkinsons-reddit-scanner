@@ -7,15 +7,15 @@
       "author": "_Dark_Wing",
       "permalink": "https://www.reddit.com/r/technology/comments/1so17ss/centuryold_cleaning_chemical_linked_to_500/",
       "created_utc": 1776432971,
-      "score": 5847,
+      "score": 5860,
       "num_comments": 421,
       "upvote_ratio": 0.97,
-      "engagement": 6689,
-      "momentum": 321.1,
+      "engagement": 6702,
+      "momentum": 317.8,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
-      "timeAgo": "20 hours ago"
+      "timeAgo": "21 hours ago"
     },
     {
       "id": "t3_1so2nwf",
@@ -24,15 +24,15 @@
       "author": "cuspofgreatness",
       "permalink": "https://www.reddit.com/r/environment/comments/1so2nwf/centuryold_cleaning_chemical_linked_to_500/",
       "created_utc": 1776436213,
-      "score": 1567,
+      "score": 1573,
       "num_comments": 67,
       "upvote_ratio": 0.99,
-      "engagement": 1701,
-      "momentum": 85.3,
-      "normalized_engagement": 0.2541866028708134,
-      "normalized_momentum": 0.26564933042665834,
+      "engagement": 1707,
+      "momentum": 84.5,
+      "normalized_engagement": 0.2545888673332338,
+      "normalized_momentum": 0.2658904971680302,
       "composite_score": 0.26,
-      "timeAgo": "19 hours ago"
+      "timeAgo": "20 hours ago"
     },
     {
       "id": "t3_1so524s",
@@ -41,14 +41,14 @@
       "author": "barweis",
       "permalink": "https://www.reddit.com/r/Health/comments/1so524s/centuryold_cleaning_chemical_linked_to_500/",
       "created_utc": 1776441403,
-      "score": 468,
+      "score": 472,
       "num_comments": 15,
       "upvote_ratio": 0.99,
-      "engagement": 498,
-      "momentum": 26.9,
-      "normalized_engagement": 0.0743122009569378,
-      "normalized_momentum": 0.08377452507007162,
-      "composite_score": 0.079,
+      "engagement": 502,
+      "momentum": 26.8,
+      "normalized_engagement": 0.07476496045366363,
+      "normalized_momentum": 0.08432976714915041,
+      "composite_score": 0.08,
       "timeAgo": "18 hours ago"
     },
     {
@@ -62,14 +62,14 @@
       "num_comments": 17,
       "upvote_ratio": 1,
       "engagement": 43,
-      "momentum": 1.9,
-      "normalized_engagement": 0.0062799043062200955,
-      "normalized_momentum": 0.0059171597633136085,
+      "momentum": 1.8,
+      "normalized_engagement": 0.0062677212356364725,
+      "normalized_momentum": 0.005663939584644431,
       "composite_score": 0.006,
       "timeAgo": "23 hours ago"
     }
   ],
   "totalScanned": 29,
-  "fetchedAt": "2026-04-18T10:26:15.000Z",
-  "fetchTime": 21.9
+  "fetchedAt": "2026-04-18T10:41:39.242Z",
+  "fetchTime": 22.2
 }
