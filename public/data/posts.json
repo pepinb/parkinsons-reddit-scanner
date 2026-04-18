@@ -7,15 +7,15 @@
       "author": "_Dark_Wing",
       "permalink": "https://www.reddit.com/r/technology/comments/1so17ss/centuryold_cleaning_chemical_linked_to_500/",
       "created_utc": 1776432971,
-      "score": 5610,
-      "num_comments": 406,
+      "score": 5638,
+      "num_comments": 411,
       "upvote_ratio": 0.97,
-      "engagement": 6422,
-      "momentum": 361.8,
+      "engagement": 6460,
+      "momentum": 358.7,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
-      "timeAgo": "17 hours ago"
+      "timeAgo": "18 hours ago"
     },
     {
       "id": "t3_1so2nwf",
@@ -24,15 +24,15 @@
       "author": "cuspofgreatness",
       "permalink": "https://www.reddit.com/r/environment/comments/1so2nwf/centuryold_cleaning_chemical_linked_to_500/",
       "created_utc": 1776436213,
-      "score": 1520,
+      "score": 1519,
       "num_comments": 67,
       "upvote_ratio": 0.99,
-      "engagement": 1654,
-      "momentum": 98.2,
-      "normalized_engagement": 0.25743653636505215,
-      "normalized_momentum": 0.27121924246613216,
-      "composite_score": 0.264,
-      "timeAgo": "16 hours ago"
+      "engagement": 1653,
+      "momentum": 96.6,
+      "normalized_engagement": 0.2557671466171234,
+      "normalized_momentum": 0.2691020635805912,
+      "composite_score": 0.262,
+      "timeAgo": "17 hours ago"
     },
     {
       "id": "t3_1so524s",
@@ -41,14 +41,14 @@
       "author": "barweis",
       "permalink": "https://www.reddit.com/r/Health/comments/1so524s/centuryold_cleaning_chemical_linked_to_500/",
       "created_utc": 1776441403,
-      "score": 427,
+      "score": 434,
       "num_comments": 14,
       "upvote_ratio": 0.98,
-      "engagement": 455,
+      "engagement": 462,
       "momentum": 29.5,
-      "normalized_engagement": 0.07070549758604579,
-      "normalized_momentum": 0.08128283107547692,
-      "composite_score": 0.076,
+      "normalized_engagement": 0.07137327759715126,
+      "normalized_momentum": 0.08198549916341327,
+      "composite_score": 0.077,
       "timeAgo": "15 hours ago"
     },
     {
@@ -58,18 +58,18 @@
       "author": "MangoComfortable3408",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1sny66j/mother_seems_to_be_transitioning_between_stage/",
       "created_utc": 1776425104,
-      "score": 10,
+      "score": 9,
       "num_comments": 17,
       "upvote_ratio": 1,
-      "engagement": 44,
-      "momentum": 2.2,
-      "normalized_engagement": 0.006696776203083632,
-      "normalized_momentum": 0.005805916505391208,
+      "engagement": 43,
+      "momentum": 2.1,
+      "normalized_engagement": 0.006502554575011612,
+      "normalized_momentum": 0.005577244841048523,
       "composite_score": 0.006,
-      "timeAgo": "19 hours ago"
+      "timeAgo": "20 hours ago"
     }
   ],
   "totalScanned": 29,
-  "fetchedAt": "2026-04-18T07:21:17.185Z",
-  "fetchTime": 22.2
+  "fetchedAt": "2026-04-18T07:36:43.875Z",
+  "fetchTime": 24.7
 }
