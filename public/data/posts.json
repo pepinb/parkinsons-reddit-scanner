@@ -7,15 +7,15 @@
       "author": "thepoylanthropist",
       "permalink": "https://www.reddit.com/r/interestingasfuck/comments/1sqr48b/this_clip_is_from_the_feature_documentary_ride/",
       "created_utc": 1776695595,
-      "score": 5637,
-      "num_comments": 460,
-      "upvote_ratio": 0.95,
-      "engagement": 6557,
-      "momentum": 1488.1,
+      "score": 6465,
+      "num_comments": 510,
+      "upvote_ratio": 0.94,
+      "engagement": 7485,
+      "momentum": 1463.1,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
-      "timeAgo": "4 hours ago"
+      "timeAgo": "5 hours ago"
     },
     {
       "id": "t3_1sqhat9",
@@ -24,15 +24,15 @@
       "author": "newtrex_1523",
       "permalink": "https://www.reddit.com/r/UpliftingNews/comments/1sqhat9/scientists_develop_mitocatch_a_new_technique_that/",
       "created_utc": 1776666536,
-      "score": 936,
+      "score": 952,
       "num_comments": 15,
       "upvote_ratio": 1,
-      "engagement": 966,
-      "momentum": 77.4,
-      "normalized_engagement": 0.1471934106162294,
-      "normalized_momentum": 0.05201263355957261,
-      "composite_score": 0.1,
-      "timeAgo": "12 hours ago"
+      "engagement": 982,
+      "momentum": 74.5,
+      "normalized_engagement": 0.13107963655799038,
+      "normalized_momentum": 0.050919280978743764,
+      "composite_score": 0.091,
+      "timeAgo": "13 hours ago"
     },
     {
       "id": "t3_1sqtukx",
@@ -41,15 +41,15 @@
       "author": "same-difference-ave",
       "permalink": "https://www.reddit.com/r/ItEndsWithLawsuits/comments/1sqtukx/community_note_on_ig_undisclosed_in_post_that/",
       "created_utc": 1776701450,
-      "score": 216,
-      "num_comments": 84,
+      "score": 249,
+      "num_comments": 102,
       "upvote_ratio": 0.98,
-      "engagement": 384,
-      "momentum": 138.1,
-      "normalized_engagement": 0.05841976815131177,
-      "normalized_momentum": 0.0928029030307103,
-      "composite_score": 0.076,
-      "timeAgo": "2 hours ago"
+      "engagement": 453,
+      "momentum": 129.8,
+      "normalized_engagement": 0.0603955104222341,
+      "normalized_momentum": 0.08871574055088512,
+      "composite_score": 0.075,
+      "timeAgo": "3 hours ago"
     },
     {
       "id": "t3_1sqtrn3",
@@ -58,18 +58,18 @@
       "author": "same-difference-ave",
       "permalink": "https://www.reddit.com/r/teamjustinbaldoni/comments/1sqtrn3/community_note_on_ig_undisclosed_in_post_that/",
       "created_utc": 1776701279,
-      "score": 104,
-      "num_comments": 19,
+      "score": 116,
+      "num_comments": 23,
       "upvote_ratio": 1,
-      "engagement": 142,
-      "momentum": 50.2,
-      "normalized_engagement": 0.021507016473459425,
-      "normalized_momentum": 0.033734292050265444,
-      "composite_score": 0.028,
-      "timeAgo": "2 hours ago"
+      "engagement": 162,
+      "momentum": 45.8,
+      "normalized_engagement": 0.021512560128273652,
+      "normalized_momentum": 0.03130339689699952,
+      "composite_score": 0.026,
+      "timeAgo": "3 hours ago"
     }
   ],
-  "totalScanned": 33,
-  "fetchedAt": "2026-04-20T18:57:37.408Z",
-  "fetchTime": 23.2
+  "totalScanned": 32,
+  "fetchedAt": "2026-04-20T19:40:12.436Z",
+  "fetchTime": 23.6
 }
