@@ -7,15 +7,15 @@
       "author": "thepoylanthropist",
       "permalink": "https://www.reddit.com/r/interestingasfuck/comments/1sqr48b/this_clip_is_from_the_feature_documentary_ride/",
       "created_utc": 1776695595,
-      "score": 3442,
-      "num_comments": 351,
-      "upvote_ratio": 0.95,
-      "engagement": 4144,
-      "momentum": 1523.1,
+      "score": 4989,
+      "num_comments": 440,
+      "upvote_ratio": 0.94,
+      "engagement": 5869,
+      "momentum": 1508,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
-      "timeAgo": "2 hours ago"
+      "timeAgo": "3 hours ago"
     },
     {
       "id": "t3_1sqhat9",
@@ -24,15 +24,15 @@
       "author": "newtrex_1523",
       "permalink": "https://www.reddit.com/r/UpliftingNews/comments/1sqhat9/scientists_develop_mitocatch_a_new_technique_that/",
       "created_utc": 1776666536,
-      "score": 892,
+      "score": 918,
       "num_comments": 15,
       "upvote_ratio": 1,
-      "engagement": 922,
-      "momentum": 85.4,
-      "normalized_engagement": 0.222302679217958,
-      "normalized_momentum": 0.056069857527411206,
-      "composite_score": 0.139,
-      "timeAgo": "10 hours ago"
+      "engagement": 948,
+      "momentum": 79.2,
+      "normalized_engagement": 0.16138377641445126,
+      "normalized_momentum": 0.052519893899204244,
+      "composite_score": 0.107,
+      "timeAgo": "11 hours ago"
     },
     {
       "id": "t3_1sqtukx",
@@ -41,15 +41,15 @@
       "author": "same-difference-ave",
       "permalink": "https://www.reddit.com/r/ItEndsWithLawsuits/comments/1sqtukx/community_note_on_ig_undisclosed_in_post_that/",
       "created_utc": 1776701450,
-      "score": 125,
-      "num_comments": 47,
+      "score": 194,
+      "num_comments": 76,
       "upvote_ratio": 0.98,
-      "engagement": 219,
-      "momentum": 200.1,
-      "normalized_engagement": 0.052618875211199616,
-      "normalized_momentum": 0.1313767973212527,
-      "composite_score": 0.092,
-      "timeAgo": "1 hour ago"
+      "engagement": 346,
+      "momentum": 152.7,
+      "normalized_engagement": 0.058793456032719835,
+      "normalized_momentum": 0.10125994694960211,
+      "composite_score": 0.08,
+      "timeAgo": "2 hours ago"
     },
     {
       "id": "t3_1sq54bn",
@@ -58,18 +58,18 @@
       "author": "Responsible6557",
       "permalink": "https://www.reddit.com/r/80smovies/comments/1sq54bn/dian_parkinson_the_price_is_right_1985/",
       "created_utc": 1776632752,
-      "score": 480,
+      "score": 482,
       "num_comments": 28,
       "upvote_ratio": 0.98,
-      "engagement": 536,
-      "momentum": 26.6,
-      "normalized_engagement": 0.12913347815592566,
-      "normalized_momentum": 0.017464381852800213,
-      "composite_score": 0.073,
-      "timeAgo": "20 hours ago"
+      "engagement": 538,
+      "momentum": 25.2,
+      "normalized_engagement": 0.09151329243353783,
+      "normalized_momentum": 0.016710875331564987,
+      "composite_score": 0.054,
+      "timeAgo": "21 hours ago"
     }
   ],
-  "totalScanned": 30,
-  "fetchedAt": "2026-04-20T17:16:29.749Z",
-  "fetchTime": 23.2
+  "totalScanned": 32,
+  "fetchedAt": "2026-04-20T18:26:46.092Z",
+  "fetchTime": 23.8
 }
