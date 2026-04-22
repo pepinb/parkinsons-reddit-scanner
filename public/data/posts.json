@@ -7,15 +7,15 @@
       "author": "Wagamaga",
       "permalink": "https://www.reddit.com/r/science/comments/1ssldbd/using_an_inhome_hepa_purifier_for_one_month_spurs/",
       "created_utc": 1776864118,
-      "score": 1516,
-      "num_comments": 49,
+      "score": 2093,
+      "num_comments": 54,
       "upvote_ratio": 0.99,
-      "engagement": 1614,
-      "momentum": 283.4,
+      "engagement": 2201,
+      "momentum": 292.8,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
-      "timeAgo": "5 hours ago"
+      "timeAgo": "7 hours ago"
     },
     {
       "id": "t3_1ss5093",
@@ -24,15 +24,15 @@
       "author": "Affectionate_Base129",
       "permalink": "https://www.reddit.com/r/knitting/comments/1ss5093/fo_vest_for_grandpa_w_parkinsons/",
       "created_utc": 1776815548,
-      "score": 882,
+      "score": 923,
       "num_comments": 45,
       "upvote_ratio": 1,
-      "engagement": 972,
-      "momentum": 50.7,
-      "normalized_engagement": 0.601983880967142,
-      "normalized_momentum": 0.17860924814684084,
-      "composite_score": 0.39,
-      "timeAgo": "19 hours ago"
+      "engagement": 1013,
+      "momentum": 48.2,
+      "normalized_engagement": 0.46,
+      "normalized_momentum": 0.16461748633879783,
+      "composite_score": 0.312,
+      "timeAgo": "21 hours ago"
     },
     {
       "id": "t3_1ss84o2",
@@ -41,15 +41,15 @@
       "author": "Technical_savoir",
       "permalink": "https://www.reddit.com/r/microbiomenews/comments/1ss84o2/new_scientific_discovery_your_gut_bacteria_could/",
       "created_utc": 1776823764,
-      "score": 37,
+      "score": 45,
       "num_comments": 0,
-      "upvote_ratio": 0.96,
-      "engagement": 37,
-      "momentum": 2.2,
-      "normalized_engagement": 0.022318660880347178,
-      "normalized_momentum": 0.007412636780797743,
-      "composite_score": 0.015,
-      "timeAgo": "16 hours ago"
+      "upvote_ratio": 1,
+      "engagement": 45,
+      "momentum": 2.4,
+      "normalized_engagement": 0.02,
+      "normalized_momentum": 0.008196721311475409,
+      "composite_score": 0.014,
+      "timeAgo": "18 hours ago"
     },
     {
       "id": "t3_1ssrb7r",
@@ -58,18 +58,18 @@
       "author": "yougotdinged",
       "permalink": "https://www.reddit.com/r/LosAngelesRams/comments/1ssrb7r/breakdown_of_the_stafford_to_parkinson_game/",
       "created_utc": 1776877028,
-      "score": 12,
-      "num_comments": 0,
-      "upvote_ratio": 1,
-      "engagement": 12,
-      "momentum": 5.7,
-      "normalized_engagement": 0.006819590824550527,
-      "normalized_momentum": 0.019767031415460646,
-      "composite_score": 0.013,
-      "timeAgo": "2 hours ago"
+      "score": 13,
+      "num_comments": 1,
+      "upvote_ratio": 0.85,
+      "engagement": 15,
+      "momentum": 3.8,
+      "normalized_engagement": 0.006363636363636364,
+      "normalized_momentum": 0.012978142076502731,
+      "composite_score": 0.01,
+      "timeAgo": "3 hours ago"
     }
   ],
-  "totalScanned": 28,
-  "fetchedAt": "2026-04-22T19:03:41.349Z",
-  "fetchTime": 23.4
+  "totalScanned": 27,
+  "fetchedAt": "2026-04-22T20:53:01.979Z",
+  "fetchTime": 24.2
 }
