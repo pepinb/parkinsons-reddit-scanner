@@ -7,15 +7,15 @@
       "author": "Wagamaga",
       "permalink": "https://www.reddit.com/r/science/comments/1ssldbd/using_an_inhome_hepa_purifier_for_one_month_spurs/",
       "created_utc": 1776864118,
-      "score": 768,
+      "score": 844,
       "num_comments": 30,
       "upvote_ratio": 0.99,
-      "engagement": 828,
-      "momentum": 289,
-      "normalized_engagement": 0.9018538713195202,
+      "engagement": 904,
+      "momentum": 289.5,
+      "normalized_engagement": 0.9793926247288504,
       "normalized_momentum": 1,
-      "composite_score": 0.951,
-      "timeAgo": "2 hours ago"
+      "composite_score": 0.99,
+      "timeAgo": "3 hours ago"
     },
     {
       "id": "t3_1ss5093",
@@ -24,14 +24,14 @@
       "author": "Affectionate_Base129",
       "permalink": "https://www.reddit.com/r/knitting/comments/1ss5093/fo_vest_for_grandpa_w_parkinsons/",
       "created_utc": 1776815548,
-      "score": 828,
+      "score": 833,
       "num_comments": 45,
       "upvote_ratio": 1,
-      "engagement": 918,
-      "momentum": 56.1,
+      "engagement": 923,
+      "momentum": 55.6,
       "normalized_engagement": 1,
-      "normalized_momentum": 0.19383869851159571,
-      "composite_score": 0.597,
+      "normalized_momentum": 0.19177608845888044,
+      "composite_score": 0.596,
       "timeAgo": "16 hours ago"
     },
     {
@@ -41,14 +41,14 @@
       "author": "HelpyCentral",
       "permalink": "https://www.reddit.com/r/deadbydaylight/comments/1srt3rv/early_onset_parkinsons_disease/",
       "created_utc": 1776789520,
-      "score": 79,
+      "score": 81,
       "num_comments": 3,
       "upvote_ratio": 0.97,
-      "engagement": 85,
+      "engagement": 87,
       "momentum": 3.6,
-      "normalized_engagement": 0.0916030534351145,
-      "normalized_momentum": 0.012114918656974732,
-      "composite_score": 0.052,
+      "normalized_engagement": 0.09327548806941431,
+      "normalized_momentum": 0.012093987560469938,
+      "composite_score": 0.053,
       "timeAgo": "23 hours ago"
     },
     {
@@ -63,13 +63,13 @@
       "upvote_ratio": 1,
       "engagement": 48,
       "momentum": 2.2,
-      "normalized_engagement": 0.05125408942202835,
-      "normalized_momentum": 0.00726895119418484,
+      "normalized_engagement": 0.0509761388286334,
+      "normalized_momentum": 0.007256392536281964,
       "composite_score": 0.029,
-      "timeAgo": "21 hours ago"
+      "timeAgo": "22 hours ago"
     }
   ],
   "totalScanned": 30,
-  "fetchedAt": "2026-04-22T16:13:52.144Z",
-  "fetchTime": 23.1
+  "fetchedAt": "2026-04-22T16:29:17.897Z",
+  "fetchTime": 23
 }
