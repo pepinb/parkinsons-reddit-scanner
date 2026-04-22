@@ -7,15 +7,15 @@
       "author": "Wagamaga",
       "permalink": "https://www.reddit.com/r/science/comments/1ssldbd/using_an_inhome_hepa_purifier_for_one_month_spurs/",
       "created_utc": 1776864118,
-      "score": 1029,
-      "num_comments": 34,
+      "score": 1073,
+      "num_comments": 35,
       "upvote_ratio": 0.99,
-      "engagement": 1097,
-      "momentum": 281.7,
+      "engagement": 1143,
+      "momentum": 275.3,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
-      "timeAgo": "3 hours ago"
+      "timeAgo": "4 hours ago"
     },
     {
       "id": "t3_1ss5093",
@@ -24,14 +24,14 @@
       "author": "Affectionate_Base129",
       "permalink": "https://www.reddit.com/r/knitting/comments/1ss5093/fo_vest_for_grandpa_w_parkinsons/",
       "created_utc": 1776815548,
-      "score": 839,
+      "score": 835,
       "num_comments": 45,
       "upvote_ratio": 1,
-      "engagement": 929,
-      "momentum": 53.4,
-      "normalized_engagement": 0.8467153284671532,
-      "normalized_momentum": 0.1892755681818182,
-      "composite_score": 0.518,
+      "engagement": 925,
+      "momentum": 52.4,
+      "normalized_engagement": 0.809106830122592,
+      "normalized_momentum": 0.1900436046511628,
+      "composite_score": 0.5,
       "timeAgo": "17 hours ago"
     },
     {
@@ -46,10 +46,10 @@
       "upvote_ratio": 1,
       "engagement": 50,
       "momentum": 2.2,
-      "normalized_engagement": 0.04470802919708029,
-      "normalized_momentum": 0.007457386363636365,
-      "composite_score": 0.026,
-      "timeAgo": "22 hours ago"
+      "normalized_engagement": 0.042907180385288964,
+      "normalized_momentum": 0.007630813953488373,
+      "composite_score": 0.025,
+      "timeAgo": "23 hours ago"
     },
     {
       "id": "t3_1ss84o2",
@@ -60,16 +60,16 @@
       "created_utc": 1776823764,
       "score": 37,
       "num_comments": 0,
-      "upvote_ratio": 0.96,
+      "upvote_ratio": 0.98,
       "engagement": 37,
       "momentum": 2.4,
-      "normalized_engagement": 0.032846715328467155,
-      "normalized_momentum": 0.008167613636363636,
-      "composite_score": 0.021,
+      "normalized_engagement": 0.03152364273204904,
+      "normalized_momentum": 0.008357558139534883,
+      "composite_score": 0.02,
       "timeAgo": "15 hours ago"
     }
   ],
-  "totalScanned": 32,
-  "fetchedAt": "2026-04-22T17:15:38.244Z",
+  "totalScanned": 31,
+  "fetchedAt": "2026-04-22T17:31:03.556Z",
   "fetchTime": 22.9
 }
