@@ -7,11 +7,11 @@
       "author": "Upstairs_Drive_5602",
       "permalink": "https://www.reddit.com/r/UpliftingNews/comments/1sthwv7/not_the_end_of_the_world_a_new_beginning_women/",
       "created_utc": 1776948790,
-      "score": 116,
+      "score": 113,
       "num_comments": 3,
       "upvote_ratio": 0.96,
-      "engagement": 122,
-      "momentum": 15.1,
+      "engagement": 119,
+      "momentum": 14.3,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
@@ -24,15 +24,15 @@
       "author": "DieWithYerBootsOn",
       "permalink": "https://www.reddit.com/r/ClassicRock/comments/1st41iw/lou_gramm_says_mick_jones_is_in_the_end_stages_of/",
       "created_utc": 1776906202,
-      "score": 58,
+      "score": 56,
       "num_comments": 11,
       "upvote_ratio": 0.96,
-      "engagement": 80,
-      "momentum": 4,
-      "normalized_engagement": 0.6528925619834711,
-      "normalized_momentum": 0.26490066225165565,
-      "composite_score": 0.459,
-      "timeAgo": "19 hours ago"
+      "engagement": 78,
+      "momentum": 3.9,
+      "normalized_engagement": 0.652542372881356,
+      "normalized_momentum": 0.2727272727272727,
+      "composite_score": 0.463,
+      "timeAgo": "20 hours ago"
     },
     {
       "id": "t3_1st0c47",
@@ -46,9 +46,9 @@
       "upvote_ratio": 1,
       "engagement": 37,
       "momentum": 1.6,
-      "normalized_engagement": 0.2975206611570248,
-      "normalized_momentum": 0.10596026490066227,
-      "composite_score": 0.202,
+      "normalized_engagement": 0.3050847457627119,
+      "normalized_momentum": 0.11188811188811189,
+      "composite_score": 0.208,
       "timeAgo": "22 hours ago"
     },
     {
@@ -62,14 +62,14 @@
       "num_comments": 9,
       "upvote_ratio": 1,
       "engagement": 25,
-      "momentum": 2.7,
-      "normalized_engagement": 0.19834710743801653,
-      "normalized_momentum": 0.17880794701986757,
-      "composite_score": 0.189,
+      "momentum": 2.6,
+      "normalized_engagement": 0.2033898305084746,
+      "normalized_momentum": 0.18181818181818182,
+      "composite_score": 0.193,
       "timeAgo": "9 hours ago"
     }
   ],
-  "totalScanned": 20,
-  "fetchedAt": "2026-04-23T20:56:29.093Z",
-  "fetchTime": 28.3
+  "totalScanned": 19,
+  "fetchedAt": "2026-04-23T21:11:56.556Z",
+  "fetchTime": 24.5
 }
