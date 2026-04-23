@@ -1,21 +1,21 @@
 {
   "posts": [
     {
-      "id": "t3_1ssldbd",
-      "title": "Using an in-home HEPA purifier for one month spurs a small but significant improvement in brain function in adults age 40 and older. Exposure to particulate matter has been connected to respiratory and cardiovascular illnesses as well as neurological diseases such as Alzheimer’s and Parkinson’s.",
-      "subreddit": "r/science",
-      "author": "Wagamaga",
-      "permalink": "https://www.reddit.com/r/science/comments/1ssldbd/using_an_inhome_hepa_purifier_for_one_month_spurs/",
-      "created_utc": 1776864118,
-      "score": 4420,
-      "num_comments": 84,
-      "upvote_ratio": 0.99,
-      "engagement": 4588,
-      "momentum": 196.2,
+      "id": "t3_1sthwv7",
+      "title": "“Not the end of the world, a new beginning”. Women with Parkinson’s form England team and take on the world.",
+      "subreddit": "r/UpliftingNews",
+      "author": "Upstairs_Drive_5602",
+      "permalink": "https://www.reddit.com/r/UpliftingNews/comments/1sthwv7/not_the_end_of_the_world_a_new_beginning_women/",
+      "created_utc": 1776948790,
+      "score": 64,
+      "num_comments": 3,
+      "upvote_ratio": 0.97,
+      "engagement": 70,
+      "momentum": 25,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
-      "timeAgo": "23 hours ago"
+      "timeAgo": "2 hours ago"
     },
     {
       "id": "t3_1st41iw",
@@ -24,15 +24,15 @@
       "author": "DieWithYerBootsOn",
       "permalink": "https://www.reddit.com/r/ClassicRock/comments/1st41iw/lou_gramm_says_mick_jones_is_in_the_end_stages_of/",
       "created_utc": 1776906202,
-      "score": 48,
-      "num_comments": 5,
+      "score": 52,
+      "num_comments": 9,
       "upvote_ratio": 0.96,
-      "engagement": 58,
-      "momentum": 5,
-      "normalized_engagement": 0.012426422498364944,
-      "normalized_momentum": 0.025484199796126403,
-      "composite_score": 0.019,
-      "timeAgo": "11 hours ago"
+      "engagement": 70,
+      "momentum": 4.8,
+      "normalized_engagement": 1,
+      "normalized_momentum": 0.192,
+      "composite_score": 0.596,
+      "timeAgo": "14 hours ago"
     },
     {
       "id": "t3_1stgcme",
@@ -41,15 +41,15 @@
       "author": "MangoComfortable3408",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1stgcme/my_mothers_mobility_has_rapidly_declined_and_now/",
       "created_utc": 1776944696,
-      "score": 3,
-      "num_comments": 2,
+      "score": 6,
+      "num_comments": 9,
       "upvote_ratio": 1,
-      "engagement": 7,
-      "momentum": 7,
-      "normalized_engagement": 0.0013080444735120995,
-      "normalized_momentum": 0.03567787971457696,
-      "composite_score": 0.018,
-      "timeAgo": "1 hour ago"
+      "engagement": 24,
+      "momentum": 6.1,
+      "normalized_engagement": 0.3333333333333333,
+      "normalized_momentum": 0.244,
+      "composite_score": 0.289,
+      "timeAgo": "3 hours ago"
     },
     {
       "id": "t3_1st0c47",
@@ -62,14 +62,14 @@
       "num_comments": 12,
       "upvote_ratio": 0.93,
       "engagement": 35,
-      "momentum": 2.4,
-      "normalized_engagement": 0.007412252016568564,
-      "normalized_momentum": 0.012232415902140673,
-      "composite_score": 0.01,
-      "timeAgo": "14 hours ago"
+      "momentum": 2,
+      "normalized_engagement": 0.4927536231884058,
+      "normalized_momentum": 0.08,
+      "composite_score": 0.286,
+      "timeAgo": "17 hours ago"
     }
   ],
-  "totalScanned": 21,
-  "fetchedAt": "2026-04-23T12:45:10.809Z",
-  "fetchTime": 23.5
+  "totalScanned": 24,
+  "fetchedAt": "2026-04-23T15:41:24.477Z",
+  "fetchTime": 23.8
 }
