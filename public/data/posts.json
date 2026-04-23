@@ -7,15 +7,15 @@
       "author": "Upstairs_Drive_5602",
       "permalink": "https://www.reddit.com/r/UpliftingNews/comments/1sthwv7/not_the_end_of_the_world_a_new_beginning_women/",
       "created_utc": 1776948790,
-      "score": 97,
+      "score": 101,
       "num_comments": 3,
       "upvote_ratio": 0.96,
-      "engagement": 103,
-      "momentum": 21.2,
+      "engagement": 107,
+      "momentum": 20.9,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
-      "timeAgo": "4 hours ago"
+      "timeAgo": "5 hours ago"
     },
     {
       "id": "t3_1st41iw",
@@ -26,12 +26,12 @@
       "created_utc": 1776906202,
       "score": 56,
       "num_comments": 11,
-      "upvote_ratio": 0.97,
+      "upvote_ratio": 0.95,
       "engagement": 78,
-      "momentum": 4.7,
-      "normalized_engagement": 0.7549019607843137,
-      "normalized_momentum": 0.22169811320754718,
-      "composite_score": 0.488,
+      "momentum": 4.6,
+      "normalized_engagement": 0.7264150943396226,
+      "normalized_momentum": 0.22009569377990432,
+      "composite_score": 0.473,
       "timeAgo": "16 hours ago"
     },
     {
@@ -41,14 +41,14 @@
       "author": "whatcoulditcost",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1st0c47/anyone_had_whole_exome_sequencing_did_you_learn/",
       "created_utc": 1776896696,
-      "score": 14,
+      "score": 13,
       "num_comments": 12,
       "upvote_ratio": 1,
-      "engagement": 38,
-      "momentum": 2,
-      "normalized_engagement": 0.3627450980392157,
-      "normalized_momentum": 0.09433962264150944,
-      "composite_score": 0.229,
+      "engagement": 37,
+      "momentum": 1.9,
+      "normalized_engagement": 0.33962264150943394,
+      "normalized_momentum": 0.09090909090909091,
+      "composite_score": 0.215,
       "timeAgo": "19 hours ago"
     },
     {
@@ -62,14 +62,14 @@
       "num_comments": 9,
       "upvote_ratio": 1,
       "engagement": 25,
-      "momentum": 4.2,
-      "normalized_engagement": 0.23529411764705882,
-      "normalized_momentum": 0.19811320754716982,
-      "composite_score": 0.217,
+      "momentum": 4,
+      "normalized_engagement": 0.22641509433962265,
+      "normalized_momentum": 0.19138755980861244,
+      "composite_score": 0.209,
       "timeAgo": "6 hours ago"
     }
   ],
   "totalScanned": 20,
-  "fetchedAt": "2026-04-23T17:45:04.634Z",
-  "fetchTime": 25.2
+  "fetchedAt": "2026-04-23T18:00:34.049Z",
+  "fetchTime": 26.6
 }
