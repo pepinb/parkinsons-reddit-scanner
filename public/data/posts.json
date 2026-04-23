@@ -7,15 +7,15 @@
       "author": "Upstairs_Drive_5602",
       "permalink": "https://www.reddit.com/r/UpliftingNews/comments/1sthwv7/not_the_end_of_the_world_a_new_beginning_women/",
       "created_utc": 1776948790,
-      "score": 88,
+      "score": 92,
       "num_comments": 3,
       "upvote_ratio": 0.96,
-      "engagement": 94,
-      "momentum": 24.5,
+      "engagement": 98,
+      "momentum": 23.9,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
-      "timeAgo": "3 hours ago"
+      "timeAgo": "4 hours ago"
     },
     {
       "id": "t3_1st41iw",
@@ -24,14 +24,14 @@
       "author": "DieWithYerBootsOn",
       "permalink": "https://www.reddit.com/r/ClassicRock/comments/1st41iw/lou_gramm_says_mick_jones_is_in_the_end_stages_of/",
       "created_utc": 1776906202,
-      "score": 51,
-      "num_comments": 9,
-      "upvote_ratio": 0.96,
+      "score": 49,
+      "num_comments": 10,
+      "upvote_ratio": 0.94,
       "engagement": 69,
-      "momentum": 4.4,
-      "normalized_engagement": 0.7311827956989247,
-      "normalized_momentum": 0.1795918367346939,
-      "composite_score": 0.455,
+      "momentum": 4.3,
+      "normalized_engagement": 0.7010309278350515,
+      "normalized_momentum": 0.1799163179916318,
+      "composite_score": 0.44,
       "timeAgo": "15 hours ago"
     },
     {
@@ -41,14 +41,14 @@
       "author": "whatcoulditcost",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1st0c47/anyone_had_whole_exome_sequencing_did_you_learn/",
       "created_utc": 1776896696,
-      "score": 13,
+      "score": 14,
       "num_comments": 12,
       "upvote_ratio": 1,
-      "engagement": 37,
+      "engagement": 38,
       "momentum": 2,
-      "normalized_engagement": 0.3870967741935484,
-      "normalized_momentum": 0.08163265306122448,
-      "composite_score": 0.234,
+      "normalized_engagement": 0.38144329896907214,
+      "normalized_momentum": 0.08368200836820085,
+      "composite_score": 0.233,
       "timeAgo": "18 hours ago"
     },
     {
@@ -60,16 +60,16 @@
       "created_utc": 1776944696,
       "score": 6,
       "num_comments": 9,
-      "upvote_ratio": 0.88,
+      "upvote_ratio": 1,
       "engagement": 24,
-      "momentum": 4.8,
-      "normalized_engagement": 0.24731182795698925,
-      "normalized_momentum": 0.19591836734693877,
-      "composite_score": 0.222,
-      "timeAgo": "4 hours ago"
+      "momentum": 4.6,
+      "normalized_engagement": 0.23711340206185566,
+      "normalized_momentum": 0.19246861924686193,
+      "composite_score": 0.215,
+      "timeAgo": "5 hours ago"
     }
   ],
-  "totalScanned": 20,
-  "fetchedAt": "2026-04-23T16:43:17.007Z",
-  "fetchTime": 23.6
+  "totalScanned": 19,
+  "fetchedAt": "2026-04-23T16:58:43.741Z",
+  "fetchTime": 24.4
 }
