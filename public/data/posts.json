@@ -7,15 +7,15 @@
       "author": "Upstairs_Drive_5602",
       "permalink": "https://www.reddit.com/r/UpliftingNews/comments/1sthwv7/not_the_end_of_the_world_a_new_beginning_women/",
       "created_utc": 1776948790,
-      "score": 142,
+      "score": 150,
       "num_comments": 3,
       "upvote_ratio": 0.97,
-      "engagement": 148,
-      "momentum": 9.2,
+      "engagement": 156,
+      "momentum": 8.1,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
-      "timeAgo": "16 hours ago"
+      "timeAgo": "19 hours ago"
     },
     {
       "id": "t3_1stgcme",
@@ -28,11 +28,11 @@
       "num_comments": 11,
       "upvote_ratio": 1,
       "engagement": 30,
-      "momentum": 1.7,
-      "normalized_engagement": 0.19727891156462585,
-      "normalized_momentum": 0.1758241758241758,
-      "composite_score": 0.187,
-      "timeAgo": "17 hours ago"
+      "momentum": 1.5,
+      "normalized_engagement": 0.1870967741935484,
+      "normalized_momentum": 0.175,
+      "composite_score": 0.181,
+      "timeAgo": "20 hours ago"
     },
     {
       "id": "t3_1su4dl6",
@@ -41,15 +41,15 @@
       "author": "First_Poem_6876",
       "permalink": "https://www.reddit.com/r/MajorParkinson/comments/1su4dl6/major_parkinsons_website_back_in_2004/",
       "created_utc": 1777001819,
-      "score": 4,
+      "score": 9,
       "num_comments": 0,
       "upvote_ratio": 1,
-      "engagement": 4,
-      "momentum": 3,
-      "normalized_engagement": 0.02040816326530612,
-      "normalized_momentum": 0.31868131868131866,
-      "composite_score": 0.17,
-      "timeAgo": "1 hour ago"
+      "engagement": 9,
+      "momentum": 1.9,
+      "normalized_engagement": 0.05161290322580645,
+      "normalized_momentum": 0.22499999999999998,
+      "composite_score": 0.138,
+      "timeAgo": "4 hours ago"
     },
     {
       "id": "t3_1stk36g",
@@ -62,14 +62,14 @@
       "num_comments": 5,
       "upvote_ratio": 0.8,
       "engagement": 16,
-      "momentum": 1.1,
-      "normalized_engagement": 0.10204081632653061,
-      "normalized_momentum": 0.10989010989010989,
-      "composite_score": 0.106,
-      "timeAgo": "14 hours ago"
+      "momentum": 0.9,
+      "normalized_engagement": 0.0967741935483871,
+      "normalized_momentum": 0.1,
+      "composite_score": 0.098,
+      "timeAgo": "17 hours ago"
     }
   ],
   "totalScanned": 14,
-  "fetchedAt": "2026-04-24T04:55:58.461Z",
-  "fetchTime": 1045.2
+  "fetchedAt": "2026-04-24T08:14:01.693Z",
+  "fetchTime": 1007.2
 }
