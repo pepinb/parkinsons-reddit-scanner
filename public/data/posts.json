@@ -7,11 +7,11 @@
       "author": "BreakfastSecure6504",
       "permalink": "https://www.reddit.com/r/cagueiprotemq/comments/1sx93m1/parkinson/",
       "created_utc": 1777308013,
-      "score": 18,
+      "score": 20,
       "num_comments": 7,
-      "upvote_ratio": 0.92,
-      "engagement": 32,
-      "momentum": 12.5,
+      "upvote_ratio": 0.95,
+      "engagement": 34,
+      "momentum": 12.1,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
@@ -29,9 +29,9 @@
       "upvote_ratio": 1,
       "engagement": 21,
       "momentum": 1,
-      "normalized_engagement": 0.6451612903225806,
-      "normalized_momentum": 0.07258064516129033,
-      "composite_score": 0.359,
+      "normalized_engagement": 0.6060606060606061,
+      "normalized_momentum": 0.075,
+      "composite_score": 0.341,
       "timeAgo": "21 hours ago"
     },
     {
@@ -41,14 +41,14 @@
       "author": "tspree15",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1swu5ii/advice_needed_dad_feels_awful_daily_not_sure_what/",
       "created_utc": 1777266580,
-      "score": 5,
+      "score": 4,
       "num_comments": 4,
       "upvote_ratio": 1,
-      "engagement": 13,
-      "momentum": 0.9,
-      "normalized_engagement": 0.3870967741935484,
-      "normalized_momentum": 0.06451612903225806,
-      "composite_score": 0.226,
+      "engagement": 12,
+      "momentum": 0.8,
+      "normalized_engagement": 0.3333333333333333,
+      "normalized_momentum": 0.05833333333333334,
+      "composite_score": 0.196,
       "timeAgo": "14 hours ago"
     },
     {
@@ -63,13 +63,13 @@
       "upvote_ratio": 1,
       "engagement": 10,
       "momentum": 0.7,
-      "normalized_engagement": 0.2903225806451613,
-      "normalized_momentum": 0.04838709677419355,
-      "composite_score": 0.169,
-      "timeAgo": "14 hours ago"
+      "normalized_engagement": 0.2727272727272727,
+      "normalized_momentum": 0.049999999999999996,
+      "composite_score": 0.161,
+      "timeAgo": "15 hours ago"
     }
   ],
   "totalScanned": 11,
-  "fetchedAt": "2026-04-27T19:13:13.692Z",
-  "fetchTime": 23
+  "fetchedAt": "2026-04-27T19:28:39.239Z",
+  "fetchTime": 23.2
 }
