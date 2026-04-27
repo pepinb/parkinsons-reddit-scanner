@@ -9,9 +9,9 @@
       "created_utc": 1777308013,
       "score": 19,
       "num_comments": 7,
-      "upvote_ratio": 0.92,
+      "upvote_ratio": 0.95,
       "engagement": 33,
-      "momentum": 16.2,
+      "momentum": 14.4,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
@@ -30,8 +30,8 @@
       "engagement": 21,
       "momentum": 1,
       "normalized_engagement": 0.625,
-      "normalized_momentum": 0.0617283950617284,
-      "composite_score": 0.343,
+      "normalized_momentum": 0.06944444444444445,
+      "composite_score": 0.347,
       "timeAgo": "21 hours ago"
     },
     {
@@ -47,8 +47,8 @@
       "engagement": 19,
       "momentum": 0.8,
       "normalized_engagement": 0.5625,
-      "normalized_momentum": 0.04938271604938272,
-      "composite_score": 0.306,
+      "normalized_momentum": 0.05555555555555556,
+      "composite_score": 0.309,
       "timeAgo": "23 hours ago"
     },
     {
@@ -58,18 +58,18 @@
       "author": "tspree15",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1swu5ii/advice_needed_dad_feels_awful_daily_not_sure_what/",
       "created_utc": 1777266580,
-      "score": 4,
+      "score": 5,
       "num_comments": 4,
       "upvote_ratio": 1,
-      "engagement": 12,
+      "engagement": 13,
       "momentum": 0.9,
-      "normalized_engagement": 0.34375,
-      "normalized_momentum": 0.05555555555555556,
-      "composite_score": 0.2,
+      "normalized_engagement": 0.375,
+      "normalized_momentum": 0.0625,
+      "composite_score": 0.219,
       "timeAgo": "13 hours ago"
     }
   ],
-  "totalScanned": 14,
-  "fetchedAt": "2026-04-27T18:42:23.856Z",
-  "fetchTime": 23.1
+  "totalScanned": 13,
+  "fetchedAt": "2026-04-27T18:57:48.349Z",
+  "fetchTime": 22.3
 }
