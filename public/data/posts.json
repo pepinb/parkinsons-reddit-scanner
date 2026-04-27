@@ -7,15 +7,15 @@
       "author": "BreakfastSecure6504",
       "permalink": "https://www.reddit.com/r/cagueiprotemq/comments/1sx93m1/parkinson/",
       "created_utc": 1777308013,
-      "score": 6,
-      "num_comments": 2,
+      "score": 13,
+      "num_comments": 4,
       "upvote_ratio": 1,
-      "engagement": 10,
-      "momentum": 20,
-      "normalized_engagement": 0.45,
+      "engagement": 21,
+      "momentum": 42,
+      "normalized_engagement": 1,
       "normalized_momentum": 1,
-      "composite_score": 0.725,
-      "timeAgo": "14 minutes ago"
+      "composite_score": 1,
+      "timeAgo": "29 minutes ago"
     },
     {
       "id": "t3_1swka3b",
@@ -30,8 +30,8 @@
       "engagement": 21,
       "momentum": 1.1,
       "normalized_engagement": 1,
-      "normalized_momentum": 0.05500000000000001,
-      "composite_score": 0.528,
+      "normalized_momentum": 0.02619047619047619,
+      "composite_score": 0.513,
       "timeAgo": "19 hours ago"
     },
     {
@@ -47,9 +47,9 @@
       "engagement": 19,
       "momentum": 0.9,
       "normalized_engagement": 0.9,
-      "normalized_momentum": 0.045,
-      "composite_score": 0.473,
-      "timeAgo": "21 hours ago"
+      "normalized_momentum": 0.02142857142857143,
+      "composite_score": 0.461,
+      "timeAgo": "22 hours ago"
     },
     {
       "id": "t3_1swu5ii",
@@ -64,12 +64,12 @@
       "engagement": 12,
       "momentum": 1,
       "normalized_engagement": 0.55,
-      "normalized_momentum": 0.05,
-      "composite_score": 0.3,
-      "timeAgo": "11 hours ago"
+      "normalized_momentum": 0.023809523809523808,
+      "composite_score": 0.287,
+      "timeAgo": "12 hours ago"
     }
   ],
   "totalScanned": 12,
-  "fetchedAt": "2026-04-27T16:54:25.224Z",
-  "fetchTime": 22.6
+  "fetchedAt": "2026-04-27T17:09:50.978Z",
+  "fetchTime": 23.3
 }
