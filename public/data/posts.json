@@ -7,15 +7,15 @@
       "author": "SentimentalLady1",
       "permalink": "https://www.reddit.com/r/Qult_Headquarters/comments/1t3nl04/i_feel_like_michael_j_fox_got_parkinsons_disease/",
       "created_utc": 1777913834,
-      "score": 128,
-      "num_comments": 42,
-      "upvote_ratio": 0.97,
-      "engagement": 212,
-      "momentum": 49.1,
+      "score": 150,
+      "num_comments": 54,
+      "upvote_ratio": 0.96,
+      "engagement": 258,
+      "momentum": 39.1,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
-      "timeAgo": "4 hours ago"
+      "timeAgo": "6 hours ago"
     },
     {
       "id": "t3_1t3mjn7",
@@ -24,15 +24,15 @@
       "author": "Myfanwy366",
       "permalink": "https://www.reddit.com/r/Championship/comments/1t3mjn7/phil_parkinson_moves_to_chester/",
       "created_utc": 1777911685,
-      "score": 72,
-      "num_comments": 19,
+      "score": 89,
+      "num_comments": 21,
       "upvote_ratio": 0.97,
-      "engagement": 110,
-      "momentum": 22.4,
-      "normalized_engagement": 0.5165876777251185,
-      "normalized_momentum": 0.4551020408163265,
-      "composite_score": 0.486,
-      "timeAgo": "4 hours ago"
+      "engagement": 131,
+      "momentum": 18.2,
+      "normalized_engagement": 0.5058365758754864,
+      "normalized_momentum": 0.46410256410256406,
+      "composite_score": 0.485,
+      "timeAgo": "7 hours ago"
     },
     {
       "id": "t3_1t39e8k",
@@ -41,15 +41,15 @@
       "author": "Meepomon",
       "permalink": "https://www.reddit.com/r/DotA2/comments/1t39e8k/i_found_this_courageous_parkinson_person_so/",
       "created_utc": 1777875287,
-      "score": 93,
-      "num_comments": 24,
+      "score": 99,
+      "num_comments": 26,
       "upvote_ratio": 0.9,
-      "engagement": 141,
-      "momentum": 9.4,
-      "normalized_engagement": 0.6635071090047393,
-      "normalized_momentum": 0.18979591836734697,
-      "composite_score": 0.427,
-      "timeAgo": "15 hours ago"
+      "engagement": 151,
+      "momentum": 8.7,
+      "normalized_engagement": 0.5836575875486382,
+      "normalized_momentum": 0.2205128205128205,
+      "composite_score": 0.402,
+      "timeAgo": "17 hours ago"
     },
     {
       "id": "t3_1t3pjqk",
@@ -58,18 +58,18 @@
       "author": "Mulderre91",
       "permalink": "https://www.reddit.com/r/soccer/comments/1t3pjqk/chester_fc_sign_phil_parkinson_as_manager_his/",
       "created_utc": 1777917870,
-      "score": 52,
+      "score": 56,
       "num_comments": 12,
       "upvote_ratio": 1,
-      "engagement": 76,
-      "momentum": 23.8,
-      "normalized_engagement": 0.35545023696682465,
-      "normalized_momentum": 0.4836734693877551,
-      "composite_score": 0.42,
-      "timeAgo": "3 hours ago"
+      "engagement": 80,
+      "momentum": 14.6,
+      "normalized_engagement": 0.30739299610894943,
+      "normalized_momentum": 0.3717948717948718,
+      "composite_score": 0.34,
+      "timeAgo": "5 hours ago"
     }
   ],
-  "totalScanned": 10,
-  "fetchedAt": "2026-05-04T21:16:18.342Z",
-  "fetchTime": 23
+  "totalScanned": 12,
+  "fetchedAt": "2026-05-04T23:32:45.322Z",
+  "fetchTime": 22.7
 }
