@@ -7,15 +7,15 @@
       "author": "downfallndirtydeeds",
       "permalink": "https://www.reddit.com/r/Championship/comments/1t2jvmu/phil_parkinson_holding_a_picture_of_a_park_in_his/",
       "created_utc": 1777810636,
-      "score": 133,
+      "score": 131,
       "num_comments": 12,
-      "upvote_ratio": 0.97,
-      "engagement": 157,
-      "momentum": 13.6,
+      "upvote_ratio": 0.96,
+      "engagement": 155,
+      "momentum": 12.3,
       "normalized_engagement": 1,
-      "normalized_momentum": 0.7861271676300577,
-      "composite_score": 0.893,
-      "timeAgo": "11 hours ago"
+      "normalized_momentum": 0.6455026455026456,
+      "composite_score": 0.823,
+      "timeAgo": "12 hours ago"
     },
     {
       "id": "t3_1t2xdr9",
@@ -24,15 +24,15 @@
       "author": "blitzkriegpapa",
       "permalink": "https://www.reddit.com/r/Championship/comments/1t2xdr9/parkinson_explains_efl_championship_to_american/",
       "created_utc": 1777841938,
-      "score": 39,
-      "num_comments": 5,
+      "score": 60,
+      "num_comments": 7,
       "upvote_ratio": 0.95,
-      "engagement": 49,
-      "momentum": 17.3,
-      "normalized_engagement": 0.3076923076923077,
+      "engagement": 74,
+      "momentum": 19,
+      "normalized_engagement": 0.474025974025974,
       "normalized_momentum": 1,
-      "composite_score": 0.654,
-      "timeAgo": "2 hours ago"
+      "composite_score": 0.737,
+      "timeAgo": "3 hours ago"
     },
     {
       "id": "t3_1t2gg7g",
@@ -41,15 +41,15 @@
       "author": "exefav",
       "permalink": "https://www.reddit.com/r/Championship/comments/1t2gg7g/phil_parkinson_holding_up_a_picture_of_the_efl/",
       "created_utc": 1777799375,
-      "score": 101,
+      "score": 100,
       "num_comments": 1,
       "upvote_ratio": 0.98,
-      "engagement": 103,
-      "momentum": 7,
-      "normalized_engagement": 0.6538461538461539,
-      "normalized_momentum": 0.40462427745664736,
-      "composite_score": 0.529,
-      "timeAgo": "14 hours ago"
+      "engagement": 102,
+      "momentum": 6.5,
+      "normalized_engagement": 0.6558441558441559,
+      "normalized_momentum": 0.33862433862433866,
+      "composite_score": 0.497,
+      "timeAgo": "15 hours ago"
     },
     {
       "id": "t3_1t2rdh6",
@@ -58,18 +58,18 @@
       "author": "LessAdvantage2342",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1t2rdh6/handwritings/",
       "created_utc": 1777828548,
-      "score": 12,
+      "score": 14,
       "num_comments": 21,
-      "upvote_ratio": 0.94,
-      "engagement": 54,
-      "momentum": 8.3,
-      "normalized_engagement": 0.33974358974358976,
-      "normalized_momentum": 0.47976878612716767,
-      "composite_score": 0.41,
-      "timeAgo": "6 hours ago"
+      "upvote_ratio": 1,
+      "engagement": 56,
+      "momentum": 7.4,
+      "normalized_engagement": 0.35714285714285715,
+      "normalized_momentum": 0.38624338624338633,
+      "composite_score": 0.372,
+      "timeAgo": "7 hours ago"
     }
   ],
-  "totalScanned": 13,
-  "fetchedAt": "2026-05-03T23:48:27.548Z",
-  "fetchTime": 22.1
+  "totalScanned": 12,
+  "fetchedAt": "2026-05-04T00:52:09.173Z",
+  "fetchTime": 993.3
 }
