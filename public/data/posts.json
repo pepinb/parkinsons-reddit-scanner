@@ -7,15 +7,15 @@
       "author": "SentimentalLady1",
       "permalink": "https://www.reddit.com/r/Qult_Headquarters/comments/1t3nl04/i_feel_like_michael_j_fox_got_parkinsons_disease/",
       "created_utc": 1777913834,
-      "score": 177,
+      "score": 178,
       "num_comments": 61,
       "upvote_ratio": 0.96,
-      "engagement": 299,
-      "momentum": 21.8,
+      "engagement": 300,
+      "momentum": 18.5,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
-      "timeAgo": "13 hours ago"
+      "timeAgo": "16 hours ago"
     },
     {
       "id": "t3_1t3mjn7",
@@ -24,15 +24,15 @@
       "author": "Myfanwy366",
       "permalink": "https://www.reddit.com/r/Championship/comments/1t3mjn7/phil_parkinson_moves_to_chester/",
       "created_utc": 1777911685,
-      "score": 98,
+      "score": 106,
       "num_comments": 25,
-      "upvote_ratio": 0.95,
-      "engagement": 148,
-      "momentum": 10.4,
-      "normalized_engagement": 0.49328859060402686,
-      "normalized_momentum": 0.47706422018348627,
-      "composite_score": 0.485,
-      "timeAgo": "14 hours ago"
+      "upvote_ratio": 0.96,
+      "engagement": 156,
+      "momentum": 9.3,
+      "normalized_engagement": 0.5183946488294314,
+      "normalized_momentum": 0.5027027027027028,
+      "composite_score": 0.511,
+      "timeAgo": "16 hours ago"
     },
     {
       "id": "t3_1t3pjqk",
@@ -41,15 +41,15 @@
       "author": "Mulderre91",
       "permalink": "https://www.reddit.com/r/soccer/comments/1t3pjqk/chester_fc_sign_phil_parkinson_as_manager_his/",
       "created_utc": 1777917870,
-      "score": 56,
+      "score": 58,
       "num_comments": 12,
       "upvote_ratio": 0.96,
-      "engagement": 80,
-      "momentum": 6.4,
-      "normalized_engagement": 0.2651006711409396,
-      "normalized_momentum": 0.29357798165137616,
-      "composite_score": 0.279,
-      "timeAgo": "12 hours ago"
+      "engagement": 82,
+      "momentum": 5.4,
+      "normalized_engagement": 0.2709030100334448,
+      "normalized_momentum": 0.2918918918918919,
+      "composite_score": 0.281,
+      "timeAgo": "15 hours ago"
     },
     {
       "id": "t3_1t3umq9",
@@ -58,18 +58,18 @@
       "author": "catsfuntime80",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1t3umq9/had_emergency_surgery/",
       "created_utc": 1777928532,
-      "score": 8,
+      "score": 9,
       "num_comments": 10,
-      "upvote_ratio": 0.91,
-      "engagement": 28,
-      "momentum": 2.9,
-      "normalized_engagement": 0.09060402684563758,
-      "normalized_momentum": 0.1330275229357798,
+      "upvote_ratio": 1,
+      "engagement": 29,
+      "momentum": 2.4,
+      "normalized_engagement": 0.09364548494983277,
+      "normalized_momentum": 0.12972972972972974,
       "composite_score": 0.112,
-      "timeAgo": "9 hours ago"
+      "timeAgo": "12 hours ago"
     }
   ],
   "totalScanned": 11,
-  "fetchedAt": "2026-05-05T06:38:22.985Z",
-  "fetchTime": 320.3
+  "fetchedAt": "2026-05-05T09:10:44.499Z",
+  "fetchTime": 22.4
 }
