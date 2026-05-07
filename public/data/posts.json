@@ -11,7 +11,7 @@
       "num_comments": 10,
       "upvote_ratio": 0.86,
       "engagement": 25,
-      "momentum": 3,
+      "momentum": 2.9,
       "normalized_engagement": 0.7741935483870968,
       "normalized_momentum": 1,
       "composite_score": 0.887,
@@ -30,9 +30,9 @@
       "engagement": 32,
       "momentum": 1.6,
       "normalized_engagement": 1,
-      "normalized_momentum": 0.5172413793103449,
-      "composite_score": 0.759,
-      "timeAgo": "19 hours ago"
+      "normalized_momentum": 0.5357142857142857,
+      "composite_score": 0.768,
+      "timeAgo": "20 hours ago"
     },
     {
       "id": "t3_1t59mbh",
@@ -43,13 +43,13 @@
       "created_utc": 1778065571,
       "score": 7,
       "num_comments": 10,
-      "upvote_ratio": 1,
+      "upvote_ratio": 0.9,
       "engagement": 27,
       "momentum": 1.7,
       "normalized_engagement": 0.8387096774193549,
-      "normalized_momentum": 0.5517241379310345,
-      "composite_score": 0.695,
-      "timeAgo": "15 hours ago"
+      "normalized_momentum": 0.5714285714285714,
+      "composite_score": 0.705,
+      "timeAgo": "16 hours ago"
     },
     {
       "id": "t3_1t5ciuo",
@@ -64,12 +64,12 @@
       "engagement": 22,
       "momentum": 1.6,
       "normalized_engagement": 0.6774193548387096,
-      "normalized_momentum": 0.5172413793103449,
-      "composite_score": 0.597,
-      "timeAgo": "13 hours ago"
+      "normalized_momentum": 0.5357142857142857,
+      "composite_score": 0.607,
+      "timeAgo": "14 hours ago"
     }
   ],
   "totalScanned": 15,
-  "fetchedAt": "2026-05-07T03:02:40.691Z",
-  "fetchTime": 22.7
+  "fetchedAt": "2026-05-07T03:18:05.208Z",
+  "fetchTime": 21.4
 }
