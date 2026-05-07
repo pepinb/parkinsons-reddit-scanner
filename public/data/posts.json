@@ -7,14 +7,14 @@
       "author": "Bright_Dreams235",
       "permalink": "https://www.reddit.com/r/ParkinsonsCaregivers/comments/1t5lx7y/78_years_old_tenant_with_parkinson_family_that/",
       "created_utc": 1778093079,
-      "score": 5,
+      "score": 6,
       "num_comments": 10,
-      "upvote_ratio": 0.86,
-      "engagement": 25,
+      "upvote_ratio": 0.87,
+      "engagement": 26,
       "momentum": 4,
-      "normalized_engagement": 0.8888888888888888,
+      "normalized_engagement": 0.8928571428571429,
       "normalized_momentum": 1,
-      "composite_score": 0.944,
+      "composite_score": 0.946,
       "timeAgo": "6 hours ago"
     },
     {
@@ -26,13 +26,13 @@
       "created_utc": 1778065571,
       "score": 7,
       "num_comments": 10,
-      "upvote_ratio": 0.9,
+      "upvote_ratio": 1,
       "engagement": 27,
       "momentum": 1.9,
-      "normalized_engagement": 0.9629629629629629,
+      "normalized_engagement": 0.9285714285714286,
       "normalized_momentum": 0.4615384615384615,
-      "composite_score": 0.712,
-      "timeAgo": "13 hours ago"
+      "composite_score": 0.695,
+      "timeAgo": "14 hours ago"
     },
     {
       "id": "t3_1t55iun",
@@ -41,15 +41,15 @@
       "author": "nearfar47",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1t55iun/dbs_programming_week_3/",
       "created_utc": 1778051412,
-      "score": 16,
+      "score": 17,
       "num_comments": 6,
       "upvote_ratio": 1,
-      "engagement": 28,
+      "engagement": 29,
       "momentum": 1.6,
       "normalized_engagement": 1,
       "normalized_momentum": 0.38461538461538464,
       "composite_score": 0.692,
-      "timeAgo": "17 hours ago"
+      "timeAgo": "18 hours ago"
     },
     {
       "id": "t3_1t5ciuo",
@@ -63,13 +63,13 @@
       "upvote_ratio": 1,
       "engagement": 19,
       "momentum": 1.6,
-      "normalized_engagement": 0.6666666666666666,
+      "normalized_engagement": 0.6428571428571429,
       "normalized_momentum": 0.38461538461538464,
-      "composite_score": 0.526,
-      "timeAgo": "11 hours ago"
+      "composite_score": 0.514,
+      "timeAgo": "12 hours ago"
     }
   ],
-  "totalScanned": 15,
-  "fetchedAt": "2026-05-07T00:59:16.262Z",
-  "fetchTime": 22.2
+  "totalScanned": 16,
+  "fetchedAt": "2026-05-07T01:14:42.099Z",
+  "fetchTime": 22
 }
