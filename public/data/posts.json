@@ -11,10 +11,10 @@
       "num_comments": 10,
       "upvote_ratio": 0.86,
       "engagement": 25,
-      "momentum": 2.9,
+      "momentum": 2.8,
       "normalized_engagement": 0.7741935483870968,
-      "normalized_momentum": 1,
-      "composite_score": 0.887,
+      "normalized_momentum": 0.6923076923076923,
+      "composite_score": 0.733,
       "timeAgo": "8 hours ago"
     },
     {
@@ -30,8 +30,8 @@
       "engagement": 32,
       "momentum": 1.6,
       "normalized_engagement": 1,
-      "normalized_momentum": 0.5357142857142857,
-      "composite_score": 0.768,
+      "normalized_momentum": 0.38461538461538464,
+      "composite_score": 0.692,
       "timeAgo": "20 hours ago"
     },
     {
@@ -41,14 +41,14 @@
       "author": "Seastfive",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1t59mbh/suggestions_for_good_shoes_for_parkinsons/",
       "created_utc": 1778065571,
-      "score": 7,
+      "score": 6,
       "num_comments": 10,
-      "upvote_ratio": 0.9,
-      "engagement": 27,
-      "momentum": 1.7,
-      "normalized_engagement": 0.8387096774193549,
-      "normalized_momentum": 0.5714285714285714,
-      "composite_score": 0.705,
+      "upvote_ratio": 0.88,
+      "engagement": 26,
+      "momentum": 1.6,
+      "normalized_engagement": 0.8064516129032258,
+      "normalized_momentum": 0.38461538461538464,
+      "composite_score": 0.596,
       "timeAgo": "16 hours ago"
     },
     {
@@ -62,14 +62,14 @@
       "num_comments": 10,
       "upvote_ratio": 1,
       "engagement": 22,
-      "momentum": 1.6,
+      "momentum": 1.5,
       "normalized_engagement": 0.6774193548387096,
-      "normalized_momentum": 0.5357142857142857,
-      "composite_score": 0.607,
+      "normalized_momentum": 0.358974358974359,
+      "composite_score": 0.518,
       "timeAgo": "14 hours ago"
     }
   ],
-  "totalScanned": 15,
-  "fetchedAt": "2026-05-07T03:18:05.208Z",
+  "totalScanned": 16,
+  "fetchedAt": "2026-05-07T03:33:28.977Z",
   "fetchTime": 21.4
 }
