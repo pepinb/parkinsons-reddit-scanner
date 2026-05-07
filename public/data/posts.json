@@ -7,15 +7,15 @@
       "author": "k4zor",
       "permalink": "https://www.reddit.com/r/FUCKYOUINPARTICULAR/comments/1t68lxk/fuck_parkinsons/",
       "created_utc": 1778155685,
-      "score": 5804,
-      "num_comments": 157,
+      "score": 5919,
+      "num_comments": 161,
       "upvote_ratio": 0.99,
-      "engagement": 6118,
-      "momentum": 686.1,
+      "engagement": 6241,
+      "momentum": 673.1,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
-      "timeAgo": "8 hours ago"
+      "timeAgo": "9 hours ago"
     },
     {
       "id": "t3_1t6mf0r",
@@ -25,14 +25,14 @@
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1t6mf0r/eating_advice_dad_doesnt_have_the_tremors_mostly/",
       "created_utc": 1778185570,
       "score": 7,
-      "num_comments": 1,
+      "num_comments": 2,
       "upvote_ratio": 1,
-      "engagement": 9,
-      "momentum": 14.6,
-      "normalized_engagement": 0.0013078306359326467,
-      "normalized_momentum": 0.021137026239067054,
-      "composite_score": 0.011,
-      "timeAgo": "36 minutes ago"
+      "engagement": 11,
+      "momentum": 11.3,
+      "normalized_engagement": 0.0016025641025641025,
+      "normalized_momentum": 0.01664190193164933,
+      "composite_score": 0.009,
+      "timeAgo": "58 minutes ago"
     },
     {
       "id": "t3_1t6mqvk",
@@ -45,11 +45,11 @@
       "num_comments": 2,
       "upvote_ratio": 1,
       "engagement": 7,
-      "momentum": 14,
-      "normalized_engagement": 0.000980872976949485,
-      "normalized_momentum": 0.020262390670553937,
-      "composite_score": 0.011,
-      "timeAgo": "25 minutes ago"
+      "momentum": 9,
+      "normalized_engagement": 0.0009615384615384616,
+      "normalized_momentum": 0.013224368499257058,
+      "composite_score": 0.007,
+      "timeAgo": "46 minutes ago"
     },
     {
       "id": "t3_1t5ysqz",
@@ -60,16 +60,16 @@
       "created_utc": 1778124210,
       "score": 32,
       "num_comments": 8,
-      "upvote_ratio": 0.88,
+      "upvote_ratio": 0.9,
       "engagement": 48,
       "momentum": 2.7,
-      "normalized_engagement": 0.0076835049861043,
-      "normalized_momentum": 0.0037900874635568515,
+      "normalized_engagement": 0.007532051282051282,
+      "normalized_momentum": 0.003863298662704309,
       "composite_score": 0.006,
-      "timeAgo": "17 hours ago"
+      "timeAgo": "18 hours ago"
     }
   ],
   "totalScanned": 21,
-  "fetchedAt": "2026-05-07T21:03:08.066Z",
-  "fetchTime": 24.2
+  "fetchedAt": "2026-05-07T21:24:25.073Z",
+  "fetchTime": 23.1
 }
