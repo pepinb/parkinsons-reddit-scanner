@@ -13,26 +13,9 @@
       "engagement": 33,
       "momentum": 1.6,
       "normalized_engagement": 1,
-      "normalized_momentum": 0.21428571428571427,
-      "composite_score": 0.607,
-      "timeAgo": "20 hours ago"
-    },
-    {
-      "id": "t3_1t5ysqz",
-      "title": "Up + Adam *exclusive* interview with Sheriff Ian Parkinson",
-      "subreddit": "r/KristinSmart",
-      "author": "alexfarrington",
-      "permalink": "https://www.reddit.com/r/KristinSmart/comments/1t5ysqz/up_adam_exclusive_interview_with_sheriff_ian/",
-      "created_utc": 1778124210,
-      "score": 5,
-      "num_comments": 0,
-      "upvote_ratio": 1,
-      "engagement": 5,
-      "momentum": 7.1,
-      "normalized_engagement": 0.125,
-      "normalized_momentum": 1,
-      "composite_score": 0.563,
-      "timeAgo": "42 minutes ago"
+      "normalized_momentum": 0.2941176470588235,
+      "composite_score": 0.647,
+      "timeAgo": "21 hours ago"
     },
     {
       "id": "t3_1t5lx7y",
@@ -45,11 +28,28 @@
       "num_comments": 10,
       "upvote_ratio": 0.86,
       "engagement": 25,
-      "momentum": 2.7,
+      "momentum": 2.6,
       "normalized_engagement": 0.75,
-      "normalized_momentum": 0.37142857142857144,
-      "composite_score": 0.561,
+      "normalized_momentum": 0.4901960784313725,
+      "composite_score": 0.62,
       "timeAgo": "9 hours ago"
+    },
+    {
+      "id": "t3_1t5ysqz",
+      "title": "Up + Adam *exclusive* interview with Sheriff Ian Parkinson",
+      "subreddit": "r/KristinSmart",
+      "author": "alexfarrington",
+      "permalink": "https://www.reddit.com/r/KristinSmart/comments/1t5ysqz/up_adam_exclusive_interview_with_sheriff_ian/",
+      "created_utc": 1778124210,
+      "score": 5,
+      "num_comments": 0,
+      "upvote_ratio": 1,
+      "engagement": 5,
+      "momentum": 5.2,
+      "normalized_engagement": 0.125,
+      "normalized_momentum": 1,
+      "composite_score": 0.563,
+      "timeAgo": "57 minutes ago"
     },
     {
       "id": "t3_1t59mbh",
@@ -64,12 +64,12 @@
       "engagement": 27,
       "momentum": 1.6,
       "normalized_engagement": 0.8125,
-      "normalized_momentum": 0.21428571428571427,
-      "composite_score": 0.513,
-      "timeAgo": "16 hours ago"
+      "normalized_momentum": 0.2941176470588235,
+      "composite_score": 0.553,
+      "timeAgo": "17 hours ago"
     }
   ],
   "totalScanned": 17,
-  "fetchedAt": "2026-05-07T04:05:31.595Z",
-  "fetchTime": 22.3
+  "fetchedAt": "2026-05-07T04:20:56.669Z",
+  "fetchTime": 21.7
 }
