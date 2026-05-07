@@ -7,14 +7,14 @@
       "author": "Bright_Dreams235",
       "permalink": "https://www.reddit.com/r/ParkinsonsCaregivers/comments/1t5lx7y/78_years_old_tenant_with_parkinson_family_that/",
       "created_utc": 1778093079,
-      "score": 5,
-      "num_comments": 9,
-      "upvote_ratio": 0.78,
-      "engagement": 23,
+      "score": 4,
+      "num_comments": 10,
+      "upvote_ratio": 0.75,
+      "engagement": 24,
       "momentum": 4.2,
-      "normalized_engagement": 0.8148148148148148,
+      "normalized_engagement": 0.8518518518518519,
       "normalized_momentum": 1,
-      "composite_score": 0.907,
+      "composite_score": 0.926,
       "timeAgo": "5 hours ago"
     },
     {
@@ -28,10 +28,10 @@
       "num_comments": 10,
       "upvote_ratio": 1,
       "engagement": 27,
-      "momentum": 2.1,
+      "momentum": 2,
       "normalized_engagement": 0.9629629629629629,
-      "normalized_momentum": 0.4878048780487804,
-      "composite_score": 0.725,
+      "normalized_momentum": 0.4634146341463414,
+      "composite_score": 0.713,
       "timeAgo": "13 hours ago"
     },
     {
@@ -70,6 +70,6 @@
     }
   ],
   "totalScanned": 16,
-  "fetchedAt": "2026-05-07T00:13:03.269Z",
-  "fetchTime": 21.6
+  "fetchedAt": "2026-05-07T00:28:27.337Z",
+  "fetchTime": 21.8
 }
