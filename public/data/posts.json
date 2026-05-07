@@ -9,12 +9,12 @@
       "created_utc": 1778093079,
       "score": 5,
       "num_comments": 9,
-      "upvote_ratio": 0.86,
+      "upvote_ratio": 0.78,
       "engagement": 23,
-      "momentum": 4.4,
-      "normalized_engagement": 0.8461538461538461,
+      "momentum": 4.2,
+      "normalized_engagement": 0.8148148148148148,
       "normalized_momentum": 1,
-      "composite_score": 0.923,
+      "composite_score": 0.907,
       "timeAgo": "5 hours ago"
     },
     {
@@ -26,13 +26,13 @@
       "created_utc": 1778065571,
       "score": 7,
       "num_comments": 10,
-      "upvote_ratio": 0.9,
+      "upvote_ratio": 1,
       "engagement": 27,
       "momentum": 2.1,
-      "normalized_engagement": 1,
-      "normalized_momentum": 0.4651162790697674,
-      "composite_score": 0.733,
-      "timeAgo": "12 hours ago"
+      "normalized_engagement": 0.9629629629629629,
+      "normalized_momentum": 0.4878048780487804,
+      "composite_score": 0.725,
+      "timeAgo": "13 hours ago"
     },
     {
       "id": "t3_1t55iun",
@@ -42,14 +42,14 @@
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1t55iun/dbs_programming_week_3/",
       "created_utc": 1778051412,
       "score": 16,
-      "num_comments": 5,
-      "upvote_ratio": 0.95,
-      "engagement": 26,
-      "momentum": 1.5,
-      "normalized_engagement": 0.9615384615384616,
-      "normalized_momentum": 0.3255813953488371,
-      "composite_score": 0.644,
-      "timeAgo": "16 hours ago"
+      "num_comments": 6,
+      "upvote_ratio": 1,
+      "engagement": 28,
+      "momentum": 1.6,
+      "normalized_engagement": 1,
+      "normalized_momentum": 0.3658536585365853,
+      "composite_score": 0.683,
+      "timeAgo": "17 hours ago"
     },
     {
       "id": "t3_1t5ciuo",
@@ -62,14 +62,14 @@
       "num_comments": 9,
       "upvote_ratio": 1,
       "engagement": 19,
-      "momentum": 1.8,
-      "normalized_engagement": 0.6923076923076923,
-      "normalized_momentum": 0.39534883720930225,
-      "composite_score": 0.544,
-      "timeAgo": "10 hours ago"
+      "momentum": 1.7,
+      "normalized_engagement": 0.6666666666666666,
+      "normalized_momentum": 0.3902439024390243,
+      "composite_score": 0.528,
+      "timeAgo": "11 hours ago"
     }
   ],
   "totalScanned": 16,
-  "fetchedAt": "2026-05-06T23:57:39.121Z",
-  "fetchTime": 22.1
+  "fetchedAt": "2026-05-07T00:13:03.269Z",
+  "fetchTime": 21.6
 }
