@@ -7,11 +7,11 @@
       "author": "k4zor",
       "permalink": "https://www.reddit.com/r/FUCKYOUINPARTICULAR/comments/1t68lxk/fuck_parkinsons/",
       "created_utc": 1778155685,
-      "score": 7882,
-      "num_comments": 192,
+      "score": 7928,
+      "num_comments": 196,
       "upvote_ratio": 0.99,
-      "engagement": 8266,
-      "momentum": 478.4,
+      "engagement": 8320,
+      "momentum": 474.5,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
@@ -24,15 +24,15 @@
       "author": "Clouds_2004",
       "permalink": "https://www.reddit.com/r/uruguay/comments/1t6mqvk/alguien_con_síndrome_de_wolffparkinsonwhite_o_tsv/",
       "created_utc": 1778186272,
-      "score": 10,
+      "score": 11,
       "num_comments": 15,
-      "upvote_ratio": 0.86,
-      "engagement": 40,
-      "momentum": 4.6,
-      "normalized_engagement": 0.004718693284936479,
-      "normalized_momentum": 0.00940832113736149,
+      "upvote_ratio": 0.92,
+      "engagement": 41,
+      "momentum": 4.5,
+      "normalized_engagement": 0.004808270224786633,
+      "normalized_momentum": 0.00927487352445194,
       "composite_score": 0.007,
-      "timeAgo": "8 hours ago"
+      "timeAgo": "9 hours ago"
     },
     {
       "id": "t3_1t6mf0r",
@@ -41,15 +41,15 @@
       "author": "MsAylen",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1t6mf0r/eating_advice_dad_doesnt_have_the_tremors_mostly/",
       "created_utc": 1778185570,
-      "score": 6,
+      "score": 7,
       "num_comments": 6,
-      "upvote_ratio": 0.88,
-      "engagement": 18,
-      "momentum": 2,
-      "normalized_engagement": 0.00205686630369026,
-      "normalized_momentum": 0.003972402257997073,
+      "upvote_ratio": 0.9,
+      "engagement": 19,
+      "momentum": 2.1,
+      "normalized_engagement": 0.002163721601153985,
+      "normalized_momentum": 0.0042158516020236085,
       "composite_score": 0.003,
-      "timeAgo": "8 hours ago"
+      "timeAgo": "9 hours ago"
     },
     {
       "id": "t3_1t6y7iq",
@@ -62,14 +62,14 @@
       "num_comments": 0,
       "upvote_ratio": 1,
       "engagement": 1,
-      "momentum": 2,
+      "momentum": 1.9,
       "normalized_engagement": 0,
-      "normalized_momentum": 0.003972402257997073,
+      "normalized_momentum": 0.0037942664418212477,
       "composite_score": 0.002,
-      "timeAgo": "16 minutes ago"
+      "timeAgo": "31 minutes ago"
     }
   ],
   "totalScanned": 18,
-  "fetchedAt": "2026-05-08T05:24:44.424Z",
-  "fetchTime": 22.8
+  "fetchedAt": "2026-05-08T05:40:09.937Z",
+  "fetchTime": 22.7
 }
