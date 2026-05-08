@@ -7,15 +7,15 @@
       "author": "k4zor",
       "permalink": "https://www.reddit.com/r/FUCKYOUINPARTICULAR/comments/1t68lxk/fuck_parkinsons/",
       "created_utc": 1778155685,
-      "score": 8184,
-      "num_comments": 200,
+      "score": 8564,
+      "num_comments": 206,
       "upvote_ratio": 0.99,
-      "engagement": 8584,
-      "momentum": 449,
+      "engagement": 8976,
+      "momentum": 408.1,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
-      "timeAgo": "19 hours ago"
+      "timeAgo": "21 hours ago"
     },
     {
       "id": "t3_1t70g5d",
@@ -24,15 +24,15 @@
       "author": "lucymainstreet",
       "permalink": "https://www.reddit.com/r/BacktotheFuture/comments/1t70g5d/fuck_parkinsons/",
       "created_utc": 1778224170,
-      "score": 4,
-      "num_comments": 1,
-      "upvote_ratio": 1,
-      "engagement": 6,
-      "momentum": 12,
-      "normalized_engagement": 0.0005825468950250495,
-      "normalized_momentum": 0.026726057906458798,
-      "composite_score": 0.014,
-      "timeAgo": "5 minutes ago"
+      "score": 185,
+      "num_comments": 6,
+      "upvote_ratio": 0.99,
+      "engagement": 197,
+      "momentum": 66.3,
+      "normalized_engagement": 0.021838440111420613,
+      "normalized_momentum": 0.16246018132810583,
+      "composite_score": 0.092,
+      "timeAgo": "2 hours ago"
     },
     {
       "id": "t3_1t6mqvk",
@@ -45,11 +45,11 @@
       "num_comments": 15,
       "upvote_ratio": 0.87,
       "engagement": 41,
-      "momentum": 3.9,
-      "normalized_engagement": 0.004660375160200396,
-      "normalized_momentum": 0.00868596881959911,
-      "composite_score": 0.007,
-      "timeAgo": "10 hours ago"
+      "momentum": 3,
+      "normalized_engagement": 0.004456824512534819,
+      "normalized_momentum": 0.0073511394266111245,
+      "composite_score": 0.006,
+      "timeAgo": "13 hours ago"
     },
     {
       "id": "t3_1t6mf0r",
@@ -58,18 +58,18 @@
       "author": "MsAylen",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1t6mf0r/eating_advice_dad_doesnt_have_the_tremors_mostly/",
       "created_utc": 1778185570,
-      "score": 8,
+      "score": 7,
       "num_comments": 11,
-      "upvote_ratio": 1,
-      "engagement": 30,
-      "momentum": 2.8,
-      "normalized_engagement": 0.0033787719911452874,
-      "normalized_momentum": 0.006236080178173719,
-      "composite_score": 0.005,
-      "timeAgo": "10 hours ago"
+      "upvote_ratio": 0.9,
+      "engagement": 29,
+      "momentum": 2.1,
+      "normalized_engagement": 0.003119777158774373,
+      "normalized_momentum": 0.005145797598627788,
+      "composite_score": 0.004,
+      "timeAgo": "13 hours ago"
     }
   ],
   "totalScanned": 21,
-  "fetchedAt": "2026-05-08T07:15:06.603Z",
-  "fetchTime": 22.2
+  "fetchedAt": "2026-05-08T10:07:38.858Z",
+  "fetchTime": 24.3
 }
