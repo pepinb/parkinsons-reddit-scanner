@@ -7,15 +7,15 @@
       "author": "lucymainstreet",
       "permalink": "https://www.reddit.com/r/BacktotheFuture/comments/1t70g5d/fuck_parkinsons/",
       "created_utc": 1778224170,
-      "score": 1472,
-      "num_comments": 42,
+      "score": 1516,
+      "num_comments": 43,
       "upvote_ratio": 0.99,
-      "engagement": 1556,
-      "momentum": 132.4,
+      "engagement": 1602,
+      "momentum": 133.4,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
-      "timeAgo": "11 hours ago"
+      "timeAgo": "12 hours ago"
     },
     {
       "id": "t3_1t7b7ky",
@@ -24,14 +24,14 @@
       "author": "ParkieDude",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1t7b7ky/update_route_66_team_riding_from_utah_to_phoenix/",
       "created_utc": 1778253973,
-      "score": 22,
+      "score": 25,
       "num_comments": 2,
-      "upvote_ratio": 0.94,
-      "engagement": 26,
-      "momentum": 7.5,
-      "normalized_engagement": 0.01607717041800643,
-      "normalized_momentum": 0.055933484504913075,
-      "composite_score": 0.036,
+      "upvote_ratio": 1,
+      "engagement": 29,
+      "momentum": 7.8,
+      "normalized_engagement": 0.017489069331667707,
+      "normalized_momentum": 0.057764441110277565,
+      "composite_score": 0.038,
       "timeAgo": "3 hours ago"
     },
     {
@@ -45,10 +45,10 @@
       "num_comments": 2,
       "upvote_ratio": 0.97,
       "engagement": 26,
-      "momentum": 7.3,
-      "normalized_engagement": 0.01607717041800643,
-      "normalized_momentum": 0.05442176870748299,
-      "composite_score": 0.035,
+      "momentum": 6.8,
+      "normalized_engagement": 0.01561524047470331,
+      "normalized_momentum": 0.05026256564141035,
+      "composite_score": 0.033,
       "timeAgo": "3 hours ago"
     },
     {
@@ -58,18 +58,18 @@
       "author": "epaarepa",
       "permalink": "https://www.reddit.com/r/AgingParents/comments/1t7bt6v/i_feel_in_over_my_head_33f_dad_with_parkinsons/",
       "created_utc": 1778255250,
-      "score": 5,
+      "score": 7,
       "num_comments": 6,
       "upvote_ratio": 1,
-      "engagement": 17,
-      "momentum": 5.5,
-      "normalized_engagement": 0.010289389067524116,
-      "normalized_momentum": 0.04081632653061224,
+      "engagement": 19,
+      "momentum": 5.6,
+      "normalized_engagement": 0.011242973141786383,
+      "normalized_momentum": 0.04126031507876969,
       "composite_score": 0.026,
       "timeAgo": "3 hours ago"
     }
   ],
   "totalScanned": 17,
-  "fetchedAt": "2026-05-08T18:54:35.274Z",
-  "fetchTime": 23
+  "fetchedAt": "2026-05-08T19:10:01.668Z",
+  "fetchTime": 22.7
 }
