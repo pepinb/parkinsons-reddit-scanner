@@ -7,11 +7,11 @@
       "author": "k4zor",
       "permalink": "https://www.reddit.com/r/FUCKYOUINPARTICULAR/comments/1t68lxk/fuck_parkinsons/",
       "created_utc": 1778155685,
-      "score": 6835,
+      "score": 6879,
       "num_comments": 175,
       "upvote_ratio": 0.99,
-      "engagement": 7185,
-      "momentum": 591.9,
+      "engagement": 7229,
+      "momentum": 583.2,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
@@ -28,9 +28,9 @@
       "num_comments": 14,
       "upvote_ratio": 1,
       "engagement": 37,
-      "momentum": 10.2,
-      "normalized_engagement": 0.005011135857461025,
-      "normalized_momentum": 0.01706657654613045,
+      "momentum": 9.5,
+      "normalized_engagement": 0.004980630879911455,
+      "normalized_momentum": 0.01612073400788887,
       "composite_score": 0.011,
       "timeAgo": "3 hours ago"
     },
@@ -46,10 +46,10 @@
       "upvote_ratio": 0.89,
       "engagement": 52,
       "momentum": 2.5,
-      "normalized_engagement": 0.007099109131403118,
-      "normalized_momentum": 0.004055424129773572,
+      "normalized_engagement": 0.007055893746541229,
+      "normalized_momentum": 0.004115932087120563,
       "composite_score": 0.006,
-      "timeAgo": "20 hours ago"
+      "timeAgo": "21 hours ago"
     },
     {
       "id": "t3_1t6mf0r",
@@ -58,18 +58,18 @@
       "author": "MsAylen",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1t6mf0r/eating_advice_dad_doesnt_have_the_tremors_mostly/",
       "created_utc": 1778185570,
-      "score": 8,
+      "score": 7,
       "num_comments": 4,
       "upvote_ratio": 1,
-      "engagement": 16,
-      "momentum": 4.2,
-      "normalized_engagement": 0.0020879732739420937,
-      "normalized_momentum": 0.006928016221696521,
-      "composite_score": 0.005,
-      "timeAgo": "3 hours ago"
+      "engagement": 15,
+      "momentum": 3.7,
+      "normalized_engagement": 0.001936912008854455,
+      "normalized_momentum": 0.0061738981306808435,
+      "composite_score": 0.004,
+      "timeAgo": "4 hours ago"
     }
   ],
-  "totalScanned": 19,
-  "fetchedAt": "2026-05-08T00:16:24.347Z",
-  "fetchTime": 23
+  "totalScanned": 21,
+  "fetchedAt": "2026-05-08T00:31:49.865Z",
+  "fetchTime": 22.3
 }
