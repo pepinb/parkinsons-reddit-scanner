@@ -7,14 +7,14 @@
       "author": "Nervous4577",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1t825qy/10_months_after_dbs_still_struggling_between_on/",
       "created_utc": 1778325334,
-      "score": 6,
+      "score": 3,
       "num_comments": 2,
-      "upvote_ratio": 0.99,
-      "engagement": 10,
-      "momentum": 1.9,
-      "normalized_engagement": 1,
-      "normalized_momentum": 0.9473684210526315,
-      "composite_score": 0.974,
+      "upvote_ratio": 0.72,
+      "engagement": 7,
+      "momentum": 1.3,
+      "normalized_engagement": 0.75,
+      "normalized_momentum": 0.631578947368421,
+      "composite_score": 0.691,
       "timeAgo": "5 hours ago"
     },
     {
@@ -24,10 +24,10 @@
       "author": "Top-Performer5233",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1t7lz51/ser_grato_a_quem_te_oferecer_ajuda/",
       "created_utc": 1778277336,
-      "score": 8,
+      "score": 7,
       "num_comments": 1,
-      "upvote_ratio": 0.83,
-      "engagement": 10,
+      "upvote_ratio": 0.82,
+      "engagement": 9,
       "momentum": 0.5,
       "normalized_engagement": 1,
       "normalized_momentum": 0.2105263157894737,
@@ -46,10 +46,10 @@
       "upvote_ratio": 1,
       "engagement": 6,
       "momentum": 1,
-      "normalized_engagement": 0.5555555555555556,
+      "normalized_engagement": 0.625,
       "normalized_momentum": 0.4736842105263158,
-      "composite_score": 0.515,
-      "timeAgo": "5 hours ago"
+      "composite_score": 0.549,
+      "timeAgo": "6 hours ago"
     },
     {
       "id": "t3_1t89e31",
@@ -60,16 +60,16 @@
       "created_utc": 1778343600,
       "score": 1,
       "num_comments": 0,
-      "upvote_ratio": 1,
+      "upvote_ratio": 0.67,
       "engagement": 1,
       "momentum": 2,
       "normalized_engagement": 0,
       "normalized_momentum": 1,
       "composite_score": 0.5,
-      "timeAgo": "9 minutes ago"
+      "timeAgo": "25 minutes ago"
     }
   ],
   "totalScanned": 13,
-  "fetchedAt": "2026-05-09T16:29:58.398Z",
-  "fetchTime": 22.4
+  "fetchedAt": "2026-05-09T16:45:23.395Z",
+  "fetchTime": 22.8
 }
