@@ -7,15 +7,15 @@
       "author": "ParkieDude",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1t7b7ky/update_route_66_team_riding_from_utah_to_phoenix/",
       "created_utc": 1778253973,
-      "score": 48,
+      "score": 47,
       "num_comments": 5,
-      "upvote_ratio": 0.97,
-      "engagement": 58,
-      "momentum": 3.7,
+      "upvote_ratio": 0.99,
+      "engagement": 57,
+      "momentum": 3.5,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
-      "timeAgo": "15 hours ago"
+      "timeAgo": "16 hours ago"
     },
     {
       "id": "t3_1t7b19l",
@@ -24,15 +24,15 @@
       "author": "ParkieDude",
       "permalink": "https://www.reddit.com/r/recumbent/comments/1t7b19l/update_from_route_66_parkinsons_team_riding_from/",
       "created_utc": 1778253588,
-      "score": 46,
+      "score": 43,
       "num_comments": 3,
-      "upvote_ratio": 1,
-      "engagement": 52,
-      "momentum": 3.3,
-      "normalized_engagement": 0.8947368421052632,
-      "normalized_momentum": 0.8888888888888888,
-      "composite_score": 0.892,
-      "timeAgo": "15 hours ago"
+      "upvote_ratio": 0.99,
+      "engagement": 49,
+      "momentum": 3,
+      "normalized_engagement": 0.8571428571428571,
+      "normalized_momentum": 0.8529411764705882,
+      "composite_score": 0.855,
+      "timeAgo": "16 hours ago"
     },
     {
       "id": "t3_1t73ige",
@@ -43,12 +43,12 @@
       "created_utc": 1778234662,
       "score": 9,
       "num_comments": 16,
-      "upvote_ratio": 0.85,
+      "upvote_ratio": 0.91,
       "engagement": 41,
       "momentum": 1.9,
-      "normalized_engagement": 0.7017543859649122,
-      "normalized_momentum": 0.49999999999999994,
-      "composite_score": 0.601,
+      "normalized_engagement": 0.7142857142857143,
+      "normalized_momentum": 0.5294117647058824,
+      "composite_score": 0.622,
       "timeAgo": "21 hours ago"
     },
     {
@@ -58,18 +58,18 @@
       "author": "epaarepa",
       "permalink": "https://www.reddit.com/r/AgingParents/comments/1t7bt6v/i_feel_in_over_my_head_33f_dad_with_parkinsons/",
       "created_utc": 1778255250,
-      "score": 10,
+      "score": 9,
       "num_comments": 8,
       "upvote_ratio": 1,
-      "engagement": 26,
-      "momentum": 1.7,
-      "normalized_engagement": 0.43859649122807015,
-      "normalized_momentum": 0.4444444444444444,
-      "composite_score": 0.442,
+      "engagement": 25,
+      "momentum": 1.6,
+      "normalized_engagement": 0.42857142857142855,
+      "normalized_momentum": 0.4411764705882353,
+      "composite_score": 0.435,
       "timeAgo": "15 hours ago"
     }
   ],
   "totalScanned": 13,
-  "fetchedAt": "2026-05-09T07:14:45.862Z",
-  "fetchTime": 22
+  "fetchedAt": "2026-05-09T07:30:10.750Z",
+  "fetchTime": 22.6
 }
