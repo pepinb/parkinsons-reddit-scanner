@@ -1,38 +1,38 @@
 {
   "posts": [
     {
-      "id": "t3_1t7lz51",
-      "title": "Ser grato a quem te oferecer ajuda.",
-      "subreddit": "r/Parkinsons",
-      "author": "Top-Performer5233",
-      "permalink": "https://www.reddit.com/r/Parkinsons/comments/1t7lz51/ser_grato_a_quem_te_oferecer_ajuda/",
-      "created_utc": 1778277336,
-      "score": 9,
-      "num_comments": 1,
-      "upvote_ratio": 0.91,
-      "engagement": 11,
-      "momentum": 0.6,
-      "normalized_engagement": 1,
-      "normalized_momentum": 0.2631578947368421,
-      "composite_score": 0.632,
-      "timeAgo": "18 hours ago"
-    },
-    {
       "id": "t3_1t825qy",
       "title": "10 Months After DBS ,Still Struggling Between ON Time and Side Effects",
       "subreddit": "r/Parkinsons",
       "author": "Nervous4577",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1t825qy/10_months_after_dbs_still_struggling_between_on/",
       "created_utc": 1778325334,
-      "score": 2,
+      "score": 6,
       "num_comments": 2,
-      "upvote_ratio": 0.67,
-      "engagement": 6,
-      "momentum": 1.2,
-      "normalized_engagement": 0.5,
-      "normalized_momentum": 0.5789473684210525,
-      "composite_score": 0.539,
-      "timeAgo": "4 hours ago"
+      "upvote_ratio": 0.99,
+      "engagement": 10,
+      "momentum": 1.9,
+      "normalized_engagement": 1,
+      "normalized_momentum": 0.9473684210526315,
+      "composite_score": 0.974,
+      "timeAgo": "5 hours ago"
+    },
+    {
+      "id": "t3_1t7lz51",
+      "title": "Ser grato a quem te oferecer ajuda.",
+      "subreddit": "r/Parkinsons",
+      "author": "Top-Performer5233",
+      "permalink": "https://www.reddit.com/r/Parkinsons/comments/1t7lz51/ser_grato_a_quem_te_oferecer_ajuda/",
+      "created_utc": 1778277336,
+      "score": 8,
+      "num_comments": 1,
+      "upvote_ratio": 0.83,
+      "engagement": 10,
+      "momentum": 0.5,
+      "normalized_engagement": 1,
+      "normalized_momentum": 0.2105263157894737,
+      "composite_score": 0.605,
+      "timeAgo": "18 hours ago"
     },
     {
       "id": "t3_1t81ich",
@@ -45,19 +45,19 @@
       "num_comments": 2,
       "upvote_ratio": 1,
       "engagement": 6,
-      "momentum": 1.1,
-      "normalized_engagement": 0.5,
-      "normalized_momentum": 0.5263157894736842,
-      "composite_score": 0.513,
+      "momentum": 1,
+      "normalized_engagement": 0.5555555555555556,
+      "normalized_momentum": 0.4736842105263158,
+      "composite_score": 0.515,
       "timeAgo": "5 hours ago"
     },
     {
-      "id": "t3_1t88ugv",
-      "title": "Parkinson's Law",
-      "subreddit": "r/JustTheoriess",
-      "author": "false_hop_e",
-      "permalink": "https://www.reddit.com/r/JustTheoriess/comments/1t88ugv/parkinsons_law/",
-      "created_utc": 1778342374,
+      "id": "t3_1t89e31",
+      "title": "Advice for my Dad with Parkinson's - finding purpose/support in his Christian faith?",
+      "subreddit": "r/Parkinsons",
+      "author": "dabforscience",
+      "permalink": "https://www.reddit.com/r/Parkinsons/comments/1t89e31/advice_for_my_dad_with_parkinsons_finding/",
+      "created_utc": 1778343600,
       "score": 1,
       "num_comments": 0,
       "upvote_ratio": 1,
@@ -66,10 +66,10 @@
       "normalized_engagement": 0,
       "normalized_momentum": 1,
       "composite_score": 0.5,
-      "timeAgo": "14 minutes ago"
+      "timeAgo": "9 minutes ago"
     }
   ],
-  "totalScanned": 12,
-  "fetchedAt": "2026-05-09T16:14:33.433Z",
-  "fetchTime": 22.3
+  "totalScanned": 13,
+  "fetchedAt": "2026-05-09T16:29:58.398Z",
+  "fetchTime": 22.4
 }
