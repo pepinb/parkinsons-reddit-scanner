@@ -7,14 +7,14 @@
       "author": "ParkieDude",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1t7b7ky/update_route_66_team_riding_from_utah_to_phoenix/",
       "created_utc": 1778253973,
-      "score": 50,
+      "score": 52,
       "num_comments": 6,
       "upvote_ratio": 0.98,
-      "engagement": 62,
+      "engagement": 64,
       "momentum": 3.1,
       "normalized_engagement": 1,
-      "normalized_momentum": 0.7209302325581396,
-      "composite_score": 0.86,
+      "normalized_momentum": 0.911764705882353,
+      "composite_score": 0.956,
       "timeAgo": "20 hours ago"
     },
     {
@@ -24,14 +24,14 @@
       "author": "ParkieDude",
       "permalink": "https://www.reddit.com/r/recumbent/comments/1t7b19l/update_from_route_66_parkinsons_team_riding_from/",
       "created_utc": 1778253588,
-      "score": 47,
+      "score": 45,
       "num_comments": 3,
-      "upvote_ratio": 1,
-      "engagement": 53,
-      "momentum": 2.6,
-      "normalized_engagement": 0.8524590163934426,
-      "normalized_momentum": 0.6046511627906977,
-      "composite_score": 0.729,
+      "upvote_ratio": 0.98,
+      "engagement": 51,
+      "momentum": 2.5,
+      "normalized_engagement": 0.7936507936507936,
+      "normalized_momentum": 0.7352941176470589,
+      "composite_score": 0.764,
       "timeAgo": "20 hours ago"
     },
     {
@@ -45,11 +45,11 @@
       "num_comments": 1,
       "upvote_ratio": 1,
       "engagement": 4,
-      "momentum": 4.3,
-      "normalized_engagement": 0.04918032786885246,
+      "momentum": 3.4,
+      "normalized_engagement": 0.047619047619047616,
       "normalized_momentum": 1,
-      "composite_score": 0.525,
-      "timeAgo": "55 minutes ago"
+      "composite_score": 0.524,
+      "timeAgo": "1 hour ago"
     },
     {
       "id": "t3_1t825qy",
@@ -62,14 +62,14 @@
       "num_comments": 0,
       "upvote_ratio": 1,
       "engagement": 2,
-      "momentum": 4,
-      "normalized_engagement": 0.01639344262295082,
-      "normalized_momentum": 0.9302325581395349,
-      "composite_score": 0.473,
-      "timeAgo": "21 minutes ago"
+      "momentum": 3.2,
+      "normalized_engagement": 0.015873015873015872,
+      "normalized_momentum": 0.9411764705882354,
+      "composite_score": 0.479,
+      "timeAgo": "37 minutes ago"
     }
   ],
   "totalScanned": 14,
-  "fetchedAt": "2026-05-09T11:37:08.727Z",
-  "fetchTime": 21.5
+  "fetchedAt": "2026-05-09T11:52:34.611Z",
+  "fetchTime": 23.5
 }
