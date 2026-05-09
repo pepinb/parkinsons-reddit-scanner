@@ -9,13 +9,13 @@
       "created_utc": 1778253973,
       "score": 49,
       "num_comments": 6,
-      "upvote_ratio": 0.98,
+      "upvote_ratio": 0.97,
       "engagement": 61,
       "momentum": 3.2,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
-      "timeAgo": "18 hours ago"
+      "timeAgo": "19 hours ago"
     },
     {
       "id": "t3_1t7b19l",
@@ -24,14 +24,14 @@
       "author": "ParkieDude",
       "permalink": "https://www.reddit.com/r/recumbent/comments/1t7b19l/update_from_route_66_parkinsons_team_riding_from/",
       "created_utc": 1778253588,
-      "score": 46,
+      "score": 45,
       "num_comments": 3,
-      "upvote_ratio": 0.99,
-      "engagement": 52,
-      "momentum": 2.7,
-      "normalized_engagement": 0.85,
-      "normalized_momentum": 0.84375,
-      "composite_score": 0.847,
+      "upvote_ratio": 0.98,
+      "engagement": 51,
+      "momentum": 2.6,
+      "normalized_engagement": 0.8333333333333334,
+      "normalized_momentum": 0.8125,
+      "composite_score": 0.823,
       "timeAgo": "19 hours ago"
     },
     {
@@ -66,10 +66,10 @@
       "normalized_engagement": 0.18333333333333332,
       "normalized_momentum": 0.18749999999999997,
       "composite_score": 0.185,
-      "timeAgo": "19 hours ago"
+      "timeAgo": "20 hours ago"
     }
   ],
   "totalScanned": 12,
-  "fetchedAt": "2026-05-09T10:20:02.823Z",
+  "fetchedAt": "2026-05-09T10:35:27.294Z",
   "fetchTime": 22.2
 }
