@@ -7,11 +7,11 @@
       "author": "ParkieDude",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1t7b7ky/update_route_66_team_riding_from_utah_to_phoenix/",
       "created_utc": 1778253973,
-      "score": 52,
+      "score": 51,
       "num_comments": 6,
       "upvote_ratio": 0.97,
-      "engagement": 64,
-      "momentum": 3.1,
+      "engagement": 63,
+      "momentum": 3,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
@@ -24,15 +24,15 @@
       "author": "ParkieDude",
       "permalink": "https://www.reddit.com/r/recumbent/comments/1t7b19l/update_from_route_66_parkinsons_team_riding_from/",
       "created_utc": 1778253588,
-      "score": 45,
+      "score": 50,
       "num_comments": 3,
-      "upvote_ratio": 0.97,
-      "engagement": 51,
-      "momentum": 2.5,
-      "normalized_engagement": 0.7936507936507936,
-      "normalized_momentum": 0.8064516129032258,
-      "composite_score": 0.8,
-      "timeAgo": "20 hours ago"
+      "upvote_ratio": 1,
+      "engagement": 56,
+      "momentum": 2.7,
+      "normalized_engagement": 0.8870967741935484,
+      "normalized_momentum": 0.9,
+      "composite_score": 0.894,
+      "timeAgo": "21 hours ago"
     },
     {
       "id": "t3_1t81ich",
@@ -45,10 +45,10 @@
       "num_comments": 1,
       "upvote_ratio": 1,
       "engagement": 4,
-      "momentum": 2.8,
-      "normalized_engagement": 0.047619047619047616,
-      "normalized_momentum": 0.9032258064516128,
-      "composite_score": 0.475,
+      "momentum": 2.4,
+      "normalized_engagement": 0.04838709677419355,
+      "normalized_momentum": 0.7999999999999999,
+      "composite_score": 0.424,
       "timeAgo": "1 hour ago"
     },
     {
@@ -63,13 +63,13 @@
       "upvote_ratio": 1,
       "engagement": 25,
       "momentum": 1.2,
-      "normalized_engagement": 0.38095238095238093,
-      "normalized_momentum": 0.3870967741935484,
-      "composite_score": 0.384,
+      "normalized_engagement": 0.3870967741935484,
+      "normalized_momentum": 0.39999999999999997,
+      "composite_score": 0.394,
       "timeAgo": "20 hours ago"
     }
   ],
   "totalScanned": 14,
-  "fetchedAt": "2026-05-09T12:07:59.012Z",
-  "fetchTime": 22.2
+  "fetchedAt": "2026-05-09T12:23:23.292Z",
+  "fetchTime": 22
 }
