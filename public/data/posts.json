@@ -7,15 +7,32 @@
       "author": "erasing_light",
       "permalink": "https://www.reddit.com/r/dogpictures/comments/1t8jizy/a_couple_of_my_pups_moments_with_my_mom_who_had/",
       "created_utc": 1778357563,
-      "score": 85,
-      "num_comments": 6,
+      "score": 123,
+      "num_comments": 8,
       "upvote_ratio": 1,
-      "engagement": 97,
-      "momentum": 105.7,
+      "engagement": 139,
+      "momentum": 118.4,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
-      "timeAgo": "55 minutes ago"
+      "timeAgo": "1 hour ago"
+    },
+    {
+      "id": "t3_1t8mcy1",
+      "title": "ELI5: How do lewy bodies cause Parkinson's disease and related diseases?",
+      "subreddit": "r/explainlikeimfive",
+      "author": "IStillListenToRadio",
+      "permalink": "https://www.reddit.com/r/explainlikeimfive/comments/1t8mcy1/eli5_how_do_lewy_bodies_cause_parkinsons_disease/",
+      "created_utc": 1778359827,
+      "score": 8,
+      "num_comments": 1,
+      "upvote_ratio": 0.9,
+      "engagement": 10,
+      "momentum": 18.3,
+      "normalized_engagement": 0.06521739130434782,
+      "normalized_momentum": 0.15384615384615383,
+      "composite_score": 0.11,
+      "timeAgo": "32 minutes ago"
     },
     {
       "id": "t3_1t8khjl",
@@ -28,11 +45,11 @@
       "num_comments": 1,
       "upvote_ratio": 1,
       "engagement": 11,
-      "momentum": 15.5,
-      "normalized_engagement": 0.10416666666666667,
-      "normalized_momentum": 0.14583333333333331,
-      "composite_score": 0.125,
-      "timeAgo": "42 minutes ago"
+      "momentum": 11.4,
+      "normalized_engagement": 0.07246376811594203,
+      "normalized_momentum": 0.09551986475063398,
+      "composite_score": 0.084,
+      "timeAgo": "57 minutes ago"
     },
     {
       "id": "t3_1t89e31",
@@ -45,31 +62,14 @@
       "num_comments": 7,
       "upvote_ratio": 0.67,
       "engagement": 17,
-      "momentum": 3.5,
-      "normalized_engagement": 0.16666666666666666,
-      "normalized_momentum": 0.032196969696969696,
-      "composite_score": 0.099,
-      "timeAgo": "4 hours ago"
-    },
-    {
-      "id": "t3_1t8bl6e",
-      "title": "Mental problems in cbd patient",
-      "subreddit": "r/Parkinsons",
-      "author": "EastMinimum7489",
-      "permalink": "https://www.reddit.com/r/Parkinsons/comments/1t8bl6e/mental_problems_in_cbd_patient/",
-      "created_utc": 1778348517,
-      "score": 8,
-      "num_comments": 3,
-      "upvote_ratio": 1,
-      "engagement": 14,
-      "momentum": 4.1,
-      "normalized_engagement": 0.13541666666666666,
-      "normalized_momentum": 0.03787878787878787,
-      "composite_score": 0.087,
-      "timeAgo": "3 hours ago"
+      "momentum": 3.4,
+      "normalized_engagement": 0.11594202898550725,
+      "normalized_momentum": 0.027895181741335585,
+      "composite_score": 0.072,
+      "timeAgo": "5 hours ago"
     }
   ],
   "totalScanned": 18,
-  "fetchedAt": "2026-05-09T21:07:45.551Z",
+  "fetchedAt": "2026-05-09T21:23:10.327Z",
   "fetchTime": 22.4
 }
