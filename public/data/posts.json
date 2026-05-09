@@ -7,15 +7,15 @@
       "author": "dabforscience",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1t89e31/advice_for_my_dad_with_parkinsons_finding/",
       "created_utc": 1778343600,
-      "score": 2,
+      "score": 4,
       "num_comments": 6,
-      "upvote_ratio": 0.63,
-      "engagement": 14,
-      "momentum": 4.7,
+      "upvote_ratio": 0.75,
+      "engagement": 16,
+      "momentum": 4.9,
       "normalized_engagement": 1,
-      "normalized_momentum": 0.8518518518518519,
-      "composite_score": 0.926,
-      "timeAgo": "2 hours ago"
+      "normalized_momentum": 1,
+      "composite_score": 1,
+      "timeAgo": "3 hours ago"
     },
     {
       "id": "t3_1t8bl6e",
@@ -28,10 +28,10 @@
       "num_comments": 2,
       "upvote_ratio": 0.86,
       "engagement": 9,
-      "momentum": 5.5,
-      "normalized_engagement": 0.6153846153846154,
-      "normalized_momentum": 1,
-      "composite_score": 0.808,
+      "momentum": 4.8,
+      "normalized_engagement": 0.5333333333333333,
+      "normalized_momentum": 0.9791666666666665,
+      "composite_score": 0.756,
       "timeAgo": "1 hour ago"
     },
     {
@@ -41,14 +41,14 @@
       "author": "Nervous4577",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1t825qy/10_months_after_dbs_still_struggling_between_on/",
       "created_utc": 1778325334,
-      "score": 7,
+      "score": 5,
       "num_comments": 2,
-      "upvote_ratio": 0.99,
-      "engagement": 11,
-      "momentum": 1.4,
-      "normalized_engagement": 0.7692307692307693,
-      "normalized_momentum": 0.2407407407407407,
-      "composite_score": 0.505,
+      "upvote_ratio": 0.78,
+      "engagement": 9,
+      "momentum": 1.1,
+      "normalized_engagement": 0.5333333333333333,
+      "normalized_momentum": 0.20833333333333331,
+      "composite_score": 0.371,
       "timeAgo": "8 hours ago"
     },
     {
@@ -63,13 +63,13 @@
       "upvote_ratio": 0.82,
       "engagement": 9,
       "momentum": 0.4,
-      "normalized_engagement": 0.6153846153846154,
-      "normalized_momentum": 0.05555555555555556,
-      "composite_score": 0.335,
+      "normalized_engagement": 0.5333333333333333,
+      "normalized_momentum": 0.0625,
+      "composite_score": 0.298,
       "timeAgo": "21 hours ago"
     }
   ],
   "totalScanned": 16,
-  "fetchedAt": "2026-05-09T19:19:50.668Z",
-  "fetchTime": 22.4
+  "fetchedAt": "2026-05-09T19:35:16.076Z",
+  "fetchTime": 23.2
 }
