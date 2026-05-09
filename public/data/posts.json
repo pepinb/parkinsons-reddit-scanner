@@ -7,15 +7,32 @@
       "author": "lucymainstreet",
       "permalink": "https://www.reddit.com/r/BacktotheFuture/comments/1t70g5d/fuck_parkinsons/",
       "created_utc": 1778224170,
-      "score": 2416,
+      "score": 2429,
       "num_comments": 64,
       "upvote_ratio": 0.99,
-      "engagement": 2544,
-      "momentum": 119.7,
+      "engagement": 2557,
+      "momentum": 118.8,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
       "timeAgo": "21 hours ago"
+    },
+    {
+      "id": "t3_1t7b7ky",
+      "title": "Update: Route 66 Team, riding from UTAH to Phoenix World Parkinson's Congress",
+      "subreddit": "r/Parkinsons",
+      "author": "ParkieDude",
+      "permalink": "https://www.reddit.com/r/Parkinsons/comments/1t7b7ky/update_route_66_team_riding_from_utah_to_phoenix/",
+      "created_utc": 1778253973,
+      "score": 41,
+      "num_comments": 4,
+      "upvote_ratio": 0.96,
+      "engagement": 49,
+      "momentum": 3.7,
+      "normalized_engagement": 0.018779342723004695,
+      "normalized_momentum": 0.03114478114478115,
+      "composite_score": 0.025,
+      "timeAgo": "13 hours ago"
     },
     {
       "id": "t3_1t7b19l",
@@ -26,30 +43,13 @@
       "created_utc": 1778253588,
       "score": 42,
       "num_comments": 3,
-      "upvote_ratio": 0.97,
+      "upvote_ratio": 0.99,
       "engagement": 48,
-      "momentum": 3.7,
-      "normalized_engagement": 0.0184821077467558,
-      "normalized_momentum": 0.03091060985797828,
-      "composite_score": 0.025,
-      "timeAgo": "13 hours ago"
-    },
-    {
-      "id": "t3_1t7b7ky",
-      "title": "Update: Route 66 Team, riding from UTAH to Phoenix World Parkinson's Congress",
-      "subreddit": "r/Parkinsons",
-      "author": "ParkieDude",
-      "permalink": "https://www.reddit.com/r/Parkinsons/comments/1t7b7ky/update_route_66_team_riding_from_utah_to_phoenix/",
-      "created_utc": 1778253973,
-      "score": 39,
-      "num_comments": 4,
-      "upvote_ratio": 0.95,
-      "engagement": 47,
       "momentum": 3.6,
-      "normalized_engagement": 0.018088871411718443,
-      "normalized_momentum": 0.03007518796992481,
+      "normalized_engagement": 0.018388106416275432,
+      "normalized_momentum": 0.030303030303030304,
       "composite_score": 0.024,
-      "timeAgo": "12 hours ago"
+      "timeAgo": "13 hours ago"
     },
     {
       "id": "t3_1t73ige",
@@ -63,13 +63,13 @@
       "upvote_ratio": 0.91,
       "engagement": 41,
       "momentum": 2.2,
-      "normalized_engagement": 0.015729453401494297,
-      "normalized_momentum": 0.018379281537176276,
+      "normalized_engagement": 0.01564945226917058,
+      "normalized_momentum": 0.01851851851851852,
       "composite_score": 0.017,
       "timeAgo": "18 hours ago"
     }
   ],
   "totalScanned": 17,
-  "fetchedAt": "2026-05-09T04:25:10.564Z",
-  "fetchTime": 22
+  "fetchedAt": "2026-05-09T04:40:35.683Z",
+  "fetchTime": 22.7
 }
