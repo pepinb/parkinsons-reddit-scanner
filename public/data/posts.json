@@ -7,15 +7,15 @@
       "author": "ParkieDude",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1t7b7ky/update_route_66_team_riding_from_utah_to_phoenix/",
       "created_utc": 1778253973,
-      "score": 48,
+      "score": 47,
       "num_comments": 6,
-      "upvote_ratio": 0.98,
-      "engagement": 60,
-      "momentum": 3.4,
+      "upvote_ratio": 0.96,
+      "engagement": 59,
+      "momentum": 3.3,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
-      "timeAgo": "17 hours ago"
+      "timeAgo": "18 hours ago"
     },
     {
       "id": "t3_1t7b19l",
@@ -24,15 +24,15 @@
       "author": "ParkieDude",
       "permalink": "https://www.reddit.com/r/recumbent/comments/1t7b19l/update_from_route_66_parkinsons_team_riding_from/",
       "created_utc": 1778253588,
-      "score": 45,
+      "score": 48,
       "num_comments": 3,
       "upvote_ratio": 1,
-      "engagement": 51,
-      "momentum": 2.8,
-      "normalized_engagement": 0.847457627118644,
-      "normalized_momentum": 0.8181818181818181,
-      "composite_score": 0.833,
-      "timeAgo": "17 hours ago"
+      "engagement": 54,
+      "momentum": 3,
+      "normalized_engagement": 0.9137931034482759,
+      "normalized_momentum": 0.90625,
+      "composite_score": 0.91,
+      "timeAgo": "18 hours ago"
     },
     {
       "id": "t3_1t73ige",
@@ -43,12 +43,12 @@
       "created_utc": 1778234662,
       "score": 9,
       "num_comments": 18,
-      "upvote_ratio": 0.85,
+      "upvote_ratio": 0.91,
       "engagement": 45,
       "momentum": 1.9,
-      "normalized_engagement": 0.7457627118644068,
-      "normalized_momentum": 0.5454545454545454,
-      "composite_score": 0.646,
+      "normalized_engagement": 0.7586206896551724,
+      "normalized_momentum": 0.5625,
+      "composite_score": 0.661,
       "timeAgo": "23 hours ago"
     },
     {
@@ -58,18 +58,18 @@
       "author": "epaarepa",
       "permalink": "https://www.reddit.com/r/AgingParents/comments/1t7bt6v/i_feel_in_over_my_head_33f_dad_with_parkinsons/",
       "created_utc": 1778255250,
-      "score": 10,
+      "score": 9,
       "num_comments": 8,
       "upvote_ratio": 1,
-      "engagement": 26,
-      "momentum": 1.5,
-      "normalized_engagement": 0.423728813559322,
-      "normalized_momentum": 0.42424242424242425,
-      "composite_score": 0.424,
+      "engagement": 25,
+      "momentum": 1.4,
+      "normalized_engagement": 0.41379310344827586,
+      "normalized_momentum": 0.40625,
+      "composite_score": 0.41,
       "timeAgo": "17 hours ago"
     }
   ],
   "totalScanned": 13,
-  "fetchedAt": "2026-05-09T09:18:22.156Z",
-  "fetchTime": 22.1
+  "fetchedAt": "2026-05-09T09:33:46.405Z",
+  "fetchTime": 21.9
 }
