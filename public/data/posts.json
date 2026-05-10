@@ -7,15 +7,15 @@
       "author": "This_Proof_5153",
       "permalink": "https://www.reddit.com/r/interestingasfuck/comments/1t8tlih/incisionfree_brain_treatment_reduces_parkinsons/",
       "created_utc": 1778377977,
-      "score": 1128,
-      "num_comments": 68,
+      "score": 1174,
+      "num_comments": 70,
       "upvote_ratio": 0.97,
-      "engagement": 1264,
-      "momentum": 317.3,
+      "engagement": 1314,
+      "momentum": 309.9,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
-      "timeAgo": "3 hours ago"
+      "timeAgo": "4 hours ago"
     },
     {
       "id": "t3_1t8jizy",
@@ -24,14 +24,14 @@
       "author": "erasing_light",
       "permalink": "https://www.reddit.com/r/dogpictures/comments/1t8jizy/a_couple_of_my_pups_moments_with_my_mom_who_had/",
       "created_utc": 1778357563,
-      "score": 837,
+      "score": 836,
       "num_comments": 22,
       "upvote_ratio": 1,
-      "engagement": 881,
-      "momentum": 91.3,
-      "normalized_engagement": 0.6967537608867775,
-      "normalized_momentum": 0.28774030885597224,
-      "composite_score": 0.492,
+      "engagement": 880,
+      "momentum": 88.8,
+      "normalized_engagement": 0.6694592536176694,
+      "normalized_momentum": 0.28654404646660214,
+      "composite_score": 0.478,
       "timeAgo": "9 hours ago"
     },
     {
@@ -41,14 +41,14 @@
       "author": "RandomError24",
       "permalink": "https://www.reddit.com/r/ScienceNcoolThings/comments/1t8u8fy/incisionfree_brain_treatment_reduces_parkinsons/",
       "created_utc": 1778379807,
-      "score": 276,
+      "score": 321,
       "num_comments": 15,
       "upvote_ratio": 0.99,
-      "engagement": 306,
-      "momentum": 88.1,
-      "normalized_engagement": 0.2414885193982581,
-      "normalized_momentum": 0.2776552158840214,
-      "composite_score": 0.26,
+      "engagement": 351,
+      "momentum": 94.1,
+      "normalized_engagement": 0.26656511805026656,
+      "normalized_momentum": 0.30364633752823494,
+      "composite_score": 0.285,
       "timeAgo": "3 hours ago"
     },
     {
@@ -62,14 +62,14 @@
       "num_comments": 10,
       "upvote_ratio": 0.93,
       "engagement": 31,
-      "momentum": 4.1,
-      "normalized_engagement": 0.023752969121140142,
-      "normalized_momentum": 0.012921525370312006,
+      "momentum": 4,
+      "normalized_engagement": 0.02284843869002285,
+      "normalized_momentum": 0.012907389480477574,
       "composite_score": 0.018,
       "timeAgo": "7 hours ago"
     }
   ],
   "totalScanned": 18,
-  "fetchedAt": "2026-05-10T05:51:57.062Z",
-  "fetchTime": 21.4
+  "fetchedAt": "2026-05-10T06:07:21.538Z",
+  "fetchTime": 22.2
 }
