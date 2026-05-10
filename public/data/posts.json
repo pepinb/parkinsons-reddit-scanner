@@ -7,15 +7,15 @@
       "author": "This_Proof_5153",
       "permalink": "https://www.reddit.com/r/interestingasfuck/comments/1t8tlih/incisionfree_brain_treatment_reduces_parkinsons/",
       "created_utc": 1778377977,
-      "score": 1906,
+      "score": 1920,
       "num_comments": 98,
       "upvote_ratio": 0.97,
-      "engagement": 2102,
-      "momentum": 117.7,
+      "engagement": 2116,
+      "momentum": 116.8,
       "normalized_engagement": 1,
-      "normalized_momentum": 0.7277227722772278,
-      "composite_score": 0.864,
-      "timeAgo": "17 hours ago"
+      "normalized_momentum": 0.8081717451523546,
+      "composite_score": 0.904,
+      "timeAgo": "18 hours ago"
     },
     {
       "id": "t3_1t9f1aj",
@@ -24,14 +24,14 @@
       "author": "yourfavchoom",
       "permalink": "https://www.reddit.com/r/HarryPotteronHBO/comments/1t9f1aj/katherine_parkinson_who_plays_molly_weasley_in/",
       "created_utc": 1778438258,
-      "score": 146,
+      "score": 164,
       "num_comments": 17,
       "upvote_ratio": 0.97,
-      "engagement": 180,
-      "momentum": 161.7,
-      "normalized_engagement": 0.0851975249881009,
+      "engagement": 198,
+      "momentum": 144.5,
+      "normalized_engagement": 0.09314420803782505,
       "normalized_momentum": 1,
-      "composite_score": 0.543,
+      "composite_score": 0.547,
       "timeAgo": "1 hour ago"
     },
     {
@@ -45,10 +45,10 @@
       "num_comments": 28,
       "upvote_ratio": 0.99,
       "engagement": 1170,
-      "momentum": 67.4,
-      "normalized_engagement": 0.5564017134697763,
-      "normalized_momentum": 0.41646039603960405,
-      "composite_score": 0.486,
+      "momentum": 66.5,
+      "normalized_engagement": 0.5527186761229315,
+      "normalized_momentum": 0.4598337950138504,
+      "composite_score": 0.506,
       "timeAgo": "17 hours ago"
     },
     {
@@ -58,18 +58,18 @@
       "author": "erasing_light",
       "permalink": "https://www.reddit.com/r/dogpictures/comments/1t8jizy/a_couple_of_my_pups_moments_with_my_mom_who_had/",
       "created_utc": 1778357563,
-      "score": 1014,
+      "score": 1010,
       "num_comments": 24,
       "upvote_ratio": 1,
-      "engagement": 1062,
-      "momentum": 45.1,
-      "normalized_engagement": 0.5049976201808662,
-      "normalized_momentum": 0.2784653465346535,
-      "composite_score": 0.392,
+      "engagement": 1058,
+      "momentum": 44.5,
+      "normalized_engagement": 0.49976359338061466,
+      "normalized_momentum": 0.30747922437673125,
+      "composite_score": 0.404,
       "timeAgo": "23 hours ago"
     }
   ],
   "totalScanned": 16,
-  "fetchedAt": "2026-05-10T19:44:25.162Z",
-  "fetchTime": 22.1
+  "fetchedAt": "2026-05-10T19:59:50.250Z",
+  "fetchTime": 22.6
 }
