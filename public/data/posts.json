@@ -7,15 +7,15 @@
       "author": "This_Proof_5153",
       "permalink": "https://www.reddit.com/r/interestingasfuck/comments/1t8tlih/incisionfree_brain_treatment_reduces_parkinsons/",
       "created_utc": 1778377977,
-      "score": 1528,
+      "score": 1540,
       "num_comments": 83,
       "upvote_ratio": 0.96,
-      "engagement": 1694,
-      "momentum": 171.3,
+      "engagement": 1706,
+      "momentum": 168.1,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
-      "timeAgo": "9 hours ago"
+      "timeAgo": "10 hours ago"
     },
     {
       "id": "t3_1t8jizy",
@@ -28,10 +28,10 @@
       "num_comments": 22,
       "upvote_ratio": 1,
       "engagement": 982,
-      "momentum": 63.1,
-      "normalized_engagement": 0.5794447725930302,
-      "normalized_momentum": 0.36835960303561005,
-      "composite_score": 0.474,
+      "momentum": 62.1,
+      "normalized_engagement": 0.575366568914956,
+      "normalized_momentum": 0.36942296252230816,
+      "composite_score": 0.472,
       "timeAgo": "15 hours ago"
     },
     {
@@ -41,14 +41,14 @@
       "author": "RandomError24",
       "permalink": "https://www.reddit.com/r/ScienceNcoolThings/comments/1t8u8fy/incisionfree_brain_treatment_reduces_parkinsons/",
       "created_utc": 1778379807,
-      "score": 679,
+      "score": 694,
       "num_comments": 20,
       "upvote_ratio": 0.99,
-      "engagement": 719,
-      "momentum": 76.6,
-      "normalized_engagement": 0.4240992321323095,
-      "normalized_momentum": 0.4471687098657326,
-      "composite_score": 0.436,
+      "engagement": 734,
+      "momentum": 76.1,
+      "normalized_engagement": 0.4299120234604106,
+      "normalized_momentum": 0.45270672218917307,
+      "composite_score": 0.441,
       "timeAgo": "9 hours ago"
     },
     {
@@ -63,13 +63,13 @@
       "upvote_ratio": 1,
       "engagement": 39,
       "momentum": 2.9,
-      "normalized_engagement": 0.02244536326048435,
-      "normalized_momentum": 0.01692936368943374,
+      "normalized_engagement": 0.022287390029325515,
+      "normalized_momentum": 0.017251635930993457,
       "composite_score": 0.02,
       "timeAgo": "13 hours ago"
     }
   ],
   "totalScanned": 16,
-  "fetchedAt": "2026-05-10T11:46:22.843Z",
-  "fetchTime": 22.2
+  "fetchedAt": "2026-05-10T12:01:54.217Z",
+  "fetchTime": 29.1
 }
