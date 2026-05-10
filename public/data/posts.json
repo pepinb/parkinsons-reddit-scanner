@@ -7,11 +7,11 @@
       "author": "This_Proof_5153",
       "permalink": "https://www.reddit.com/r/interestingasfuck/comments/1t8tlih/incisionfree_brain_treatment_reduces_parkinsons/",
       "created_utc": 1778377977,
-      "score": 1810,
+      "score": 1825,
       "num_comments": 95,
       "upvote_ratio": 0.96,
-      "engagement": 2000,
-      "momentum": 130.8,
+      "engagement": 2015,
+      "momentum": 129.6,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
@@ -24,15 +24,15 @@
       "author": "RandomError24",
       "permalink": "https://www.reddit.com/r/ScienceNcoolThings/comments/1t8u8fy/incisionfree_brain_treatment_reduces_parkinsons/",
       "created_utc": 1778379807,
-      "score": 1009,
+      "score": 1019,
       "num_comments": 25,
       "upvote_ratio": 0.99,
-      "engagement": 1059,
-      "momentum": 71.6,
-      "normalized_engagement": 0.5292646323161581,
-      "normalized_momentum": 0.5470543228768171,
-      "composite_score": 0.538,
-      "timeAgo": "14 hours ago"
+      "engagement": 1069,
+      "momentum": 71.1,
+      "normalized_engagement": 0.5302879841112215,
+      "normalized_momentum": 0.5482625482625483,
+      "composite_score": 0.539,
+      "timeAgo": "15 hours ago"
     },
     {
       "id": "t3_1t8jizy",
@@ -41,15 +41,15 @@
       "author": "erasing_light",
       "permalink": "https://www.reddit.com/r/dogpictures/comments/1t8jizy/a_couple_of_my_pups_moments_with_my_mom_who_had/",
       "created_utc": 1778357563,
-      "score": 998,
-      "num_comments": 23,
+      "score": 994,
+      "num_comments": 24,
       "upvote_ratio": 1,
-      "engagement": 1044,
-      "momentum": 49.8,
-      "normalized_engagement": 0.5217608804402201,
-      "normalized_momentum": 0.3802601377199693,
-      "composite_score": 0.451,
-      "timeAgo": "20 hours ago"
+      "engagement": 1042,
+      "momentum": 49.1,
+      "normalized_engagement": 0.5168818272095332,
+      "normalized_momentum": 0.3783783783783784,
+      "composite_score": 0.448,
+      "timeAgo": "21 hours ago"
     },
     {
       "id": "t3_1t8oxjg",
@@ -63,13 +63,13 @@
       "upvote_ratio": 1,
       "engagement": 53,
       "momentum": 2.8,
-      "normalized_engagement": 0.026013006503251626,
-      "normalized_momentum": 0.02065799540933435,
+      "normalized_engagement": 0.025819265143992055,
+      "normalized_momentum": 0.020849420849420847,
       "composite_score": 0.023,
-      "timeAgo": "18 hours ago"
+      "timeAgo": "19 hours ago"
     }
   ],
   "totalScanned": 16,
-  "fetchedAt": "2026-05-10T17:10:18.673Z",
-  "fetchTime": 22.7
+  "fetchedAt": "2026-05-10T17:25:43.570Z",
+  "fetchTime": 22.3
 }
