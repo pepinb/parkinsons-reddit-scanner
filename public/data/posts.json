@@ -7,15 +7,15 @@
       "author": "yourfavchoom",
       "permalink": "https://www.reddit.com/r/HarryPotteronHBO/comments/1t9f1aj/katherine_parkinson_who_plays_molly_weasley_in/",
       "created_utc": 1778438258,
-      "score": 447,
+      "score": 449,
       "num_comments": 25,
       "upvote_ratio": 0.98,
-      "engagement": 497,
-      "momentum": 50.5,
+      "engagement": 499,
+      "momentum": 49.4,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
-      "timeAgo": "9 hours ago"
+      "timeAgo": "10 hours ago"
     },
     {
       "id": "t3_1t9ivo0",
@@ -28,27 +28,10 @@
       "num_comments": 4,
       "upvote_ratio": 0.85,
       "engagement": 26,
-      "momentum": 3.5,
-      "normalized_engagement": 0.05040322580645161,
-      "normalized_momentum": 0.06930693069306931,
+      "momentum": 3.4,
+      "normalized_engagement": 0.050200803212851405,
+      "normalized_momentum": 0.06882591093117409,
       "composite_score": 0.06,
-      "timeAgo": "7 hours ago"
-    },
-    {
-      "id": "t3_1t9jcc9",
-      "title": "Need Advice",
-      "subreddit": "r/Parkinsons",
-      "author": "Beautiful_Scene_1820",
-      "permalink": "https://www.reddit.com/r/Parkinsons/comments/1t9jcc9/need_advice/",
-      "created_utc": 1778448109,
-      "score": 13,
-      "num_comments": 2,
-      "upvote_ratio": 1,
-      "engagement": 17,
-      "momentum": 2.4,
-      "normalized_engagement": 0.03225806451612903,
-      "normalized_momentum": 0.047524752475247525,
-      "composite_score": 0.04,
       "timeAgo": "7 hours ago"
     },
     {
@@ -63,13 +46,30 @@
       "upvote_ratio": 1,
       "engagement": 25,
       "momentum": 1.5,
-      "normalized_engagement": 0.04838709677419355,
-      "normalized_momentum": 0.0297029702970297,
+      "normalized_engagement": 0.04819277108433735,
+      "normalized_momentum": 0.03036437246963563,
       "composite_score": 0.039,
       "timeAgo": "16 hours ago"
+    },
+    {
+      "id": "t3_1t9jcc9",
+      "title": "Need Advice",
+      "subreddit": "r/Parkinsons",
+      "author": "Beautiful_Scene_1820",
+      "permalink": "https://www.reddit.com/r/Parkinsons/comments/1t9jcc9/need_advice/",
+      "created_utc": 1778448109,
+      "score": 12,
+      "num_comments": 2,
+      "upvote_ratio": 1,
+      "engagement": 16,
+      "momentum": 2.2,
+      "normalized_engagement": 0.030120481927710843,
+      "normalized_momentum": 0.04453441295546559,
+      "composite_score": 0.037,
+      "timeAgo": "7 hours ago"
     }
   ],
   "totalScanned": 14,
-  "fetchedAt": "2026-05-11T04:28:35.911Z",
-  "fetchTime": 21.7
+  "fetchedAt": "2026-05-11T04:44:00.779Z",
+  "fetchTime": 22.5
 }
