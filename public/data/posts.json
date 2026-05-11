@@ -7,15 +7,15 @@
       "author": "yourfavchoom",
       "permalink": "https://www.reddit.com/r/HarryPotteronHBO/comments/1t9f1aj/katherine_parkinson_who_plays_molly_weasley_in/",
       "created_utc": 1778438258,
-      "score": 493,
+      "score": 492,
       "num_comments": 25,
       "upvote_ratio": 0.98,
-      "engagement": 543,
-      "momentum": 38.9,
+      "engagement": 542,
+      "momentum": 38.1,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
-      "timeAgo": "13 hours ago"
+      "timeAgo": "14 hours ago"
     },
     {
       "id": "t3_1t9wj34",
@@ -28,11 +28,11 @@
       "num_comments": 1,
       "upvote_ratio": 1,
       "engagement": 6,
-      "momentum": 8.6,
-      "normalized_engagement": 0.00922509225092251,
-      "normalized_momentum": 0.2170542635658915,
-      "composite_score": 0.113,
-      "timeAgo": "41 minutes ago"
+      "momentum": 6.3,
+      "normalized_engagement": 0.009242144177449169,
+      "normalized_momentum": 0.16094986807387862,
+      "composite_score": 0.085,
+      "timeAgo": "57 minutes ago"
     },
     {
       "id": "t3_1t9ivo0",
@@ -41,14 +41,14 @@
       "author": "Maveric0623",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1t9ivo0/aidesigned_parkinsons_therapy_receives/",
       "created_utc": 1778446991,
-      "score": 19,
+      "score": 20,
       "num_comments": 5,
-      "upvote_ratio": 0.83,
-      "engagement": 29,
+      "upvote_ratio": 0.86,
+      "engagement": 30,
       "momentum": 2.5,
-      "normalized_engagement": 0.05166051660516605,
-      "normalized_momentum": 0.05943152454780362,
-      "composite_score": 0.056,
+      "normalized_engagement": 0.053604436229205174,
+      "normalized_momentum": 0.06068601583113456,
+      "composite_score": 0.057,
       "timeAgo": "11 hours ago"
     },
     {
@@ -63,13 +63,13 @@
       "upvote_ratio": 1,
       "engagement": 19,
       "momentum": 1.7,
-      "normalized_engagement": 0.033210332103321034,
-      "normalized_momentum": 0.03875968992248063,
+      "normalized_engagement": 0.033271719038817,
+      "normalized_momentum": 0.0395778364116095,
       "composite_score": 0.036,
       "timeAgo": "11 hours ago"
     }
   ],
   "totalScanned": 14,
-  "fetchedAt": "2026-05-11T08:35:23.007Z",
+  "fetchedAt": "2026-05-11T08:50:47.285Z",
   "fetchTime": 21.8
 }
