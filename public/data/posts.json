@@ -7,15 +7,15 @@
       "author": "Select_Resort_7267",
       "permalink": "https://www.reddit.com/r/UpliftingNews/comments/1t9xqg4/scientists_may_have_discovered_how_parkinsons/",
       "created_utc": 1778490259,
-      "score": 945,
+      "score": 965,
       "num_comments": 15,
       "upvote_ratio": 0.99,
-      "engagement": 975,
-      "momentum": 82.2,
+      "engagement": 995,
+      "momentum": 82.1,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
-      "timeAgo": "11 hours ago"
+      "timeAgo": "12 hours ago"
     },
     {
       "id": "t3_1t9xm7e",
@@ -24,15 +24,15 @@
       "author": "Zord_boy",
       "permalink": "https://www.reddit.com/r/FromCircleJerk/comments/1t9xm7e/parkinson_and_miys_boytoy_everybody/",
       "created_utc": 1778489862,
-      "score": 132,
+      "score": 140,
       "num_comments": 14,
-      "upvote_ratio": 1,
-      "engagement": 160,
-      "momentum": 13.4,
-      "normalized_engagement": 0.16324435318275154,
-      "normalized_momentum": 0.16199756394640683,
-      "composite_score": 0.163,
-      "timeAgo": "11 hours ago"
+      "upvote_ratio": 0.99,
+      "engagement": 168,
+      "momentum": 13.7,
+      "normalized_engagement": 0.16800804828973842,
+      "normalized_momentum": 0.16585365853658537,
+      "composite_score": 0.167,
+      "timeAgo": "12 hours ago"
     },
     {
       "id": "t3_1taf039",
@@ -41,15 +41,15 @@
       "author": "LyndzieLovely",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1taf039/vyalev_medicare_rant/",
       "created_utc": 1778530423,
-      "score": 2,
+      "score": 4,
       "num_comments": 4,
       "upvote_ratio": 1,
-      "engagement": 10,
-      "momentum": 14.2,
-      "normalized_engagement": 0.009240246406570842,
-      "normalized_momentum": 0.171741778319123,
-      "composite_score": 0.09,
-      "timeAgo": "42 minutes ago"
+      "engagement": 12,
+      "momentum": 12.5,
+      "normalized_engagement": 0.011066398390342052,
+      "normalized_momentum": 0.15121951219512195,
+      "composite_score": 0.081,
+      "timeAgo": "57 minutes ago"
     },
     {
       "id": "t3_1tabf2p",
@@ -58,18 +58,18 @@
       "author": "jtslp",
       "permalink": "https://www.reddit.com/r/slp/comments/1tabf2p/help_me_pediatric_slp_get_ahead_of_my_dads/",
       "created_utc": 1778523030,
-      "score": 9,
-      "num_comments": 7,
-      "upvote_ratio": 0.92,
-      "engagement": 23,
-      "momentum": 8.3,
-      "normalized_engagement": 0.022587268993839837,
-      "normalized_momentum": 0.09987819732034105,
-      "composite_score": 0.061,
-      "timeAgo": "2 hours ago"
+      "score": 10,
+      "num_comments": 8,
+      "upvote_ratio": 1,
+      "engagement": 26,
+      "momentum": 8.6,
+      "normalized_engagement": 0.025150905432595575,
+      "normalized_momentum": 0.10365853658536585,
+      "composite_score": 0.064,
+      "timeAgo": "3 hours ago"
     }
   ],
   "totalScanned": 23,
-  "fetchedAt": "2026-05-11T20:55:56.152Z",
-  "fetchTime": 21.6
+  "fetchedAt": "2026-05-11T21:11:23.146Z",
+  "fetchTime": 24.1
 }
