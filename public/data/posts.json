@@ -7,15 +7,15 @@
       "author": "Select_Resort_7267",
       "permalink": "https://www.reddit.com/r/UpliftingNews/comments/1t9xqg4/scientists_may_have_discovered_how_parkinsons/",
       "created_utc": 1778490259,
-      "score": 894,
+      "score": 909,
       "num_comments": 14,
       "upvote_ratio": 0.99,
-      "engagement": 922,
-      "momentum": 85.1,
+      "engagement": 937,
+      "momentum": 84.5,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
-      "timeAgo": "10 hours ago"
+      "timeAgo": "11 hours ago"
     },
     {
       "id": "t3_1t9xm7e",
@@ -24,15 +24,15 @@
       "author": "Zord_boy",
       "permalink": "https://www.reddit.com/r/FromCircleJerk/comments/1t9xm7e/parkinson_and_miys_boytoy_everybody/",
       "created_utc": 1778489862,
-      "score": 126,
+      "score": 129,
       "num_comments": 14,
       "upvote_ratio": 1,
-      "engagement": 154,
-      "momentum": 14.1,
-      "normalized_engagement": 0.16612377850162866,
-      "normalized_momentum": 0.16470588235294117,
-      "composite_score": 0.165,
-      "timeAgo": "10 hours ago"
+      "engagement": 157,
+      "momentum": 14,
+      "normalized_engagement": 0.16666666666666666,
+      "normalized_momentum": 0.16469194312796206,
+      "composite_score": 0.166,
+      "timeAgo": "11 hours ago"
     },
     {
       "id": "t3_1tabf2p",
@@ -43,12 +43,12 @@
       "created_utc": 1778523030,
       "score": 5,
       "num_comments": 6,
-      "upvote_ratio": 1,
+      "upvote_ratio": 0.86,
       "engagement": 17,
-      "momentum": 9.8,
-      "normalized_engagement": 0.01737242128121607,
-      "normalized_momentum": 0.11411764705882355,
-      "composite_score": 0.066,
+      "momentum": 8.6,
+      "normalized_engagement": 0.017094017094017096,
+      "normalized_momentum": 0.10071090047393365,
+      "composite_score": 0.059,
       "timeAgo": "1 hour ago"
     },
     {
@@ -58,18 +58,18 @@
       "author": "kiyomoris",
       "permalink": "https://www.reddit.com/r/NovoNordisk_Stock/comments/1ta2dla/novo_closes_deal_with_cellular_intelligence_for/",
       "created_utc": 1778503862,
-      "score": 28,
+      "score": 27,
       "num_comments": 1,
-      "upvote_ratio": 0.97,
-      "engagement": 30,
-      "momentum": 4.3,
-      "normalized_engagement": 0.031487513572204126,
-      "normalized_momentum": 0.049411764705882356,
-      "composite_score": 0.04,
+      "upvote_ratio": 0.94,
+      "engagement": 29,
+      "momentum": 4,
+      "normalized_engagement": 0.029914529914529916,
+      "normalized_momentum": 0.0462085308056872,
+      "composite_score": 0.038,
       "timeAgo": "7 hours ago"
     }
   ],
   "totalScanned": 21,
-  "fetchedAt": "2026-05-11T19:54:13.097Z",
-  "fetchTime": 21.8
+  "fetchedAt": "2026-05-11T20:09:39.179Z",
+  "fetchTime": 23.3
 }
