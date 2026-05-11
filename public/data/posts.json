@@ -11,11 +11,11 @@
       "num_comments": 25,
       "upvote_ratio": 0.98,
       "engagement": 512,
-      "momentum": 47.1,
+      "momentum": 46,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
-      "timeAgo": "10 hours ago"
+      "timeAgo": "11 hours ago"
     },
     {
       "id": "t3_1t9ivo0",
@@ -24,14 +24,31 @@
       "author": "Maveric0623",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1t9ivo0/aidesigned_parkinsons_therapy_receives/",
       "created_utc": 1778446991,
-      "score": 19,
+      "score": 18,
       "num_comments": 4,
       "upvote_ratio": 0.85,
-      "engagement": 27,
-      "momentum": 3.2,
-      "normalized_engagement": 0.050880626223091974,
-      "normalized_momentum": 0.06794055201698514,
-      "composite_score": 0.059,
+      "engagement": 26,
+      "momentum": 3,
+      "normalized_engagement": 0.04892367906066536,
+      "normalized_momentum": 0.06521739130434782,
+      "composite_score": 0.057,
+      "timeAgo": "8 hours ago"
+    },
+    {
+      "id": "t3_1t9jcc9",
+      "title": "Need Advice",
+      "subreddit": "r/Parkinsons",
+      "author": "Beautiful_Scene_1820",
+      "permalink": "https://www.reddit.com/r/Parkinsons/comments/1t9jcc9/need_advice/",
+      "created_utc": 1778448109,
+      "score": 14,
+      "num_comments": 2,
+      "upvote_ratio": 1,
+      "engagement": 18,
+      "momentum": 2.1,
+      "normalized_engagement": 0.033268101761252444,
+      "normalized_momentum": 0.04565217391304348,
+      "composite_score": 0.039,
       "timeAgo": "8 hours ago"
     },
     {
@@ -45,31 +62,14 @@
       "num_comments": 11,
       "upvote_ratio": 1,
       "engagement": 25,
-      "momentum": 1.5,
+      "momentum": 1.4,
       "normalized_engagement": 0.046966731898238745,
-      "normalized_momentum": 0.03184713375796178,
+      "normalized_momentum": 0.03043478260869565,
       "composite_score": 0.039,
       "timeAgo": "17 hours ago"
-    },
-    {
-      "id": "t3_1t9jcc9",
-      "title": "Need Advice",
-      "subreddit": "r/Parkinsons",
-      "author": "Beautiful_Scene_1820",
-      "permalink": "https://www.reddit.com/r/Parkinsons/comments/1t9jcc9/need_advice/",
-      "created_utc": 1778448109,
-      "score": 13,
-      "num_comments": 2,
-      "upvote_ratio": 1,
-      "engagement": 17,
-      "momentum": 2.1,
-      "normalized_engagement": 0.03131115459882583,
-      "normalized_momentum": 0.0445859872611465,
-      "composite_score": 0.038,
-      "timeAgo": "8 hours ago"
     }
   ],
   "totalScanned": 14,
-  "fetchedAt": "2026-05-11T05:30:13.794Z",
-  "fetchTime": 22.6
+  "fetchedAt": "2026-05-11T05:45:40.206Z",
+  "fetchTime": 23.1
 }
