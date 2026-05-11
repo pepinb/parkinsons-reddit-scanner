@@ -7,14 +7,14 @@
       "author": "yourfavchoom",
       "permalink": "https://www.reddit.com/r/HarryPotteronHBO/comments/1t9f1aj/katherine_parkinson_who_plays_molly_weasley_in/",
       "created_utc": 1778438258,
-      "score": 531,
+      "score": 528,
       "num_comments": 26,
       "upvote_ratio": 0.98,
-      "engagement": 583,
-      "momentum": 33.7,
+      "engagement": 580,
+      "momentum": 33,
       "normalized_engagement": 1,
-      "normalized_momentum": 0.5793103448275863,
-      "composite_score": 0.79,
+      "normalized_momentum": 0.5672413793103448,
+      "composite_score": 0.784,
       "timeAgo": "17 hours ago"
     },
     {
@@ -24,15 +24,15 @@
       "author": "Select_Resort_7267",
       "permalink": "https://www.reddit.com/r/UpliftingNews/comments/1t9xqg4/scientists_may_have_discovered_how_parkinsons/",
       "created_utc": 1778490259,
-      "score": 152,
+      "score": 167,
       "num_comments": 7,
       "upvote_ratio": 0.99,
-      "engagement": 166,
+      "engagement": 181,
       "momentum": 58.1,
-      "normalized_engagement": 0.28350515463917525,
+      "normalized_engagement": 0.31088082901554404,
       "normalized_momentum": 1,
-      "composite_score": 0.642,
-      "timeAgo": "2 hours ago"
+      "composite_score": 0.655,
+      "timeAgo": "3 hours ago"
     },
     {
       "id": "t3_1t9xm7e",
@@ -41,15 +41,15 @@
       "author": "Zord_boy",
       "permalink": "https://www.reddit.com/r/FromCircleJerk/comments/1t9xm7e/parkinson_and_miys_boytoy_everybody/",
       "created_utc": 1778489862,
-      "score": 43,
+      "score": 45,
       "num_comments": 3,
       "upvote_ratio": 1,
-      "engagement": 49,
-      "momentum": 16.5,
-      "normalized_engagement": 0.08247422680412371,
-      "normalized_momentum": 0.2827586206896551,
-      "composite_score": 0.183,
-      "timeAgo": "2 hours ago"
+      "engagement": 51,
+      "momentum": 15.8,
+      "normalized_engagement": 0.08635578583765112,
+      "normalized_momentum": 0.27068965517241383,
+      "composite_score": 0.179,
+      "timeAgo": "3 hours ago"
     },
     {
       "id": "t3_1t9ivo0",
@@ -58,18 +58,18 @@
       "author": "Maveric0623",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1t9ivo0/aidesigned_parkinsons_therapy_receives/",
       "created_utc": 1778446991,
-      "score": 23,
+      "score": 22,
       "num_comments": 5,
-      "upvote_ratio": 0.87,
-      "engagement": 33,
-      "momentum": 2.2,
-      "normalized_engagement": 0.054982817869415807,
-      "normalized_momentum": 0.03620689655172414,
-      "composite_score": 0.046,
-      "timeAgo": "14 hours ago"
+      "upvote_ratio": 0.85,
+      "engagement": 32,
+      "momentum": 2.1,
+      "normalized_engagement": 0.0535405872193437,
+      "normalized_momentum": 0.034482758620689655,
+      "composite_score": 0.044,
+      "timeAgo": "15 hours ago"
     }
   ],
-  "totalScanned": 15,
-  "fetchedAt": "2026-05-11T11:55:44.588Z",
-  "fetchTime": 22.5
+  "totalScanned": 17,
+  "fetchedAt": "2026-05-11T12:11:10.798Z",
+  "fetchTime": 24
 }
