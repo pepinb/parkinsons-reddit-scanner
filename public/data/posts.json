@@ -1,23 +1,6 @@
 {
   "posts": [
     {
-      "id": "t3_1t9xqg4",
-      "title": "Scientists May Have Discovered How Parkinson’s Disease Spreads Through the Brain",
-      "subreddit": "r/UpliftingNews",
-      "author": "Select_Resort_7267",
-      "permalink": "https://www.reddit.com/r/UpliftingNews/comments/1t9xqg4/scientists_may_have_discovered_how_parkinsons/",
-      "created_utc": 1778490259,
-      "score": 1464,
-      "num_comments": 22,
-      "upvote_ratio": 1,
-      "engagement": 1508,
-      "momentum": 63,
-      "normalized_engagement": 1,
-      "normalized_momentum": 1,
-      "composite_score": 1,
-      "timeAgo": "23 hours ago"
-    },
-    {
       "id": "t3_1tabf2p",
       "title": "Help me (pediatric slp) get ahead of my dad's Parkinsons",
       "subreddit": "r/slp",
@@ -26,13 +9,13 @@
       "created_utc": 1778523030,
       "score": 16,
       "num_comments": 19,
-      "upvote_ratio": 1,
+      "upvote_ratio": 0.95,
       "engagement": 54,
       "momentum": 3.6,
-      "normalized_engagement": 0.035169210351692105,
-      "normalized_momentum": 0.05564387917329094,
-      "composite_score": 0.045,
-      "timeAgo": "14 hours ago"
+      "normalized_engagement": 1,
+      "normalized_momentum": 1,
+      "composite_score": 1,
+      "timeAgo": "15 hours ago"
     },
     {
       "id": "t3_1talsrl",
@@ -41,14 +24,14 @@
       "author": "fireworks1985",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1talsrl/fatigue/",
       "created_utc": 1778546316,
-      "score": 11,
+      "score": 13,
       "num_comments": 9,
-      "upvote_ratio": 0.93,
-      "engagement": 29,
-      "momentum": 3.5,
-      "normalized_engagement": 0.0185799601857996,
-      "normalized_momentum": 0.05405405405405406,
-      "composite_score": 0.036,
+      "upvote_ratio": 1,
+      "engagement": 31,
+      "momentum": 3.6,
+      "normalized_engagement": 0.5660377358490566,
+      "normalized_momentum": 1,
+      "composite_score": 0.783,
       "timeAgo": "8 hours ago"
     },
     {
@@ -60,16 +43,33 @@
       "created_utc": 1778558166,
       "score": 16,
       "num_comments": 1,
-      "upvote_ratio": 0.81,
+      "upvote_ratio": 0.83,
       "engagement": 18,
-      "momentum": 3.5,
-      "normalized_engagement": 0.0112806901128069,
-      "normalized_momentum": 0.05405405405405406,
-      "composite_score": 0.033,
+      "momentum": 3.4,
+      "normalized_engagement": 0.32075471698113206,
+      "normalized_momentum": 0.9444444444444444,
+      "composite_score": 0.633,
       "timeAgo": "5 hours ago"
+    },
+    {
+      "id": "t3_1taabnh",
+      "title": "Prior ADHD diagnosis has a 33% higher risk of Parkinsons",
+      "subreddit": "r/PMHNP",
+      "author": "Big_Elephant_2331",
+      "permalink": "https://www.reddit.com/r/PMHNP/comments/1taabnh/prior_adhd_diagnosis_has_a_33_higher_risk_of/",
+      "created_utc": 1778520823,
+      "score": 20,
+      "num_comments": 5,
+      "upvote_ratio": 0.95,
+      "engagement": 30,
+      "momentum": 1.9,
+      "normalized_engagement": 0.5471698113207547,
+      "normalized_momentum": 0.5277777777777778,
+      "composite_score": 0.537,
+      "timeAgo": "15 hours ago"
     }
   ],
-  "totalScanned": 24,
-  "fetchedAt": "2026-05-12T09:00:55.901Z",
-  "fetchTime": 29.8
+  "totalScanned": 23,
+  "fetchedAt": "2026-05-12T09:16:22.037Z",
+  "fetchTime": 23.3
 }
