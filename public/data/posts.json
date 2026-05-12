@@ -11,10 +11,10 @@
       "num_comments": 19,
       "upvote_ratio": 1,
       "engagement": 56,
-      "momentum": 3.4,
+      "momentum": 3.3,
       "normalized_engagement": 1,
-      "normalized_momentum": 0.9714285714285714,
-      "composite_score": 0.986,
+      "normalized_momentum": 0.9428571428571428,
+      "composite_score": 0.971,
       "timeAgo": "16 hours ago"
     },
     {
@@ -45,11 +45,11 @@
       "num_comments": 1,
       "upvote_ratio": 0.84,
       "engagement": 19,
-      "momentum": 2.8,
+      "momentum": 2.7,
       "normalized_engagement": 0.32727272727272727,
-      "normalized_momentum": 0.7999999999999999,
-      "composite_score": 0.564,
-      "timeAgo": "6 hours ago"
+      "normalized_momentum": 0.7714285714285715,
+      "composite_score": 0.549,
+      "timeAgo": "7 hours ago"
     },
     {
       "id": "t3_1ta2dla",
@@ -66,10 +66,10 @@
       "normalized_engagement": 0.6181818181818182,
       "normalized_momentum": 0.4571428571428572,
       "composite_score": 0.538,
-      "timeAgo": "21 hours ago"
+      "timeAgo": "22 hours ago"
     }
   ],
   "totalScanned": 23,
-  "fetchedAt": "2026-05-12T10:48:51.225Z",
-  "fetchTime": 22.4
+  "fetchedAt": "2026-05-12T11:04:16.466Z",
+  "fetchTime": 22.8
 }
