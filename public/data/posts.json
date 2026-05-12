@@ -11,10 +11,10 @@
       "num_comments": 6,
       "upvote_ratio": 1,
       "engagement": 21,
-      "momentum": 14.2,
-      "normalized_engagement": 0.32786885245901637,
+      "momentum": 12.1,
+      "normalized_engagement": 0.3225806451612903,
       "normalized_momentum": 1,
-      "composite_score": 0.664,
+      "composite_score": 0.661,
       "timeAgo": "1 hour ago"
     },
     {
@@ -24,14 +24,14 @@
       "author": "jtslp",
       "permalink": "https://www.reddit.com/r/slp/comments/1tabf2p/help_me_pediatric_slp_get_ahead_of_my_dads/",
       "created_utc": 1778523030,
-      "score": 18,
+      "score": 19,
       "num_comments": 22,
       "upvote_ratio": 1,
-      "engagement": 62,
+      "engagement": 63,
       "momentum": 2.7,
       "normalized_engagement": 1,
-      "normalized_momentum": 0.19014084507042256,
-      "composite_score": 0.595,
+      "normalized_momentum": 0.22314049586776863,
+      "composite_score": 0.612,
       "timeAgo": "23 hours ago"
     },
     {
@@ -41,14 +41,14 @@
       "author": "inkstain99",
       "permalink": "https://www.reddit.com/r/CelebrityLookalikes/comments/1taq72e/uk_edition_katherine_parkinson_and_diane_morgan/",
       "created_utc": 1778558166,
-      "score": 33,
-      "num_comments": 7,
-      "upvote_ratio": 0.86,
-      "engagement": 47,
-      "momentum": 3.4,
-      "normalized_engagement": 0.7540983606557377,
-      "normalized_momentum": 0.23943661971830987,
-      "composite_score": 0.497,
+      "score": 32,
+      "num_comments": 8,
+      "upvote_ratio": 0.85,
+      "engagement": 48,
+      "momentum": 3.5,
+      "normalized_engagement": 0.7580645161290323,
+      "normalized_momentum": 0.2892561983471075,
+      "composite_score": 0.524,
       "timeAgo": "13 hours ago"
     },
     {
@@ -63,13 +63,13 @@
       "upvote_ratio": 1,
       "engagement": 41,
       "momentum": 2.4,
-      "normalized_engagement": 0.6557377049180327,
-      "normalized_momentum": 0.16901408450704225,
-      "composite_score": 0.412,
-      "timeAgo": "16 hours ago"
+      "normalized_engagement": 0.6451612903225806,
+      "normalized_momentum": 0.19834710743801653,
+      "composite_score": 0.422,
+      "timeAgo": "17 hours ago"
     }
   ],
-  "totalScanned": 19,
-  "fetchedAt": "2026-05-12T17:33:32.812Z",
-  "fetchTime": 21.7
+  "totalScanned": 18,
+  "fetchedAt": "2026-05-12T17:48:57.863Z",
+  "fetchTime": 21.9
 }
