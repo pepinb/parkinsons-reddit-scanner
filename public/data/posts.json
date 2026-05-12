@@ -1,38 +1,38 @@
 {
   "posts": [
     {
-      "id": "t3_1tabf2p",
-      "title": "Help me (pediatric slp) get ahead of my dad's Parkinsons",
-      "subreddit": "r/slp",
-      "author": "jtslp",
-      "permalink": "https://www.reddit.com/r/slp/comments/1tabf2p/help_me_pediatric_slp_get_ahead_of_my_dads/",
-      "created_utc": 1778523030,
-      "score": 18,
-      "num_comments": 21,
-      "upvote_ratio": 1,
-      "engagement": 60,
-      "momentum": 2.7,
-      "normalized_engagement": 1,
-      "normalized_momentum": 0.15000000000000002,
-      "composite_score": 0.575,
-      "timeAgo": "22 hours ago"
-    },
-    {
       "id": "t3_1tb62gm",
       "title": "Favorite Exercise Routine",
       "subreddit": "r/Parkinsons",
       "author": "Sorry-Pin6420",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1tb62gm/favorite_exercise_routine/",
       "created_utc": 1778601903,
-      "score": 5,
-      "num_comments": 2,
+      "score": 6,
+      "num_comments": 4,
       "upvote_ratio": 1,
-      "engagement": 9,
-      "momentum": 18,
-      "normalized_engagement": 0.13559322033898305,
+      "engagement": 14,
+      "momentum": 19.9,
+      "normalized_engagement": 0.22413793103448276,
       "normalized_momentum": 1,
-      "composite_score": 0.568,
-      "timeAgo": "26 minutes ago"
+      "composite_score": 0.612,
+      "timeAgo": "42 minutes ago"
+    },
+    {
+      "id": "t3_1tabf2p",
+      "title": "Help me (pediatric slp) get ahead of my dad's Parkinsons",
+      "subreddit": "r/slp",
+      "author": "jtslp",
+      "permalink": "https://www.reddit.com/r/slp/comments/1tabf2p/help_me_pediatric_slp_get_ahead_of_my_dads/",
+      "created_utc": 1778523030,
+      "score": 17,
+      "num_comments": 21,
+      "upvote_ratio": 0.96,
+      "engagement": 59,
+      "momentum": 2.6,
+      "normalized_engagement": 1,
+      "normalized_momentum": 0.1306532663316583,
+      "composite_score": 0.565,
+      "timeAgo": "22 hours ago"
     },
     {
       "id": "t3_1taq72e",
@@ -45,10 +45,10 @@
       "num_comments": 6,
       "upvote_ratio": 0.83,
       "engagement": 41,
-      "momentum": 3.3,
-      "normalized_engagement": 0.6779661016949152,
-      "normalized_momentum": 0.18333333333333332,
-      "composite_score": 0.431,
+      "momentum": 3.2,
+      "normalized_engagement": 0.6896551724137931,
+      "normalized_momentum": 0.16080402010050254,
+      "composite_score": 0.425,
       "timeAgo": "12 hours ago"
     },
     {
@@ -59,17 +59,17 @@
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1talsrl/fatigue/",
       "created_utc": 1778546316,
       "score": 15,
-      "num_comments": 12,
+      "num_comments": 13,
       "upvote_ratio": 1,
-      "engagement": 39,
+      "engagement": 41,
       "momentum": 2.5,
-      "normalized_engagement": 0.6440677966101694,
-      "normalized_momentum": 0.1388888888888889,
-      "composite_score": 0.391,
-      "timeAgo": "15 hours ago"
+      "normalized_engagement": 0.6896551724137931,
+      "normalized_momentum": 0.1256281407035176,
+      "composite_score": 0.408,
+      "timeAgo": "16 hours ago"
     }
   ],
-  "totalScanned": 23,
-  "fetchedAt": "2026-05-12T16:31:46.251Z",
-  "fetchTime": 22.1
+  "totalScanned": 20,
+  "fetchedAt": "2026-05-12T16:47:11.852Z",
+  "fetchTime": 23
 }
