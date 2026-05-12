@@ -13,8 +13,8 @@
       "engagement": 54,
       "momentum": 3.5,
       "normalized_engagement": 1,
-      "normalized_momentum": 0.9722222222222222,
-      "composite_score": 0.986,
+      "normalized_momentum": 0.8974358974358975,
+      "composite_score": 0.949,
       "timeAgo": "15 hours ago"
     },
     {
@@ -24,32 +24,32 @@
       "author": "fireworks1985",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1talsrl/fatigue/",
       "created_utc": 1778546316,
-      "score": 12,
-      "num_comments": 9,
-      "upvote_ratio": 0.94,
-      "engagement": 30,
-      "momentum": 3.4,
-      "normalized_engagement": 0.5471698113207547,
-      "normalized_momentum": 0.9444444444444444,
-      "composite_score": 0.746,
-      "timeAgo": "8 hours ago"
+      "score": 14,
+      "num_comments": 11,
+      "upvote_ratio": 1,
+      "engagement": 36,
+      "momentum": 3.9,
+      "normalized_engagement": 0.660377358490566,
+      "normalized_momentum": 1,
+      "composite_score": 0.83,
+      "timeAgo": "9 hours ago"
     },
     {
-      "id": "t3_1taq72e",
-      "title": "UK Edition: Katherine Parkinson and Diane Morgan",
-      "subreddit": "r/CelebrityLookalikes",
-      "author": "inkstain99",
-      "permalink": "https://www.reddit.com/r/CelebrityLookalikes/comments/1taq72e/uk_edition_katherine_parkinson_and_diane_morgan/",
-      "created_utc": 1778558166,
-      "score": 18,
+      "id": "t3_1ta2dla",
+      "title": "Novo closes deal with Cellular Intelligence for Parkinson’s cell therapy",
+      "subreddit": "r/NovoNordisk_Stock",
+      "author": "kiyomoris",
+      "permalink": "https://www.reddit.com/r/NovoNordisk_Stock/comments/1ta2dla/novo_closes_deal_with_cellular_intelligence_for/",
+      "created_utc": 1778503862,
+      "score": 32,
       "num_comments": 1,
-      "upvote_ratio": 0.85,
-      "engagement": 20,
-      "momentum": 3.6,
-      "normalized_engagement": 0.3584905660377358,
-      "normalized_momentum": 1,
-      "composite_score": 0.679,
-      "timeAgo": "5 hours ago"
+      "upvote_ratio": 0.97,
+      "engagement": 34,
+      "momentum": 1.6,
+      "normalized_engagement": 0.6226415094339622,
+      "normalized_momentum": 0.4102564102564103,
+      "composite_score": 0.516,
+      "timeAgo": "20 hours ago"
     },
     {
       "id": "t3_1taabnh",
@@ -62,14 +62,14 @@
       "num_comments": 5,
       "upvote_ratio": 0.95,
       "engagement": 30,
-      "momentum": 1.9,
+      "momentum": 1.8,
       "normalized_engagement": 0.5471698113207547,
-      "normalized_momentum": 0.5277777777777778,
-      "composite_score": 0.537,
-      "timeAgo": "15 hours ago"
+      "normalized_momentum": 0.46153846153846156,
+      "composite_score": 0.504,
+      "timeAgo": "16 hours ago"
     }
   ],
   "totalScanned": 23,
-  "fetchedAt": "2026-05-12T09:31:46.541Z",
-  "fetchTime": 21.3
+  "fetchedAt": "2026-05-12T09:47:11.154Z",
+  "fetchTime": 21.9
 }
