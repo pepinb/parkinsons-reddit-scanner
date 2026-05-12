@@ -7,15 +7,15 @@
       "author": "Select_Resort_7267",
       "permalink": "https://www.reddit.com/r/UpliftingNews/comments/1t9xqg4/scientists_may_have_discovered_how_parkinsons/",
       "created_utc": 1778490259,
-      "score": 1394,
-      "num_comments": 20,
+      "score": 1407,
+      "num_comments": 21,
       "upvote_ratio": 1,
-      "engagement": 1434,
-      "momentum": 65.5,
+      "engagement": 1449,
+      "momentum": 65.4,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
-      "timeAgo": "21 hours ago"
+      "timeAgo": "22 hours ago"
     },
     {
       "id": "t3_1t9xm7e",
@@ -28,11 +28,11 @@
       "num_comments": 20,
       "upvote_ratio": 1,
       "engagement": 251,
-      "momentum": 11.4,
-      "normalized_engagement": 0.17445917655268667,
-      "normalized_momentum": 0.172782874617737,
-      "composite_score": 0.174,
-      "timeAgo": "21 hours ago"
+      "momentum": 11.3,
+      "normalized_engagement": 0.17265193370165746,
+      "normalized_momentum": 0.17151607963246554,
+      "composite_score": 0.172,
+      "timeAgo": "22 hours ago"
     },
     {
       "id": "t3_1tabf2p",
@@ -43,13 +43,13 @@
       "created_utc": 1778523030,
       "score": 16,
       "num_comments": 19,
-      "upvote_ratio": 1,
+      "upvote_ratio": 0.95,
       "engagement": 54,
-      "momentum": 4.2,
-      "normalized_engagement": 0.03698534542916958,
-      "normalized_momentum": 0.06269113149847096,
-      "composite_score": 0.05,
-      "timeAgo": "12 hours ago"
+      "momentum": 4.1,
+      "normalized_engagement": 0.03660220994475138,
+      "normalized_momentum": 0.06125574272588053,
+      "composite_score": 0.049,
+      "timeAgo": "13 hours ago"
     },
     {
       "id": "t3_1talsrl",
@@ -58,18 +58,18 @@
       "author": "fireworks1985",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1talsrl/fatigue/",
       "created_utc": 1778546316,
-      "score": 13,
+      "score": 12,
       "num_comments": 9,
-      "upvote_ratio": 1,
-      "engagement": 31,
-      "momentum": 4.9,
-      "normalized_engagement": 0.0209351011863224,
-      "normalized_momentum": 0.07339449541284404,
-      "composite_score": 0.047,
+      "upvote_ratio": 0.94,
+      "engagement": 30,
+      "momentum": 4.6,
+      "normalized_engagement": 0.020027624309392266,
+      "normalized_momentum": 0.0689127105666156,
+      "composite_score": 0.044,
       "timeAgo": "6 hours ago"
     }
   ],
   "totalScanned": 25,
-  "fetchedAt": "2026-05-12T06:57:29.107Z",
-  "fetchTime": 22
+  "fetchedAt": "2026-05-12T07:12:53.713Z",
+  "fetchTime": 21.6
 }
