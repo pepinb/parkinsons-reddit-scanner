@@ -9,12 +9,12 @@
       "created_utc": 1778523030,
       "score": 16,
       "num_comments": 19,
-      "upvote_ratio": 0.95,
+      "upvote_ratio": 1,
       "engagement": 54,
-      "momentum": 3.6,
+      "momentum": 3.5,
       "normalized_engagement": 1,
-      "normalized_momentum": 1,
-      "composite_score": 1,
+      "normalized_momentum": 0.9722222222222222,
+      "composite_score": 0.986,
       "timeAgo": "15 hours ago"
     },
     {
@@ -24,14 +24,14 @@
       "author": "fireworks1985",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1talsrl/fatigue/",
       "created_utc": 1778546316,
-      "score": 13,
+      "score": 12,
       "num_comments": 9,
-      "upvote_ratio": 1,
-      "engagement": 31,
-      "momentum": 3.6,
-      "normalized_engagement": 0.5660377358490566,
-      "normalized_momentum": 1,
-      "composite_score": 0.783,
+      "upvote_ratio": 0.94,
+      "engagement": 30,
+      "momentum": 3.4,
+      "normalized_engagement": 0.5471698113207547,
+      "normalized_momentum": 0.9444444444444444,
+      "composite_score": 0.746,
       "timeAgo": "8 hours ago"
     },
     {
@@ -41,14 +41,14 @@
       "author": "inkstain99",
       "permalink": "https://www.reddit.com/r/CelebrityLookalikes/comments/1taq72e/uk_edition_katherine_parkinson_and_diane_morgan/",
       "created_utc": 1778558166,
-      "score": 16,
+      "score": 18,
       "num_comments": 1,
-      "upvote_ratio": 0.83,
-      "engagement": 18,
-      "momentum": 3.4,
-      "normalized_engagement": 0.32075471698113206,
-      "normalized_momentum": 0.9444444444444444,
-      "composite_score": 0.633,
+      "upvote_ratio": 0.85,
+      "engagement": 20,
+      "momentum": 3.6,
+      "normalized_engagement": 0.3584905660377358,
+      "normalized_momentum": 1,
+      "composite_score": 0.679,
       "timeAgo": "5 hours ago"
     },
     {
@@ -70,6 +70,6 @@
     }
   ],
   "totalScanned": 23,
-  "fetchedAt": "2026-05-12T09:16:22.037Z",
-  "fetchTime": 23.3
+  "fetchedAt": "2026-05-12T09:31:46.541Z",
+  "fetchTime": 21.3
 }
