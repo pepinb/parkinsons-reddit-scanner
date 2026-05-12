@@ -7,14 +7,14 @@
       "author": "inkstain99",
       "permalink": "https://www.reddit.com/r/CelebrityLookalikes/comments/1taq72e/uk_edition_katherine_parkinson_and_diane_morgan/",
       "created_utc": 1778558166,
-      "score": 37,
+      "score": 32,
       "num_comments": 8,
-      "upvote_ratio": 0.88,
-      "engagement": 53,
-      "momentum": 3.5,
+      "upvote_ratio": 0.85,
+      "engagement": 48,
+      "momentum": 3.1,
       "normalized_engagement": 1,
-      "normalized_momentum": 0.2868852459016394,
-      "composite_score": 0.643,
+      "normalized_momentum": 0.2818181818181818,
+      "composite_score": 0.641,
       "timeAgo": "15 hours ago"
     },
     {
@@ -25,14 +25,14 @@
       "permalink": "https://www.reddit.com/r/Transcription/comments/1tba3ri/this_is_inscription_from_osbert_sitwell_in_1st/",
       "created_utc": 1778610168,
       "score": 4,
-      "num_comments": 2,
+      "num_comments": 3,
       "upvote_ratio": 1,
-      "engagement": 8,
-      "momentum": 12.2,
-      "normalized_engagement": 0.1346153846153846,
+      "engagement": 10,
+      "momentum": 11,
+      "normalized_engagement": 0.19148936170212766,
       "normalized_momentum": 1,
-      "composite_score": 0.567,
-      "timeAgo": "39 minutes ago"
+      "composite_score": 0.596,
+      "timeAgo": "54 minutes ago"
     },
     {
       "id": "t3_1tb62gm",
@@ -45,11 +45,11 @@
       "num_comments": 6,
       "upvote_ratio": 0.93,
       "engagement": 23,
-      "momentum": 7.8,
-      "normalized_engagement": 0.4230769230769231,
-      "normalized_momentum": 0.639344262295082,
-      "composite_score": 0.531,
-      "timeAgo": "2 hours ago"
+      "momentum": 7.2,
+      "normalized_engagement": 0.46808510638297873,
+      "normalized_momentum": 0.6545454545454545,
+      "composite_score": 0.561,
+      "timeAgo": "3 hours ago"
     },
     {
       "id": "t3_1talsrl",
@@ -58,18 +58,18 @@
       "author": "fireworks1985",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1talsrl/fatigue/",
       "created_utc": 1778546316,
-      "score": 16,
+      "score": 15,
       "num_comments": 13,
       "upvote_ratio": 1,
-      "engagement": 42,
-      "momentum": 2.3,
-      "normalized_engagement": 0.7884615384615384,
-      "normalized_momentum": 0.1885245901639344,
-      "composite_score": 0.488,
+      "engagement": 41,
+      "momentum": 2.2,
+      "normalized_engagement": 0.851063829787234,
+      "normalized_momentum": 0.2,
+      "composite_score": 0.526,
       "timeAgo": "18 hours ago"
     }
   ],
   "totalScanned": 19,
-  "fetchedAt": "2026-05-12T19:02:02.747Z",
-  "fetchTime": 22.6
+  "fetchedAt": "2026-05-12T19:17:28.119Z",
+  "fetchTime": 22.7
 }
