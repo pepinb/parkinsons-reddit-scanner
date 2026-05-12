@@ -11,7 +11,7 @@
       "num_comments": 19,
       "upvote_ratio": 1,
       "engagement": 1338,
-      "momentum": 69.3,
+      "momentum": 68.4,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
@@ -24,14 +24,14 @@
       "author": "Zord_boy",
       "permalink": "https://www.reddit.com/r/FromCircleJerk/comments/1t9xm7e/parkinson_and_miys_boytoy_everybody/",
       "created_utc": 1778489862,
-      "score": 201,
+      "score": 203,
       "num_comments": 17,
       "upvote_ratio": 1,
-      "engagement": 235,
-      "momentum": 12.1,
-      "normalized_engagement": 0.175018698578908,
-      "normalized_momentum": 0.17341040462427745,
-      "composite_score": 0.174,
+      "engagement": 237,
+      "momentum": 12,
+      "normalized_engagement": 0.17651458489154825,
+      "normalized_momentum": 0.17423133235724741,
+      "composite_score": 0.175,
       "timeAgo": "19 hours ago"
     },
     {
@@ -41,15 +41,15 @@
       "author": "inkstain99",
       "permalink": "https://www.reddit.com/r/CelebrityLookalikes/comments/1taq72e/uk_edition_katherine_parkinson_and_diane_morgan/",
       "created_utc": 1778558166,
-      "score": 5,
+      "score": 8,
       "num_comments": 1,
-      "upvote_ratio": 0.73,
-      "engagement": 7,
-      "momentum": 14,
-      "normalized_engagement": 0.004487658937920718,
-      "normalized_momentum": 0.20086705202312138,
-      "composite_score": 0.103,
-      "timeAgo": "27 minutes ago"
+      "upvote_ratio": 0.79,
+      "engagement": 10,
+      "momentum": 14.1,
+      "normalized_engagement": 0.006731488406881077,
+      "normalized_momentum": 0.2049780380673499,
+      "composite_score": 0.106,
+      "timeAgo": "42 minutes ago"
     },
     {
       "id": "t3_1talsrl",
@@ -62,14 +62,14 @@
       "num_comments": 9,
       "upvote_ratio": 1,
       "engagement": 30,
-      "momentum": 8,
+      "momentum": 7.5,
       "normalized_engagement": 0.02169035153328347,
-      "normalized_momentum": 0.11416184971098266,
-      "composite_score": 0.068,
-      "timeAgo": "3 hours ago"
+      "normalized_momentum": 0.10834553440702781,
+      "composite_score": 0.065,
+      "timeAgo": "4 hours ago"
     }
   ],
   "totalScanned": 24,
-  "fetchedAt": "2026-05-12T04:23:18.379Z",
-  "fetchTime": 21.9
+  "fetchedAt": "2026-05-12T04:38:43.106Z",
+  "fetchTime": 22.4
 }
