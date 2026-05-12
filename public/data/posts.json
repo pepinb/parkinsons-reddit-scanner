@@ -13,9 +13,9 @@
       "engagement": 58,
       "momentum": 2.9,
       "normalized_engagement": 1,
-      "normalized_momentum": 0.9666666666666667,
-      "composite_score": 0.983,
-      "timeAgo": "19 hours ago"
+      "normalized_momentum": 1,
+      "composite_score": 1,
+      "timeAgo": "20 hours ago"
     },
     {
       "id": "t3_1talsrl",
@@ -24,14 +24,14 @@
       "author": "fireworks1985",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1talsrl/fatigue/",
       "created_utc": 1778546316,
-      "score": 15,
+      "score": 16,
       "num_comments": 12,
       "upvote_ratio": 1,
-      "engagement": 39,
+      "engagement": 40,
       "momentum": 2.9,
-      "normalized_engagement": 0.6666666666666666,
-      "normalized_momentum": 0.9666666666666667,
-      "composite_score": 0.817,
+      "normalized_engagement": 0.6842105263157895,
+      "normalized_momentum": 1,
+      "composite_score": 0.842,
       "timeAgo": "13 hours ago"
     },
     {
@@ -41,14 +41,14 @@
       "author": "inkstain99",
       "permalink": "https://www.reddit.com/r/CelebrityLookalikes/comments/1taq72e/uk_edition_katherine_parkinson_and_diane_morgan/",
       "created_utc": 1778558166,
-      "score": 25,
-      "num_comments": 3,
-      "upvote_ratio": 0.85,
-      "engagement": 31,
-      "momentum": 3,
-      "normalized_engagement": 0.5263157894736842,
+      "score": 22,
+      "num_comments": 4,
+      "upvote_ratio": 0.82,
+      "engagement": 30,
+      "momentum": 2.9,
+      "normalized_engagement": 0.5087719298245614,
       "normalized_momentum": 1,
-      "composite_score": 0.763,
+      "composite_score": 0.754,
       "timeAgo": "10 hours ago"
     },
     {
@@ -64,12 +64,12 @@
       "engagement": 18,
       "momentum": 2.1,
       "normalized_engagement": 0.2982456140350877,
-      "normalized_momentum": 0.7000000000000001,
-      "composite_score": 0.499,
+      "normalized_momentum": 0.7241379310344828,
+      "composite_score": 0.511,
       "timeAgo": "8 hours ago"
     }
   ],
   "totalScanned": 20,
-  "fetchedAt": "2026-05-12T14:09:16.806Z",
-  "fetchTime": 22.8
+  "fetchedAt": "2026-05-12T14:24:42.704Z",
+  "fetchTime": 22.4
 }
