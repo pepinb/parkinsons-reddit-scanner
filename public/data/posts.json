@@ -7,14 +7,14 @@
       "author": "jtslp",
       "permalink": "https://www.reddit.com/r/slp/comments/1tabf2p/help_me_pediatric_slp_get_ahead_of_my_dads/",
       "created_utc": 1778523030,
-      "score": 17,
+      "score": 18,
       "num_comments": 19,
-      "upvote_ratio": 0.96,
-      "engagement": 55,
+      "upvote_ratio": 1,
+      "engagement": 56,
       "momentum": 3.2,
       "normalized_engagement": 1,
-      "normalized_momentum": 0.9696969696969698,
-      "composite_score": 0.985,
+      "normalized_momentum": 0.9411764705882354,
+      "composite_score": 0.971,
       "timeAgo": "17 hours ago"
     },
     {
@@ -24,15 +24,15 @@
       "author": "fireworks1985",
       "permalink": "https://www.reddit.com/r/Parkinsons/comments/1talsrl/fatigue/",
       "created_utc": 1778546316,
-      "score": 14,
+      "score": 16,
       "num_comments": 11,
       "upvote_ratio": 1,
-      "engagement": 36,
-      "momentum": 3.3,
-      "normalized_engagement": 0.6481481481481481,
+      "engagement": 38,
+      "momentum": 3.4,
+      "normalized_engagement": 0.6727272727272727,
       "normalized_momentum": 1,
-      "composite_score": 0.824,
-      "timeAgo": "10 hours ago"
+      "composite_score": 0.836,
+      "timeAgo": "11 hours ago"
     },
     {
       "id": "t3_1taq72e",
@@ -43,12 +43,12 @@
       "created_utc": 1778558166,
       "score": 18,
       "num_comments": 1,
-      "upvote_ratio": 0.85,
+      "upvote_ratio": 0.83,
       "engagement": 20,
-      "momentum": 2.6,
-      "normalized_engagement": 0.35185185185185186,
-      "normalized_momentum": 0.787878787878788,
-      "composite_score": 0.57,
+      "momentum": 2.5,
+      "normalized_engagement": 0.34545454545454546,
+      "normalized_momentum": 0.7352941176470589,
+      "composite_score": 0.54,
       "timeAgo": "7 hours ago"
     },
     {
@@ -63,13 +63,13 @@
       "upvote_ratio": 0.97,
       "engagement": 34,
       "momentum": 1.5,
-      "normalized_engagement": 0.6111111111111112,
-      "normalized_momentum": 0.4545454545454546,
-      "composite_score": 0.533,
+      "normalized_engagement": 0.6,
+      "normalized_momentum": 0.4411764705882353,
+      "composite_score": 0.521,
       "timeAgo": "22 hours ago"
     }
   ],
   "totalScanned": 23,
-  "fetchedAt": "2026-05-12T11:35:05.594Z",
-  "fetchTime": 22
+  "fetchedAt": "2026-05-12T11:50:31.050Z",
+  "fetchTime": 23.1
 }
