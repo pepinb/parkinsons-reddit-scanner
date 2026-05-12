@@ -15,7 +15,7 @@
       "normalized_engagement": 1,
       "normalized_momentum": 0.96875,
       "composite_score": 0.984,
-      "timeAgo": "17 hours ago"
+      "timeAgo": "18 hours ago"
     },
     {
       "id": "t3_1talsrl",
@@ -41,35 +41,35 @@
       "author": "inkstain99",
       "permalink": "https://www.reddit.com/r/CelebrityLookalikes/comments/1taq72e/uk_edition_katherine_parkinson_and_diane_morgan/",
       "created_utc": 1778558166,
-      "score": 20,
-      "num_comments": 1,
-      "upvote_ratio": 0.86,
+      "score": 18,
+      "num_comments": 2,
+      "upvote_ratio": 0.81,
       "engagement": 22,
-      "momentum": 2.7,
+      "momentum": 2.6,
       "normalized_engagement": 0.38181818181818183,
-      "normalized_momentum": 0.84375,
-      "composite_score": 0.613,
+      "normalized_momentum": 0.8125,
+      "composite_score": 0.597,
       "timeAgo": "8 hours ago"
     },
     {
-      "id": "t3_1taabnh",
-      "title": "Prior ADHD diagnosis has a 33% higher risk of Parkinsons",
-      "subreddit": "r/PMHNP",
-      "author": "Big_Elephant_2331",
-      "permalink": "https://www.reddit.com/r/PMHNP/comments/1taabnh/prior_adhd_diagnosis_has_a_33_higher_risk_of/",
-      "created_utc": 1778520823,
-      "score": 19,
-      "num_comments": 5,
-      "upvote_ratio": 0.91,
-      "engagement": 29,
-      "momentum": 1.6,
-      "normalized_engagement": 0.509090909090909,
-      "normalized_momentum": 0.5,
-      "composite_score": 0.505,
-      "timeAgo": "18 hours ago"
+      "id": "t3_1ta2dla",
+      "title": "Novo closes deal with Cellular Intelligence for Parkinson’s cell therapy",
+      "subreddit": "r/NovoNordisk_Stock",
+      "author": "kiyomoris",
+      "permalink": "https://www.reddit.com/r/NovoNordisk_Stock/comments/1ta2dla/novo_closes_deal_with_cellular_intelligence_for/",
+      "created_utc": 1778503862,
+      "score": 32,
+      "num_comments": 1,
+      "upvote_ratio": 0.97,
+      "engagement": 34,
+      "momentum": 1.4,
+      "normalized_engagement": 0.6,
+      "normalized_momentum": 0.43749999999999994,
+      "composite_score": 0.519,
+      "timeAgo": "23 hours ago"
     }
   ],
   "totalScanned": 22,
-  "fetchedAt": "2026-05-12T12:05:55.056Z",
-  "fetchTime": 21.6
+  "fetchedAt": "2026-05-12T12:21:19.531Z",
+  "fetchTime": 22.2
 }
