@@ -7,11 +7,11 @@
       "author": "Select_Resort_7267",
       "permalink": "https://www.reddit.com/r/UpliftingNews/comments/1t9xqg4/scientists_may_have_discovered_how_parkinsons/",
       "created_utc": 1778490259,
-      "score": 1241,
+      "score": 1247,
       "num_comments": 19,
       "upvote_ratio": 1,
-      "engagement": 1279,
-      "momentum": 70.9,
+      "engagement": 1285,
+      "momentum": 70.3,
       "normalized_engagement": 1,
       "normalized_momentum": 1,
       "composite_score": 1,
@@ -24,14 +24,14 @@
       "author": "Zord_boy",
       "permalink": "https://www.reddit.com/r/FromCircleJerk/comments/1t9xm7e/parkinson_and_miys_boytoy_everybody/",
       "created_utc": 1778489862,
-      "score": 185,
+      "score": 188,
       "num_comments": 16,
       "upvote_ratio": 0.99,
-      "engagement": 217,
+      "engagement": 220,
       "momentum": 12,
-      "normalized_engagement": 0.16901408450704225,
-      "normalized_momentum": 0.1692524682651622,
-      "composite_score": 0.169,
+      "normalized_engagement": 0.1705607476635514,
+      "normalized_momentum": 0.17069701280227598,
+      "composite_score": 0.171,
       "timeAgo": "18 hours ago"
     },
     {
@@ -45,10 +45,10 @@
       "num_comments": 8,
       "upvote_ratio": 1,
       "engagement": 25,
-      "momentum": 10.2,
-      "normalized_engagement": 0.018779342723004695,
-      "normalized_momentum": 0.14386459802538784,
-      "composite_score": 0.081,
+      "momentum": 9.2,
+      "normalized_engagement": 0.018691588785046728,
+      "normalized_momentum": 0.13086770981507823,
+      "composite_score": 0.075,
       "timeAgo": "2 hours ago"
     },
     {
@@ -60,16 +60,16 @@
       "created_utc": 1778523030,
       "score": 16,
       "num_comments": 19,
-      "upvote_ratio": 1,
+      "upvote_ratio": 0.95,
       "engagement": 54,
-      "momentum": 6,
-      "normalized_engagement": 0.041471048513302036,
-      "normalized_momentum": 0.0846262341325811,
+      "momentum": 5.9,
+      "normalized_engagement": 0.04127725856697819,
+      "normalized_momentum": 0.08392603129445235,
       "composite_score": 0.063,
-      "timeAgo": "8 hours ago"
+      "timeAgo": "9 hours ago"
     }
   ],
   "totalScanned": 23,
-  "fetchedAt": "2026-05-12T03:06:12.822Z",
-  "fetchTime": 21.9
+  "fetchedAt": "2026-05-12T03:21:37.708Z",
+  "fetchTime": 22.3
 }
